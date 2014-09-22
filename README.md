@@ -37,12 +37,13 @@ et aujourd'hui le développement d'une librairie d'outil (et de transfert de tec
 
 
 ## Exemple de visualisation avec différents services
-(on montre ainsi qu'on est agnostique sur les datas)
-    - ex. Telemeta - chaine intégrée, et donc librairies potentiellement intégrable dans une chaîne existante,
-    - ex. un exemple de Norbert (y compris un exemple de mubu ? pour montrer l'intégration dans le web de ce type d'interface, et comment il n'y a pas besoin de réinventer la roue pour les boutons... qui sont dans le navigateur, les standards)
-    - ex. Bachoteque (issu d'algo de recherche et visualisé dans le navigateur)
-    - ex. avec les opérations élémentaires directement SUR GITHUB (segment-vis)
-    - ex. the Echo NEst : provider potentiel de données que l'on visualise / édite
+_(on montre ainsi qu'on est agnostique sur les datas)_
+
+- Telemeta - chaine intégrée, et donc librairies potentiellement intégrable dans une chaîne existante,
+- un exemple de Norbert (y compris un exemple de mubu ? pour montrer l'intégration dans le web de ce type d'interface, et comment il n'y a pas besoin de réinventer la roue pour les boutons... qui sont dans le navigateur, les standards)
+- Bachoteque (issu d'algo de recherche et visualisé dans le navigateur)
+- Edition: avec les opérations élémentaires directement SUR GITHUB (segment-vis)
+- Echo NEst : provider potentiel de données que l'on visualise / édite
 
 A la fois un outil pour la recherche
 Et pour la mise à disposition des résultats de recherche (directement accessible, standard, un navigateur suffit)

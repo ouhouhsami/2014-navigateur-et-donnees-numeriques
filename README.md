@@ -56,7 +56,7 @@ On s'interesse à des flux audio / vidéo que l'on va manipuler côté client, i
 
 Co-existance des deux fournisseur de contenu : le serveur et/ou le client, donc les outils de visualisations doivent être adaptés à ces multiples usages combinés (notamment le cas du mashup <!-- ex. de récupération de BPM depuis echo nest et d'affichage de ces données sur le fichier audio disponible côté client -->).
 
-## Le projet de recherche technologique WAVE (ANR ContInt 2012-2015)
+### Le projet de recherche technologique WAVE (ANR ContInt 2012-2015)
 
 Des opérations d'annotation qui ont été explorées initialement dans le cadre du projet Ecoute Signées, qui ont donné lieu à des prototypes,
 et aujourd'hui le développement d'une librairie d'outil et des transferts de technologies audionumériques vers le navigateur dans le cadre du projet [WAVE](http://wave.ircam.fr).

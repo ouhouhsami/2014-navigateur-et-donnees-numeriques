@@ -1,14 +1,37 @@
 # Visualisation et transformation de données audionumériques dans le navigateur web
 
+
+Samuel Goldszmidt - Victor Saiz (Ircam)
+2e rencontres sur les bases de données et les ressources numériques
+26 septembre 2014, Ircam
+
+
 ## Introduction
 
-Rappels sur la présentation de l'an passé
-* des base de données Brahms / Sidney / Medias
-* interopérables API Restfull
-* adaptées aux usages
-* adresse des données numériques dans leur intégralité (un fichier son, une vidéo, une biographie de compositeur, un parcours de l'œuvre ...)
+Rappels sur la présentation de l'an passé "Brahms, Sidney et Archiprod : des données communes et des bases différentes"
+* Des bases de données
+    * [Brahms](http://brahms.ircam.fr)
+    * [Sidney](http://brahms.ircam.fr/sidney/)
+    * [Medias](http://medias.ircam.fr)
+* Adaptées aux usages et contenus
+    * ex.1 Thésaurus pour les dispositifs électroniques
+    * ex.2 Effectif détaillé adapté aux musiques contemporaines
+    * ...
+* Interopérabilités
+    * entre machines API RESTful, OAI
+    * ou manuellement (intégration de contenu dans des systèmes tiers, ex. exports vidéos de Medias.ircam.fr)
 
-<!-- Sidney" spécifique pour la conservation des œuvres ircam de musique mixte -->
+* "Expose" des données numériques dans leur intégralité :
+    * une biographie de compositeur
+    * un parcours de l'œuvre
+    * un enregistrement sonore
+    * une vidéo
+    * ...
+
+Comment appréhender un sous-ensemble de ces données, celles temporelles, principalement audionumériques, et aller plus en avant dans leur représentation ?
+* Visualiser un flux
+* Visualiser des métadonnées
+* Manipuler les métadonnées <!-- comme on pourrait manipuler un texte par exemplz -->
 
 ### Des bases de données numériques vers l'exploitation des données
 

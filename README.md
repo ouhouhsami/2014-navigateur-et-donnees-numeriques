@@ -30,7 +30,7 @@ Rappels sur la présentation de l'an passé "Brahms, Sidney et Archiprod : des d
     * une vidéo
     * ...
 
-### Des bases de données numériques vers la manipulation de ces données
+## Des bases de données numériques vers la manipulation de ces données
 
 Comment appréhender un sous-ensemble de ces données numériques, celles temporelles, principalement audionumériques, et aller plus en avant dans leur représentation ?
 * Visualiser un flux <!-- par rapport à l'entendre, lorsque la machine le décode -->
@@ -40,14 +40,14 @@ Comment appréhender un sous-ensemble de ces données numériques, celles tempor
 
 On s'interesse à des flux audio / vidéo que l'on va manipuler côté client, ie. dans la navigateur web.
 
-Pourquoi le navigateur ?
+## Pourquoi le navigateur ?
+
 * Techniquement, c'est aujourd'hui le plus petit commun dénominateur à nos échanges sur Internet <!-- depuis nos appareils connectés, smartphone, tablet etc. -->
 * Outil de consultation, de partage de connaissance
 * Outil d'édition, de travail sur les données et métadonnées, y compris d'expérimentation
 * Les données sont disponibles a minima côté client, lorsque l'on a pas accès à un serveur, que l'on fait des *mashup* (Applications composites)
 
-
-## Quelles données (audio)numériques accessibles ?
+### Quelles données (audio)numériques accessibles ?
 
 * Des service web via "API RESTful" ou autres ([The Echo Nest](http://the.echonest.com/), metadonnées sur la musique ...)
 * Des calculs côté client ([Web Audio API](http://webaudio.github.io/web-audio-api/))
@@ -56,7 +56,7 @@ Pourquoi le navigateur ?
 
 Co-existance des deux fournisseur de contenu : le serveur et/ou le client, donc les outils de visualisations doivent être adaptés à ces multiples usages combinés (notamment le cas du mashup <!-- ex. de récupération de BPM depuis echo nest et d'affichage de ces données sur le fichier audio disponible côté client -->).
 
-### Le projet de recherche technologique WAVE (ANR ContInt 2012-2015)
+## Le projet de recherche technologique WAVE (ANR ContInt 2012-2015)
 
 Des opérations d'annotation qui ont été explorées initialement dans le cadre du projet Ecoute Signées, qui ont donné lieu à des prototypes,
 et aujourd'hui le développement d'une librairie d'outil et des transferts de technologies audionumériques vers le navigateur dans le cadre du projet [WAVE](http://wave.ircam.fr).

@@ -28,35 +28,36 @@ Rappels sur la présentation de l'an passé "Brahms, Sidney et Archiprod : des d
     * une vidéo
     * ...
 
-Comment appréhender un sous-ensemble de ces données, celles temporelles, principalement audionumériques, et aller plus en avant dans leur représentation ?
-* Visualiser un flux
-* Visualiser des métadonnées
-* Manipuler les métadonnées <!-- comme on pourrait manipuler un texte par exemplz -->
+### Des bases de données numériques vers la manipulation de ces données
 
-### Des bases de données numériques vers l'exploitation des données
+Comment appréhender un sous-ensemble de ces données numériques, celles temporelles, principalement audionumériques, et aller plus en avant dans leur représentation ?
+* Visualiser un flux <!-- par rapport à l'entendre, lorsque la machine le décode -->
+* Visualiser des métadonnées <!-- pistes d'un cd, index, segment ...-->
+* Manipuler les métadonnées <!-- et l'adresser par des sous-ensemble -->
+* Manipuler un flux <!-- comme on pourrait manipuler un texte par exemple, de façon sonore ou par manipulation graphique qui ont des conséquences sur le rendu audio -->
 
-On s'interesse à des des flux audio / video que l'on va les manipuler côté client, ie. dans la navigateur web.
-Le navigateur :
-* outil de consultation
-* outil d'édition, outil de travail des données (et outil de partage de connaissance, d'expérimentation)
+On s'interesse à des flux audio / vidéo que l'on va manipuler côté client, ie. dans la navigateur web.
 
-## Les données (audio)numériques accessibles aujourdhui
+Pourquoi le navigateur ?
+* Techniquement, c'est aujourd'hui le plus petit commun dénominateur à nos échanges sur Internet <!-- depuis nos appareils connectés, smartphone, tablet etc. -->
+* Outil de consultation, de partage de connaissance
+* Outil d'édition, de travail sur les données et métadonnées, y compris d'expérimentation
+* Les données sont disponibles a minima côté client, lorsque l'on a pas accès à un serveur, que l'on fait des *mashup* (Applications composites)
 
-* par un service web (The Echo Nest, metadonnées sur la musique)
-* par un calcul côté client (Web Audio API)
 
-Ce que ça peut vous apporter :
-* comprendre le contenu numérique (détail des sample)
-* toute la connaissance en traitement du signal disponible dans un navigateur respectueux des standards,
+## Quelles données (audio)numériques accessibles ?
 
-côté client : on peut visualiser des choses clientes et provenant de serveurs.
+* Des service web via "API RESTful" ou autres ([The Echo Nest](http://the.echonest.com/), metadonnées sur la musique ...)
+* Des calculs côté client ([Web Audio API](http://webaudio.github.io/web-audio-api/))
+    * Ce que cela fournit : un accès au détail du contenu numérique (détail des échantillons), et donc toute la connaissance en traitement du signal disponible dans un navigateur respectueux des standards
 
-Co-existance des deux modèles, donc les outils de visualisations doivent être adaptés à ces multiples usages, notamment le cas du mashup.
 
-### Le projet technologique
+Co-existance des deux fournisseur de contenu : le serveur et/ou le client, donc les outils de visualisations doivent être adaptés à ces multiples usages combinés (notamment le cas du mashup <!-- ex. de récupération de BPM depuis echo nest et d'affichage de ces données sur le fichier audio disponible côté client -->).
 
-Des opérations d'annotation qui ont été explorées initialement dans le cadres du projet Ecoute Signées, qui ont donné lieu à des prototypes,
-et aujourd'hui le développement d'une librairie d'outil (et de transfert de technologies) dans le cadre du projet WAVE. (http://wave.ircam.fr)
+### Le projet de recherche technologique WAVE (ANR 2012-2015)
+
+Des opérations d'annotation qui ont été explorées initialement dans le cadre du projet Ecoute Signées, qui ont donné lieu à des prototypes,
+et aujourd'hui le développement d'une librairie d'outil et des transferts de technologies audionumériques vers le navigateur dans le cadre du projet [WAVE](http://wave.ircam.fr).
 
 
 ## Exemple de visualisation avec différents services
@@ -79,3 +80,5 @@ Idée d'intégration à un wordpress (ou tout autre widget)
 * Librairies disponible sur github https://github.com/Ircam-RnD
 * Performance du navigateur
 * Question ouverte => Comment on organiser la sauvegarde du mahsup - (RDF ex.)
+
+* Pour en savoir plus, la Web Audio Conference : http://wac.ircam.fr, 26/27 Janvier 2015 à l'Ircam.

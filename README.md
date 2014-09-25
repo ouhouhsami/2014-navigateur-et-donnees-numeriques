@@ -167,7 +167,7 @@ Les visualisation intéragissent avec les élements de la page (dans ce cas la b
 
 Démonstrateur d'opérations primitives des outils de la librairie WAVE. (_C.R.U.D._)
 
-Les données peuvent être <a class="keep-selection delete" name="delete"> éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une `API` javascript.
+Les données peuvent être <a class="keep-selection delete" name="delete"> éliminées</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutées</a> facilement à travers une `API` javascript.
 
 <div class="demo">
   <div class="timeline-editing"></div>

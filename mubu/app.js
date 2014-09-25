@@ -6,7 +6,7 @@
     // }, err, function(progress){});
 
     var request = new XMLHttpRequest();
-    request.open("GET", '/snd/mindbox.wav', true);
+    request.open("GET", 'snd/mindbox.wav', true);
     request.responseType = "arraybuffer";
     request.addEventListener('load', function() {
       audioContext.decodeAudioData(this.response, function(b) {

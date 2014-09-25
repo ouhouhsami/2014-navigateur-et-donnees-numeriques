@@ -5,13 +5,13 @@
 </style>
 
 
-#### Bachothèque, prototype de comparaison d'interprétation
+### Bachothèque, prototype de comparaison d'interprétation
 
-Différentes visualisation d'enregistrements sonores du premier prélude du _Clavier bien tempéré_ de J-S. Bach.
-
-Différentes visualisations de données d'analyse d'intensité et durée de chacune des notes de l'interprétation de l'œuvre par Frédéric Desenclos.
+Différentes visualisations de données d'analyse d'intensité et durée de chacune des notes du premier prélude du _Clavier bien tempéré_ de J-S. Bach interprété par Frédéric Desenclos.
 
 Les donnés sont extraites d'un algorithme d'alignement entre fichier MIDI et fichier audio et importées dans le navigateur par les outils de visualisation de WAVE.
+
+Les visualisation intéragissent avec les élements de la page (dans ce cas la balise `audio`)
 
 <div class="demo">
   <div id="bachoteque-vis"></div>

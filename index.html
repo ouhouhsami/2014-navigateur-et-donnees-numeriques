@@ -95,12 +95,9 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 <script src="./libs/waveform-vis.js"></script>
 
 
-<h2 id="exemple-de-visualisation-et-dédition-dans-différents-contextes"><span class="header-section-number">1.4</span> Exemple de visualisation et d'édition dans différents contextes</h2>
-<!-- Et pour la mise à disposition des résultats de recherche (directement accessible, standard, un navigateur suffit)
-Pas de changement d'outil entre ces deux mondes. -->
-
-<h3 id="itégration"><span class="header-section-number">1.4.1</span> Itégration</h3>
-<h4 id="telemeta-open-web-audio-platform"><span class="header-section-number">1.4.1.1</span> Telemeta, open web audio platform</h4>
+<h2 id="la-wave-lib-intégration"><span class="header-section-number">1.4</span> la Wave lib / Intégration</h2>
+<p>Exemples de visualisation et d'édition de données dans le navigateur.</p>
+<h3 id="telemeta-open-web-audio-platform"><span class="header-section-number">1.4.1</span> Telemeta, open web audio platform</h3>
 <p>Visualsation de données issues d'une analyse <code>aubio onset</code> (détection d'attaques avec les algorithmes <code>aubio</code>) depuis le framework <code>TimeSide</code>.</p>
 <p>Les donnés sont analysées en python et importées dans le navigateur pour être représentées par les outils de visualisation de WAVE.</p>
 <div class="demo">
@@ -109,7 +106,7 @@ Pas de changement d'outil entre ces deux mondes. -->
 
 <script type="text/javascript" src="./parisson/data.js"></script>
 <script type="text/javascript" src="./parisson/app.js"></script>
-<h4 id="mubu-conteneur-de-données-sonores-et-mouvement"><span class="header-section-number">1.4.1.2</span> Mubu, conteneur de données sonores et mouvement</h4>
+<h3 id="mubu-conteneur-de-données-sonores-et-mouvement"><span class="header-section-number">1.4.2</span> Mubu, conteneur de données sonores et mouvement</h3>
 <p>Visualisation de données de segmentation issues des analyses des objets <code>PIPO</code> en <code>Max/MSP</code> (Environnement visuel de dévelopement audionumérique sur <em>desktop</em>).</p>
 <p>Les donnés sont analysées en <code>Max/MSP</code> et importées dans le navigateur pour être représentées par les outils de visualisation de WAVE.</p>
 <div class="demo">
@@ -125,10 +122,10 @@ Pas de changement d'outil entre ces deux mondes. -->
 </style>
 
 
-<h4 id="bachothèque-prototype-de-comparaison-dinterprétation"><span class="header-section-number">1.4.1.3</span> Bachothèque, prototype de comparaison d'interprétation</h4>
-<p>Différentes visualisation d'enregistrements sonores du premier prélude du <em>Clavier bien tempéré</em> de J-S. Bach.</p>
-<p>Différentes visualisations de données d'analyse d'intensité et durée de chacune des notes de l'interprétation de l'œuvre par Frédéric Desenclos.</p>
+<h3 id="bachothèque-prototype-de-comparaison-dinterprétation"><span class="header-section-number">1.4.3</span> Bachothèque, prototype de comparaison d'interprétation</h3>
+<p>Différentes visualisations de données d'analyse d'intensité et durée de chacune des notes du premier prélude du <em>Clavier bien tempéré</em> de J-S. Bach interprété par Frédéric Desenclos.</p>
 <p>Les donnés sont extraites d'un algorithme d'alignement entre fichier MIDI et fichier audio et importées dans le navigateur par les outils de visualisation de WAVE.</p>
+<p>Les visualisation intéragissent avec les élements de la page (dans ce cas la balise <code>audio</code>)</p>
 <div class="demo">
   <div id="bachoteque-vis"></div>
 </div>
@@ -141,12 +138,10 @@ Pas de changement d'outil entre ces deux mondes. -->
 <script src="./bachoteque/cursor.js"></script>
 <script src="./bachoteque/dots.js"></script>
 <script src="./bachoteque/app.js"></script>
-<h3 id="la-wave-lib"><span class="header-section-number">1.4.2</span> La WAVE lib</h3>
-<h4 id="exemple-dédition-de-données"><span class="header-section-number">1.4.2.1</span> Exemple d'édition de données</h4>
+<h3 id="la-wave-lib-edition-de-données"><span class="header-section-number">1.4.4</span> la Wave lib / Edition de données</h3>
 <link rel="stylesheet" type="text/css" href="./editing/style.css">
-<p>Démonstrateur d'opérations primitives des outils de la librairie WAVE.</p>
-<!-- ajouter un deuxième exemple -->
-
+<p>Démonstrateur d'opérations primitives des outils de la librairie WAVE. (<em>C.R.U.D.</em>)</p>
+<p>Les données peuvent être <a class="keep-selection delete" name="delete"> éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une <code>API</code> javascript.</p>
 <div class="demo">
   <div class="timeline-editing"></div>
   
@@ -154,7 +149,6 @@ Pas de changement d'outil entre ces deux mondes. -->
 <div class="timeline-editing-sg"></div>
 </div>
 
-<p>Des points peuvent <a class="keep-selection delete" name="delete">être éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une <code>API</code> javascript.</p>
 <script src="./editing/app.js"></script>
 <script src="./editing/segsapp.js"></script>
 <h2 id="conclusion"><span class="header-section-number">1.5</span> Conclusion</h2>
@@ -163,5 +157,5 @@ Pas de changement d'outil entre ces deux mondes. -->
 <li>Performance du navigateur qui rendent possible ces manipulations</li>
 <li><p>Des cas d'usages nouveaux ?</p></li>
 <li><p>Plus généralement, un conteneur universel de données vs des adaptateurs singuliers; quelles options ?</p></li>
-<li><p>Pour en savoir plus sur l'aspect technique, Web Audio Conference - http://wac.ircam.fr, 26/27 Janvier 2015 à l'Ircam.</p></li>
+<li><p>Pour en savoir plus sur l'aspect technique, Web Audio Conference - <a href="http://wac.ircam.fr">wac.ircam.fr</a>, 26/27 Janvier 2015 à l'Ircam.</p></li>
 </ul>

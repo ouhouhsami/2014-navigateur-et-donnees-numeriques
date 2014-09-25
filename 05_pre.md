@@ -25,9 +25,7 @@
 <script src="./libs/waveform-vis.js"></script>
 
 
-## Exemple de visualisation et d'édition dans différents contextes
+## la Wave lib / Intégration
 
-<!-- Et pour la mise à disposition des résultats de recherche (directement accessible, standard, un navigateur suffit)
-Pas de changement d'outil entre ces deux mondes. -->
+Exemples de visualisation et d'édition de données dans le navigateur.
 
-### Itégration

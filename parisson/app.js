@@ -27,7 +27,7 @@
     var area = areaVis()
       .data(data)
       .name('area')
-      .opacity(0.5);
+      .opacity(1);
 
     var myGraph = timeLine()
       .width(window.mainWidth)

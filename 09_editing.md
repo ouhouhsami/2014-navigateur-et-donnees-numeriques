@@ -1,20 +1,16 @@
-### La WAVE lib
-
-#### Exemple d'édition de données
+### la Wave lib / Edition de données
 
 <link rel="stylesheet" type="text/css" href="./editing/style.css">
 
-Démonstrateur d'opérations primitives des outils de la librairie WAVE.
+Démonstrateur d'opérations primitives des outils de la librairie WAVE. (_C.R.U.D._)
 
-<!-- ajouter un deuxième exemple -->
+Les données peuvent être <a class="keep-selection delete" name="delete"> éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une `API` javascript.
 
 <div class="demo">
   <div class="timeline-editing"></div>
   <br>
   <div class="timeline-editing-sg"></div>
 </div>
-
-Des points peuvent <a class="keep-selection delete" name="delete">être éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une `API` javascript.
 
 <script src="./editing/app.js"></script>
 <script src="./editing/segsapp.js"></script>

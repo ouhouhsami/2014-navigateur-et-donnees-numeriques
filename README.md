@@ -105,13 +105,11 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 <script src="./libs/waveform-vis.js"></script>
 
 
-## Exemple de visualisation et d'édition dans différents contextes
+## la Wave lib / Intégration
 
-<!-- Et pour la mise à disposition des résultats de recherche (directement accessible, standard, un navigateur suffit)
-Pas de changement d'outil entre ces deux mondes. -->
+Exemples de visualisation et d'édition de données dans le navigateur.
 
-### Itégration
-#### Telemeta, open web audio platform
+### Telemeta, open web audio platform
 
 Visualsation de données issues d'une analyse `aubio onset` (détection d'attaques avec les algorithmes `aubio`) depuis le framework `TimeSide`.
 
@@ -122,7 +120,7 @@ Les donnés sont analysées en python et importées dans le navigateur pour êtr
 </div>
 
 <script type="text/javascript" src="./parisson/data.js"></script>
-<script type="text/javascript" src="./parisson/app.js"></script>#### Mubu, conteneur de données sonores et mouvement
+<script type="text/javascript" src="./parisson/app.js"></script>### Mubu, conteneur de données sonores et mouvement
 
 Visualisation de données de segmentation issues des analyses des objets `PIPO` en `Max/MSP` (Environnement visuel de dévelopement audionumérique sur _desktop_).
 
@@ -141,13 +139,13 @@ Les donnés sont analysées en `Max/MSP` et importées dans le navigateur pour �
 </style>
 
 
-#### Bachothèque, prototype de comparaison d'interprétation
+### Bachothèque, prototype de comparaison d'interprétation
 
-Différentes visualisation d'enregistrements sonores du premier prélude du _Clavier bien tempéré_ de J-S. Bach.
-
-Différentes visualisations de données d'analyse d'intensité et durée de chacune des notes de l'interprétation de l'œuvre par Frédéric Desenclos.
+Différentes visualisations de données d'analyse d'intensité et durée de chacune des notes du premier prélude du _Clavier bien tempéré_ de J-S. Bach interprété par Frédéric Desenclos.
 
 Les donnés sont extraites d'un algorithme d'alignement entre fichier MIDI et fichier audio et importées dans le navigateur par les outils de visualisation de WAVE.
+
+Les visualisation intéragissent avec les élements de la page (dans ce cas la balise `audio`)
 
 <div class="demo">
   <div id="bachoteque-vis"></div>
@@ -163,23 +161,19 @@ Les donnés sont extraites d'un algorithme d'alignement entre fichier MIDI et fi
 <script src="./bachoteque/segmentv.js"></script>
 <script src="./bachoteque/cursor.js"></script>
 <script src="./bachoteque/dots.js"></script>
-<script src="./bachoteque/app.js"></script>### La WAVE lib
-
-#### Exemple d'édition de données
+<script src="./bachoteque/app.js"></script>### la Wave lib / Edition de données
 
 <link rel="stylesheet" type="text/css" href="./editing/style.css">
 
-Démonstrateur d'opérations primitives des outils de la librairie WAVE.
+Démonstrateur d'opérations primitives des outils de la librairie WAVE. (_C.R.U.D._)
 
-<!-- ajouter un deuxième exemple -->
+Les données peuvent être <a class="keep-selection delete" name="delete"> éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une `API` javascript.
 
 <div class="demo">
   <div class="timeline-editing"></div>
   <br>
   <div class="timeline-editing-sg"></div>
 </div>
-
-Des points peuvent <a class="keep-selection delete" name="delete">être éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une `API` javascript.
 
 <script src="./editing/app.js"></script>
 <script src="./editing/segsapp.js"></script>
@@ -191,4 +185,4 @@ Des points peuvent <a class="keep-selection delete" name="delete">être élimin�
 
 * Plus généralement, un conteneur universel de données vs des adaptateurs singuliers; quelles options ?
 
-* Pour en savoir plus sur l'aspect technique, Web Audio Conference - http://wac.ircam.fr, 26/27 Janvier 2015 à l'Ircam.
+* Pour en savoir plus sur l'aspect technique, Web Audio Conference - [wac.ircam.fr](http://wac.ircam.fr), 26/27 Janvier 2015 à l'Ircam.

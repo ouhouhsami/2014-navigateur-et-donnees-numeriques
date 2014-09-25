@@ -5,7 +5,7 @@
 
 html {
   padding: 10rem 5rem 10rem 5rem;
-  font-family: Georgia, serif;
+  font-family: "Lucida Grande", sans-serif;
   color:#fff;
   background-color: #000;
   width:800px;
@@ -45,7 +45,7 @@ h2{
   border-top: 1px dashed #999;
 }
 
-h4{
+h3{
   margin-top:2rem;
   margin-bottom: 2rem;
 }
@@ -80,10 +80,10 @@ h4{
   font-style: italic;
   font-size: 12px;
   /*shape-rendering: auto;*/
-  fill: none; 
+  fill: #eee; 
   /*color: #eee;*/
-  stroke-width: 1;
-  stroke: #eee;
+  /*stroke-width: 1;*/
+  /*stroke: #eee;*/
 }
 
 svg .crisp {

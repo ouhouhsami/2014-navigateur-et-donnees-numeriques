@@ -6,4 +6,4 @@
 
 * Plus généralement, un conteneur universel de données vs des adaptateurs singuliers; quelles options ?
 
-* Pour en savoir plus sur l'aspect technique, Web Audio Conference - http://wac.ircam.fr, 26/27 Janvier 2015 à l'Ircam.
+* Pour en savoir plus sur l'aspect technique, Web Audio Conference - [wac.ircam.fr](http://wac.ircam.fr), 26/27 Janvier 2015 à l'Ircam.

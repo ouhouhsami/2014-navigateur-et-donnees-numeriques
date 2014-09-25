@@ -39,10 +39,9 @@ d3.chart("timeChart").extend("Segments", {
           return item.__data__.duration;
         }));
 
-
         chart.hScale.domain([0, maxDur]);
-        chart.xScale.domain([0, document.getElementById('bachoteque-player').duration])
-        
+        // chart.xScale.domain([0, document.getElementById('bachoteque-player').duration])
+
         /// END HACK
 
         // this -> [data[], _chart]

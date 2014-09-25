@@ -76,7 +76,7 @@ Des opérations d'annotation, de visualisation et de manipulation :
 et aujourd'hui le développement d'une librairie d'outils et des transferts de technologies audionumériques vers le navigateur web dans le cadre de ce projet.
 
 
-## Exemple de visualisation avec différents services
+## Exemple de visualisation et d'édition dans différents contextes
 _(on montre ainsi qu'on est agnostique sur les datas)_
 
 - Telemeta - chaine intégrée, et donc librairies potentiellement intégrable dans une chaîne existante,

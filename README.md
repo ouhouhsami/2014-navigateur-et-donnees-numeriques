@@ -30,13 +30,15 @@ Retour sur la présentation de 2013 "Brahms, Sidney et Archiprod : des données 
     * une vidéo
     * ...
 
-## Des bases de données numériques vers la manipulation de ces données
+## Des bases de données numériques à la manipulation de ces données
 
 Les possibles :
 * "Mashup" (Applications composites) - Aggrégation de contenus intégraux
 * et/ou Extraction de sous-ensemble, de parties de ces contenus <!-- ex d'un texte que dont on va extraire un paragraphe, et ces manipulations on n'a pas d'outils en lignes pour les faires, -->
 ... mais des opérations souvent destructives.
 <!-- il s'agit d'outils destructifs, et dont on perd alors le lien avec le contenu original -->
+
+### Le sous-ensemble des données audionumériques temporelles
 
 Comment appréhender un sous-ensemble de ces données numériques, celles temporelles, principalement audionumériques, et aller plus en avant dans leur représentation ?
 * Visualiser un flux <!-- par rapport à l'entendre, lorsque la machine le décode sur la carte son -->
@@ -46,7 +48,7 @@ Comment appréhender un sous-ensemble de ces données numériques, celles tempor
 
 On s'interesse à des flux audio / vidéo que l'on va manipuler côté client, ie. dans la navigateur web.
 
-## Pourquoi le navigateur ?
+## Pourquoi le navigateur web ?
 
 * Le plus petit commun dénominateur de nos échanges sur Internet <!-- depuis nos appareils connectés, smartphone, tablet etc. -->
 * Outil de consultation, de partage de connaissance (depuis HTML5, support de l'audio et de la vidéo en natif <!-- même si problème de format -->)
@@ -55,8 +57,8 @@ On s'interesse à des flux audio / vidéo que l'on va manipuler côté client, i
 
 ### Quelles données (audio)numériques accessibles pour manipulation ?
 
-* Des service web via "API RESTful" ou autres ([The Echo Nest](http://the.echonest.com/), metadonnées sur la musique ...)
-* Des calculs côté client ([Web Audio API](http://webaudio.github.io/web-audio-api/), suite logique à HTML5) <!-- Ce que cela fournit : un accès au détail du contenu numérique (détail des échantillons), et donc toute la connaissance en traitement du signal disponible dans un navigateur respectueux des standards -->
+* Des service *distants* : service web, API RESTful et autres ([The Echo Nest](http://the.echonest.com/), metadonnées sur la musique ...)
+* Des calculs *en local* côté client <!-- ce qui ne signifie pas en mode déconnecté --> ([Web Audio API](http://webaudio.github.io/web-audio-api/), suite logique à HTML5) <!-- Ce que cela fournit : un accès au détail du contenu numérique (détail des échantillons), et donc toute la connaissance en traitement du signal disponible dans un navigateur respectueux des standards -->
 
 Coexistence des deux fournisseurs de contenu :
 * le serveur
@@ -71,7 +73,7 @@ Des opérations d'annotation :
 * explorées initialement dans le cadre du projet [Ecoute Signées](http://apm.ircam.fr/ecoutes_signees/)
 * ont donné lieu à des prototypes et publications interactives
 
-et aujourd'hui le développement d'une librairie d'outil et des transferts de technologies audionumériques vers le navigateur dans le cadre de ce projet .
+et aujourd'hui le développement d'une librairie d'outils et des transferts de technologies audionumériques vers le navigateur web dans le cadre de ce projet .
 
 
 ## Exemple de visualisation avec différents services
@@ -91,8 +93,10 @@ Idée d'intégration à un wordpress (ou tout autre widget)
 
 ## Conclusion
 
-* Librairies disponible sur GitHub [Ircam-RnD](https://github.com/Ircam-RnD)
+* Librairie WAVE sur GitHub [Ircam-RnD](https://github.com/Ircam-RnD)
 * Performance du navigateur qui rendent possible ces manipulations
-* Question ouverte : Comment on organiser la sauvegarde des "Mashup" ?
+* Des cas d'usages nouveaux ?
+
+* Plus généralement, comment on organiser la sauvegarde des "Mashup" ?
 
 * Pour en savoir plus sur l'aspect technique, Web Audio Conference - http://wac.ircam.fr, 26/27 Janvier 2015 à l'Ircam.

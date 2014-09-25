@@ -69,11 +69,11 @@ Donc les outils de visualisations doivent être adaptés à ces multiples usages
 
 ### Le projet de recherche technologique [WAVE](http://wave.ircam.fr) (ANR ContInt 2012-2015)
 
-Des opérations d'annotation :
+Des opérations d'annotation, de visualisation et de manipulation :
 * explorées initialement dans le cadre du projet [Ecoute Signées](http://apm.ircam.fr/ecoutes_signees/)
 * ont donné lieu à des prototypes et publications interactives
 
-et aujourd'hui le développement d'une librairie d'outils et des transferts de technologies audionumériques vers le navigateur web dans le cadre de ce projet .
+et aujourd'hui le développement d'une librairie d'outils et des transferts de technologies audionumériques vers le navigateur web dans le cadre de ce projet.
 
 
 ## Exemple de visualisation avec différents services

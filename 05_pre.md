@@ -1,8 +1,5 @@
-<script type="text/javascript" src="./libs/d3.js"></script>
-<script type="text/javascript" src="./libs/timeline.js"></script>
 <link rel="stylesheet" type="text/css" href="./css/style.css">
 
-<script src="./libs/settings.js"></script>
 
 <script src="./libs/d3.js"></script>
 <script src="./libs/d3.chart.min.js"></script>
@@ -14,9 +11,11 @@
 <script src="./libs/bindings.js"></script>
 
 
+<script src="./libs/settings.js"></script>
 <script src="./libs/wave.utils.js"></script>
 <script src="./libs/areavis.js"></script>
-<script src="./libs/timeLine.js"></script>
+<script src="./libs/timeline.js"></script>
+<!--script src="./libs/timeLine.js"></script-->
 <script src="./libs/segment-vis.js"></script>
 <script src="./libs/segment-edit.js"></script>
 <script src="./libs/brush-vis.js"></script>
@@ -27,5 +26,5 @@
 
 ## la Wave lib / Intégration
 
-Exemples de visualisation et d'édition de données dans le navigateur.
+Exemples de visualisation de données, provenant de différentes sources, dans le navigateur.
 

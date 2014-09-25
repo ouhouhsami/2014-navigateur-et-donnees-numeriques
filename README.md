@@ -78,11 +78,8 @@ Des opérations d'annotation, de visualisation et de manipulation :
 * ont donné lieu à des prototypes et publications interactives
 
 et aujourd'hui le développement d'une librairie d'outils et des transferts de technologies audionumériques vers le navigateur web dans le cadre de ce projet.
-<script type="text/javascript" src="./libs/d3.js"></script>
-<script type="text/javascript" src="./libs/timeline.js"></script>
 <link rel="stylesheet" type="text/css" href="./css/style.css">
 
-<script src="./libs/settings.js"></script>
 
 <script src="./libs/d3.js"></script>
 <script src="./libs/d3.chart.min.js"></script>
@@ -94,9 +91,11 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 <script src="./libs/bindings.js"></script>
 
 
+<script src="./libs/settings.js"></script>
 <script src="./libs/wave.utils.js"></script>
 <script src="./libs/areavis.js"></script>
-<script src="./libs/timeLine.js"></script>
+<script src="./libs/timeline.js"></script>
+<!--script src="./libs/timeLine.js"></script-->
 <script src="./libs/segment-vis.js"></script>
 <script src="./libs/segment-edit.js"></script>
 <script src="./libs/brush-vis.js"></script>
@@ -107,7 +106,7 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 
 ## la Wave lib / Intégration
 
-Exemples de visualisation et d'édition de données dans le navigateur.
+Exemples de visualisation de données, provenant de différentes sources, dans le navigateur.
 
 ### Telemeta, open web audio platform
 
@@ -161,17 +160,25 @@ Les visualisation intéragissent avec les élements de la page (dans ce cas la b
 <script src="./bachoteque/segmentv.js"></script>
 <script src="./bachoteque/cursor.js"></script>
 <script src="./bachoteque/dots.js"></script>
-<script src="./bachoteque/app.js"></script>### la Wave lib / Edition de données
+<script src="./bachoteque/app.js"></script>## la Wave lib / Edition de données
+
+Exemples de visualisation et d'édition de données dans le navigateur.
 
 <link rel="stylesheet" type="text/css" href="./editing/style.css">
 
 Démonstrateur d'opérations primitives des outils de la librairie WAVE. (_C.R.U.D._)
 
-Les données peuvent être <a class="keep-selection delete" name="delete"> éliminées</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutées</a> facilement à travers une `API` javascript.
+Les données peuvent être <a class="keep-selection delete" name="delete"> éliminées</a>.  
+et/ou <a class="keep-selection add" name="add">ajoutées</a> facilement à travers une `API` javascript.
 
 <div class="demo">
+  Breakpoint function:  
+
   <div class="timeline-editing"></div>
   <br>
+
+  Ségmentents:  
+
   <div class="timeline-editing-sg"></div>
 </div>
 

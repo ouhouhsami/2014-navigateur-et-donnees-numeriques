@@ -68,12 +68,7 @@
 <li>explorées initialement dans le cadre du projet <a href="http://apm.ircam.fr/ecoutes_signees/">Ecoute Signées</a></li>
 <li>ont donné lieu à des prototypes et publications interactives</li>
 </ul>
-et aujourd'hui le développement d'une librairie d'outils et des transferts de technologies audionumériques vers le navigateur web dans le cadre de ce projet.
-<script type="text/javascript" src="./libs/d3.js"></script>
-<script type="text/javascript" src="./libs/timeline.js"></script>
-<link rel="stylesheet" type="text/css" href="./css/style.css">
-<script src="./libs/settings.js"></script>
-
+<p>et aujourd'hui le développement d'une librairie d'outils et des transferts de technologies audionumériques vers le navigateur web dans le cadre de ce projet. <link rel="stylesheet" type="text/css" href="./css/style.css"></p>
 <script src="./libs/d3.js"></script>
 <script src="./libs/d3.chart.min.js"></script>
 <script src="./libs/lodash.underscore.js"></script>
@@ -84,9 +79,11 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 <script src="./libs/bindings.js"></script>
 
 
+<script src="./libs/settings.js"></script>
 <script src="./libs/wave.utils.js"></script>
 <script src="./libs/areavis.js"></script>
-<script src="./libs/timeLine.js"></script>
+<script src="./libs/timeline.js"></script>
+<!--script src="./libs/timeLine.js"></script-->
 <script src="./libs/segment-vis.js"></script>
 <script src="./libs/segment-edit.js"></script>
 <script src="./libs/brush-vis.js"></script>
@@ -96,7 +93,7 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 
 
 <h2 id="la-wave-lib-intégration"><span class="header-section-number">1.4</span> la Wave lib / Intégration</h2>
-<p>Exemples de visualisation et d'édition de données dans le navigateur.</p>
+<p>Exemples de visualisation de données, provenant de différentes sources, dans le navigateur.</p>
 <h3 id="telemeta-open-web-audio-platform"><span class="header-section-number">1.4.1</span> Telemeta, open web audio platform</h3>
 <p>Visualsation de données issues d'une analyse <code>aubio onset</code> (détection d'attaques avec les algorithmes <code>aubio</code>) depuis le framework <code>TimeSide</code>.</p>
 <p>Les donnés sont analysées en python et importées dans le navigateur pour être représentées par les outils de visualisation de WAVE.</p>
@@ -138,20 +135,26 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 <script src="./bachoteque/cursor.js"></script>
 <script src="./bachoteque/dots.js"></script>
 <script src="./bachoteque/app.js"></script>
-<h3 id="la-wave-lib-edition-de-données"><span class="header-section-number">1.4.4</span> la Wave lib / Edition de données</h3>
+<h2 id="la-wave-lib-edition-de-données"><span class="header-section-number">1.5</span> la Wave lib / Edition de données</h2>
+<p>Exemples de visualisation et d'édition de données dans le navigateur.</p>
 <link rel="stylesheet" type="text/css" href="./editing/style.css">
 <p>Démonstrateur d'opérations primitives des outils de la librairie WAVE. (<em>C.R.U.D.</em>)</p>
-<p>Les données peuvent être <a class="keep-selection delete" name="delete"> éliminées</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutées</a> facilement à travers une <code>API</code> javascript.</p>
+<p>Les données peuvent être <a class="keep-selection delete" name="delete"> éliminées</a>.<br />et/ou <a class="keep-selection add" name="add">ajoutées</a> facilement à travers une <code>API</code> javascript.</p>
 <div class="demo">
-  <div class="timeline-editing"></div>
+  
+<p>Breakpoint function:</p>
+
+<div class="timeline-editing"></div>
   
 <br>
+<p>Ségmentents:</p>
+
 <div class="timeline-editing-sg"></div>
 </div>
 
 <script src="./editing/app.js"></script>
 <script src="./editing/segsapp.js"></script>
-<h2 id="conclusion"><span class="header-section-number">1.5</span> Conclusion</h2>
+<h2 id="conclusion"><span class="header-section-number">1.6</span> Conclusion</h2>
 <ul>
 <li>Librairie WAVE sur GitHub <a href="https://github.com/Ircam-RnD">Ircam-RnD</a></li>
 <li>Performance du navigateur qui rendent possible ces manipulations</li>

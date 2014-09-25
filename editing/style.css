@@ -1,18 +1,4 @@
 /* disable text selection */
-::-moz-selection {
-  background: transparent; }
-
-::-webkit-selection {
-  background: transparent; }
-
-::-o-selection {
-  background: transparent; }
-
-::-ms-selection {
-  background: transparent; }
-
-::selection {
-  background: transparent; }
 
 rect.background {
   cursor: default !important; }
@@ -39,8 +25,9 @@ body:not(.brushing):not(.zooming) svg:not(.handle-drag) .selectable .handle, .ha
 .soom { margin-top: 3rem;}
 .timeline { margin-bottom: 3rem;}
 
-.soom .extent {
-  stroke: #fff;
+.extent {
+  stroke: #333;
+  fill: #fff;
   fill-opacity: .125;
   shape-rendering: crispEdges; }
 
@@ -55,13 +42,8 @@ canvas {
 .bkp-line, .anch-item{ shape-rendering: crispEdges; }
 
 .selected circle{
-  stroke:darkblue;
+  stroke:#fff;
 }
-
-.extent {
-  fill-opacity: .1;
-  stroke: #fff;
-  shape-rendering: crispEdges; }
 
 a{
   text-decoration: underline;
@@ -75,7 +57,9 @@ a:hover {
   fill-opacity: 1;
 }
 
-.timeline-editing-sg, .timeline-editing{
-  background-color: #eee;
-  border: 1px solid #999;
+.timeline-editing-sg, .timeline-editing, #bachoteque-vis, .timeline-mubu, .paris-son{
+  /*background-color: #eee;*/
+  width:650px;
+  padding: 1rem 0;
+  border: 1px solid #333;
 }

@@ -6,33 +6,57 @@
 html {
   padding: 10rem 5rem 10rem 5rem;
   font-family: Georgia, serif;
+  color:#fff;
+  background-color: #000;
+  width:800px;
+  line-height: 1.5rem;
+}
+
+a{
+  color:#1F77B4;
+  font-weight: bold;
 }
 
 input::-moz-focus-inner, a, object, embed, audio{
   outline: 0;
 }
 
-.tick{
-  font-family: georgia;
-  font-style: italic;
-  font-size: 12px;
-  shape-rendering: auto;
-}
-
-.tick, .domain {
-  color: #000;
-  fill: #000;  
+h1{
+  line-height: 2.5rem;
+  margin-bottom: 3rem;
 }
 
 h2, h3{
-  margin-top: 3rem;
+  line-height: 2rem;
+}
+
+h1, p, ul {
+  width: 650px;
+}
+
+p{
+  font-size:1.1rem;
+}
+
+h2{
+  margin-top: 5rem;
   padding-top: 3rem;
+  margin-bottom: 3rem;
   border-top: 1px dashed #999;
 }
 
-.demo{
-  margin-top: 2rem;
+h4{
+  margin-top:2rem;
   margin-bottom: 2rem;
+}
+
+#la-wave-lib{
+  margin-top: 4rem;
+}
+
+.demo{
+  margin-top: 4rem;
+  margin-bottom: 4rem;
 }
 
 .xaxis, .xaxis-mubu, h1, h2, h3, h4, .tick {
@@ -43,11 +67,23 @@ h2, h3{
   user-select: none;   
 }
 
-.domain, .tick line{
+.domain, .tick line, line.cursor{
   shape-rendering: crispEdges;
   fill: none; 
-  stroke: black; 
+  color: #eee;
   stroke-width: 1;
+  stroke: #eee;
+}
+
+.tick text{
+  font-family: georgia;
+  font-style: italic;
+  font-size: 12px;
+  /*shape-rendering: auto;*/
+  fill: none; 
+  /*color: #eee;*/
+  stroke-width: 1;
+  stroke: #eee;
 }
 
 svg .crisp {

@@ -1,6 +1,6 @@
-<h1 id="visualisation-et-transformation-de-données-audionumériques-dans-le-navigateur-web">Visualisation et transformation de données audionumériques dans le navigateur web</h1>
+<h1 id="visualisation-et-transformation-de-données-audionumériques-dans-le-navigateur-web"><span class="header-section-number">1</span> Visualisation et transformation de données audionumériques dans le navigateur web</h1>
 <p>Samuel Goldszmidt - Victor Saiz (Ircam)<br />2e rencontres sur les bases de données et les ressources numériques<br />26 septembre 2014, Ircam</p>
-<h2 id="introduction">Introduction</h2>
+<h2 id="introduction"><span class="header-section-number">1.1</span> Introduction</h2>
 <p>Retour sur la présentation de 2013 &quot;Brahms, Sidney et Archiprod : des données communes et des bases différentes&quot;</p>
 <ul>
 <li>Des bases de données
@@ -29,13 +29,13 @@
 <li>...</li>
 </ul></li>
 </ul>
-<h2 id="des-bases-de-données-numériques-à-la-manipulation-de-ces-données">Des bases de données numériques à la manipulation de ces données</h2>
+<h2 id="des-bases-de-données-numériques-à-la-manipulation-de-ces-données"><span class="header-section-number">1.2</span> Des bases de données numériques à la manipulation de ces données</h2>
 <p>Les possibles :</p>
 <ul>
 <li>&quot;Mashup&quot; (Applications composites) - Aggrégation de contenus intégraux</li>
 <li>et/ou Extraction de sous-ensemble, de parties de ces contenus<br /><!-- ex d'un texte que dont on va extraire un paragraphe, et ces manipulations on n'a pas d'outils en lignes pour les faires, --> ... mais des opérations souvent destructives. <!-- il s'agit d'outils destructifs, et dont on perd alors le lien avec le contenu original --></li>
 </ul>
-<h3 id="le-sous-ensemble-des-données-audionumériques-temporelles">Le sous-ensemble des données audionumériques temporelles</h3>
+<h3 id="le-sous-ensemble-des-données-audionumériques-temporelles"><span class="header-section-number">1.2.1</span> Le sous-ensemble des données audionumériques temporelles</h3>
 <p>Comment appréhender un sous-ensemble de ces données numériques, celles temporelles, principalement audionumériques, et aller plus en avant dans leur représentation ?</p>
 <ul>
 <li>Visualiser un flux <!-- par rapport à l'entendre, lorsque la machine le décode sur la carte son --></li>
@@ -44,14 +44,14 @@
 <li>Manipuler un flux <!-- comme on pourrait manipuler un texte par exemple, de façon sonore ou par manipulation graphique qui ont des conséquences sur le rendu audio --></li>
 </ul>
 <p>On s'interesse à des flux audio / vidéo que l'on va manipuler côté client, ie. dans la navigateur web.</p>
-<h2 id="pourquoi-le-navigateur-web">Pourquoi le navigateur web ?</h2>
+<h2 id="pourquoi-le-navigateur-web"><span class="header-section-number">1.3</span> Pourquoi le navigateur web ?</h2>
 <ul>
 <li>Le plus petit commun dénominateur de nos échanges sur Internet <!-- depuis nos appareils connectés, smartphone, tablet etc. --></li>
 <li>Outil de consultation, de partage de connaissance (depuis HTML5, support de l'audio et de la vidéo en natif <!-- même si problème de format -->)</li>
 <li>Outil d'édition, de travail sur les données et métadonnées, y compris d'expérimentation <!-- depuis GoogleDocs à ... --></li>
 <li>Les données sont disponibles a minima côté client <!-- lorsque l'on n'a pas accès à un serveur --></li>
 </ul>
-<h3 id="quelles-données-audionumériques-accessibles-pour-manipulation">Quelles données (audio)numériques accessibles pour manipulation ?</h3>
+<h3 id="quelles-données-audionumériques-accessibles-pour-manipulation"><span class="header-section-number">1.3.1</span> Quelles données (audio)numériques accessibles pour manipulation ?</h3>
 <ul>
 <li>Des services <em>distants</em> : service web, API RESTful et autres (<a href="http://the.echonest.com/">The Echo Nest</a>, metadonnées sur la musique ...)</li>
 <li>Des calculs <em>en local</em> côté client <!-- ce qui ne signifie pas en mode déconnecté --> (<a href="http://webaudio.github.io/web-audio-api/">Web Audio API</a>, suite logique à HTML5) <!-- Ce que cela fournit : un accès au détail du contenu numérique (détail des échantillons), et donc toute la connaissance en traitement du signal disponible dans un navigateur respectueux des standards --></li>
@@ -62,7 +62,7 @@
 <li>et/ou le client</li>
 </ul>
 <p>Donc les outils de visualisations doivent être adaptés à ces multiples usages combinés (notamment le cas de mashup) <!-- ex. de récupération de BPM depuis echo nest et d'affichage de ces données sur le fichier audio disponible côté client --></p>
-<h3 id="le-projet-de-recherche-technologique-wave-anr-contint-2012-2015">Le projet de recherche technologique <a href="http://wave.ircam.fr">WAVE</a> (ANR ContInt 2012-2015)</h3>
+<h3 id="le-projet-de-recherche-technologique-wave-anr-contint-2012-2015"><span class="header-section-number">1.3.2</span> Le projet de recherche technologique <a href="http://wave.ircam.fr">WAVE</a> (ANR ContInt 2012-2015)</h3>
 <p>Des opérations d'annotation, de visualisation et de manipulation :</p>
 <ul>
 <li>explorées initialement dans le cadre du projet <a href="http://apm.ircam.fr/ecoutes_signees/">Ecoute Signées</a></li>
@@ -95,12 +95,12 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 <script src="./libs/waveform-vis.js"></script>
 
 
-<h2 id="exemple-de-visualisation-et-dédition-dans-différents-contextes">Exemple de visualisation et d'édition dans différents contextes</h2>
+<h2 id="exemple-de-visualisation-et-dédition-dans-différents-contextes"><span class="header-section-number">1.4</span> Exemple de visualisation et d'édition dans différents contextes</h2>
 <!-- Et pour la mise à disposition des résultats de recherche (directement accessible, standard, un navigateur suffit)
 Pas de changement d'outil entre ces deux mondes. -->
 
-<h3 id="itégration">Itégration</h3>
-<h4 id="telemeta-open-web-audio-platform">Telemeta, open web audio platform</h4>
+<h3 id="itégration"><span class="header-section-number">1.4.1</span> Itégration</h3>
+<h4 id="telemeta-open-web-audio-platform"><span class="header-section-number">1.4.1.1</span> Telemeta, open web audio platform</h4>
 <p>Visualsation de données issues d'une analyse <code>aubio onset</code> (détection d'attaques avec les algorithmes <code>aubio</code>) depuis le framework <code>TimeSide</code>.</p>
 <p>Les donnés sont analysées en python et importées dans le navigateur pour être représentées par les outils de visualisation de WAVE.</p>
 <div class="demo">
@@ -109,7 +109,7 @@ Pas de changement d'outil entre ces deux mondes. -->
 
 <script type="text/javascript" src="./parisson/data.js"></script>
 <script type="text/javascript" src="./parisson/app.js"></script>
-<h4 id="mubu-conteneur-de-données-sonores-et-mouvement">Mubu, conteneur de données sonores et mouvement</h4>
+<h4 id="mubu-conteneur-de-données-sonores-et-mouvement"><span class="header-section-number">1.4.1.2</span> Mubu, conteneur de données sonores et mouvement</h4>
 <p>Visualisation de données de segmentation issues des analyses des objets <code>PIPO</code> en <code>Max/MSP</code> (Environnement visuel de dévelopement audionumérique sur <em>desktop</em>).</p>
 <p>Les donnés sont analysées en <code>Max/MSP</code> et importées dans le navigateur pour être représentées par les outils de visualisation de WAVE.</p>
 <div class="demo">
@@ -125,7 +125,7 @@ Pas de changement d'outil entre ces deux mondes. -->
 </style>
 
 
-<h4 id="bachothèque-prototype-de-comparaison-dinterprétation">Bachothèque, prototype de comparaison d'interprétation</h4>
+<h4 id="bachothèque-prototype-de-comparaison-dinterprétation"><span class="header-section-number">1.4.1.3</span> Bachothèque, prototype de comparaison d'interprétation</h4>
 <p>Différentes visualisation d'enregistrements sonores du premier prélude du <em>Clavier bien tempéré</em> de J-S. Bach.</p>
 <p>Différentes visualisations de données d'analyse d'intensité et durée de chacune des notes de l'interprétation de l'œuvre par Frédéric Desenclos.</p>
 <p>Les donnés sont extraites d'un algorithme d'alignement entre fichier MIDI et fichier audio et importées dans le navigateur par les outils de visualisation de WAVE.</p>
@@ -141,8 +141,8 @@ Pas de changement d'outil entre ces deux mondes. -->
 <script src="./bachoteque/cursor.js"></script>
 <script src="./bachoteque/dots.js"></script>
 <script src="./bachoteque/app.js"></script>
-<h3 id="la-wave-lib">La WAVE lib</h3>
-<h4 id="exemple-dédition-de-données">Exemple d'édition de données</h4>
+<h3 id="la-wave-lib"><span class="header-section-number">1.4.2</span> La WAVE lib</h3>
+<h4 id="exemple-dédition-de-données"><span class="header-section-number">1.4.2.1</span> Exemple d'édition de données</h4>
 <link rel="stylesheet" type="text/css" href="./editing/style.css">
 <p>Démonstrateur d'opérations primitives des outils de la librairie WAVE.</p>
 <!-- ajouter un deuxième exemple -->
@@ -157,11 +157,11 @@ Pas de changement d'outil entre ces deux mondes. -->
 <p>Des points peuvent <a class="keep-selection delete" name="delete">être éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une <code>API</code> javascript.</p>
 <script src="./editing/app.js"></script>
 <script src="./editing/segsapp.js"></script>
-<h2 id="conclusion">Conclusion</h2>
+<h2 id="conclusion"><span class="header-section-number">1.5</span> Conclusion</h2>
 <ul>
 <li>Librairie WAVE sur GitHub <a href="https://github.com/Ircam-RnD">Ircam-RnD</a></li>
 <li>Performance du navigateur qui rendent possible ces manipulations</li>
 <li><p>Des cas d'usages nouveaux ?</p></li>
-<li><p>Plus généralement, comment on organiser la sauvegarde des &quot;Mashup&quot; ?</p></li>
+<li><p>Plus généralement, un conteneur universel de données vs des adaptateurs singuliers; quelles options ?</p></li>
 <li><p>Pour en savoir plus sur l'aspect technique, Web Audio Conference - http://wac.ircam.fr, 26/27 Janvier 2015 à l'Ircam.</p></li>
 </ul>

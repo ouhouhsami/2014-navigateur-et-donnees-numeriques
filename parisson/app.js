@@ -34,7 +34,7 @@
       .height(250)
       .xDomain([0, max])
       .margin({
-        top: 60,
+        top: 0,
         right: 0,
         bottom: 20,
         left: 50

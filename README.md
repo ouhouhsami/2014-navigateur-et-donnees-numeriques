@@ -111,7 +111,6 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 Pas de changement d'outil entre ces deux mondes. -->
 
 ### Itégration
-
 #### Telemeta, open web audio platform
 
 Visualsation de données issues d'une analyse `aubio onset` (détection d'attaques avec les algorithmes `aubio`) depuis le framework `TimeSide`.
@@ -190,6 +189,6 @@ Des points peuvent <a class="keep-selection delete" name="delete">être élimin�
 * Performance du navigateur qui rendent possible ces manipulations
 * Des cas d'usages nouveaux ?
 
-* Plus généralement, comment on organiser la sauvegarde des "Mashup" ?
+* Plus généralement, un conteneur universel de données vs des adaptateurs singuliers; quelles options ?
 
 * Pour en savoir plus sur l'aspect technique, Web Audio Conference - http://wac.ircam.fr, 26/27 Janvier 2015 à l'Ircam.

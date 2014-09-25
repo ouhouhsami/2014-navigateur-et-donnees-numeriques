@@ -64,6 +64,7 @@
         .dataView(model.view)
         .name('segments')
         // .top(15)
+        // .color('#fff')
         .opacity(0.50);
 
       graph.layer(seg);
@@ -82,7 +83,7 @@
         .xDomain(basexDomain)
         // .yDomain([-1, 1])
         .yDomain([1, -1])
-        // .color('#C0CFCF')
+        .color('#1F77B4')
       );
 
 

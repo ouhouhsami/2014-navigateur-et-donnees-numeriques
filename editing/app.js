@@ -1,7 +1,7 @@
 (function() {
 
   var radius = 5;
-  var color = 'lightblue';
+  var color = '#555';
 
   var states = [{
     cx: 43,

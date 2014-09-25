@@ -143,8 +143,8 @@
     //   graphSegs.update();
     // }
 
-    document.querySelector('.add').addEventListener('click', addSegment);
-    document.querySelector('.delete').addEventListener('click', deleteSelected);
+    // document.querySelector('.add').addEventListener('click', addSegment);
+    // document.querySelector('.delete').addEventListener('click', deleteSelected);
   });
 
 })(); 

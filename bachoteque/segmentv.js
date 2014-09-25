@@ -34,6 +34,17 @@ d3.chart("timeChart").extend("Segments", {
         // call super
         chart.insert(base);
 
+        // DEMO HACK!!!
+        var maxDur = d3.max(this[0].map(function(item){
+          return item.__data__.duration;
+        }));
+
+
+        chart.hScale.domain([0, maxDur]);
+        chart.xScale.domain([0, document.getElementById('bachoteque-player').duration])
+        
+        /// END HACK
+
         // this -> [data[], _chart]
         return this
           .append("rect")
@@ -48,16 +59,17 @@ d3.chart("timeChart").extend("Segments", {
           // this -> [data[], _chart]
           chart.enter(this)
           .attr("x", function(d) {
-            return chart.xScale(d[chart.mapX()]);
+            return chart.xScale(d['start']);
           })
           .attr("width", function(d) {
-            return chart.wScale(d[chart.mapW()]);
+            return chart.xScale(d['duration']);
           })
           .attr("y", function(d) {
-            return chart.yPos(d[chart.mapH()]);
+            return chart.height()-chart.hScale(d['duration']);//chart.yPos(chart.height);
           })
           .attr("height", function(d) {
-            return chart.hScale(d[chart.mapH()]);
+            return chart.hScale(d['duration']);
+            // return chart.hScale(d[chart.mapH()]);
           });
           
         }

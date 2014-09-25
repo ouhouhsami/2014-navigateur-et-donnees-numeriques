@@ -19,8 +19,6 @@ window.addEventListener('DOMContentLoaded', function() {
     //   cues: track.track.cues
     // });
 
-    // console.log(cueList)
-
     // Second instantiation inside the same svg
     var mine2 = _cnv.chart("Segments")
       .cursor(true)

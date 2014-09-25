@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+# variables
+destMd=./README.md
+
+function compile {
+  find . -d 1 -name "[^README]*.md" -print | xargs cat > $destMd;
+  pandoc $destMd -o index.html
+  echo 'successfully built'
+}
+
+function dev {
+  nodemon --watch '.' --ext '.md' --exec "./build"
+}
+
+function serve {
+  http-server
+}
+
+if [ -z $@ ]; then
+  compile
+else
+  $@
+fi

@@ -1,0 +1,4970 @@
+{
+	"bars": [{
+		"duration": 3.67413,
+		"start": 2.71094,
+		"confidence": 0.519
+	}, {
+		"duration": 3.54399,
+		"start": 6.38508,
+		"confidence": 0.044
+	}, {
+		"duration": 3.48373,
+		"start": 9.92906,
+		"confidence": 0.568
+	}, {
+		"duration": 3.53343,
+		"start": 13.41279,
+		"confidence": 0.626
+	}, {
+		"duration": 3.71991,
+		"start": 16.94622,
+		"confidence": 0.457
+	}, {
+		"duration": 3.87591,
+		"start": 20.66614,
+		"confidence": 0.307
+	}, {
+		"duration": 3.93013,
+		"start": 24.54205,
+		"confidence": 0.585
+	}, {
+		"duration": 3.80783,
+		"start": 28.47217,
+		"confidence": 0.354
+	}, {
+		"duration": 3.61121,
+		"start": 32.28001,
+		"confidence": 0.158
+	}, {
+		"duration": 3.60341,
+		"start": 35.89122,
+		"confidence": 0.103
+	}, {
+		"duration": 3.56937,
+		"start": 39.49462,
+		"confidence": 0.435
+	}, {
+		"duration": 3.55026,
+		"start": 43.06399,
+		"confidence": 0.249
+	}, {
+		"duration": 3.52625,
+		"start": 46.61425,
+		"confidence": 0.774
+	}, {
+		"duration": 3.57773,
+		"start": 50.1405,
+		"confidence": 0.608
+	}, {
+		"duration": 3.63734,
+		"start": 53.71823,
+		"confidence": 0.162
+	}, {
+		"duration": 3.68567,
+		"start": 57.35557,
+		"confidence": 0.656
+	}, {
+		"duration": 3.57152,
+		"start": 61.04124,
+		"confidence": 0.441
+	}, {
+		"duration": 3.5263,
+		"start": 64.61276,
+		"confidence": 0.296
+	}, {
+		"duration": 3.52207,
+		"start": 68.13906,
+		"confidence": 0.491
+	}, {
+		"duration": 3.53137,
+		"start": 71.66114,
+		"confidence": 0.345
+	}, {
+		"duration": 3.53683,
+		"start": 75.1925,
+		"confidence": 0.527
+	}, {
+		"duration": 3.53841,
+		"start": 78.72934,
+		"confidence": 0.06
+	}, {
+		"duration": 3.51582,
+		"start": 82.26775,
+		"confidence": 0.564
+	}, {
+		"duration": 3.53068,
+		"start": 85.78357,
+		"confidence": 0.767
+	}, {
+		"duration": 3.57853,
+		"start": 89.31425,
+		"confidence": 0.075
+	}, {
+		"duration": 3.51316,
+		"start": 92.89278,
+		"confidence": 0.5
+	}, {
+		"duration": 3.53502,
+		"start": 96.40595,
+		"confidence": 0.496
+	}, {
+		"duration": 3.56034,
+		"start": 99.94097,
+		"confidence": 0.134
+	}, {
+		"duration": 3.52223,
+		"start": 103.50131,
+		"confidence": 0.0
+	}],
+	"track": {
+		"mode_confidence": 0.77,
+		"end_of_fade_in": 0.0,
+		"key_confidence": 0.862,
+		"synchstring": "eJxlVwuyJCkIvIpHKFBB73-xzUzwzbzZiI5qCwH5JEi5f_sbc8S3Rvoay4bfMeeYxucabiPGPGMPc74sEGP42JuPGOtQZm4tFrfn5fOsYZ-P6WNlC60tjvUWoGAX3N-gDTgDwknNOHlfygbMWSPmuDHOGfODoTQQB88lThMnHeDuPjSFdDxlFjlTmkPPOgX09eigOI0GPyyhG5-ssl7Ttvue9r-1SYPWkOrn-S31w79kzyeb1_NiDof9oiAynlxMOcLIVh4-RXJqN6mNr5Wr3QuElK_JqPK1VB39vEWmIu-hHKb0xwiFgoKh0Ml3PENmQxx0O62KW8mM0KRkgqb0NH2JDneUdDiSn1AjTMCqKKcOGUBHZMJHIrnGhStHTMrk1gmlxvlkDBdjGM9ZuIkTYRgXqyHkW7vWGvZtaIZOJw592B0W8u5oa1GKmAwBIxkT0KkzH6ZTwfTWNgUnZA27UwDuollSeKXQFQpBccpC6EnvrcrvFICnTpkKC1MjncRA7co2vuLE87JTu0IytcmXWQBW9ouBr_ZgULW7aTZUzWe8y1_uqja91E6e5YKHF3Kmnnh1amAw0RPIpCLxT5LP4llMCrcLl-AxHebVSQrl87GZMickUVXwidQ2WykpxAfXBFMd4b_ZgqeUG0RYCdowGUZPQnZeyaqx0YWyH2Ba0rM6K-C37KC7ahuBxtFAj5c2hdVmO-jCtFV9hti-ZmMKvxfuqqWkVW59FilqVdPeIqnKKvpV9vFEfiiPB0GwV8ZcH53uf2kThe58isYWpQQrmIjkY7bTbKYYmsBEZpWTac08qgXQ5ZBt5dFq_uo4ZQyJQk8rmVoUs7BYse2k77akzGBaP-p0hbQb3xIMoi8cRrXC-3VZujBGxOvnKs6pWFU_KktMcVgqS255N18exG07NqEnzsg1ro1Uv0CXTGPbupM9Yqvmr7NhoYsZdOXm-9Y7gIgNCG9dO1BUu1C61X1PMW92vlSPtG-yZUF3hM4J9j00tNq-iw0T3ucUt6k_UreuRvsu5fAerc35B23oxtCzdMny-MUnfvap__IX_Nmne4_efvK8tJXCHFf6YSCbN3Y3t4y3M17U20s_gnQumx5NUxNGFJaAAOPPR6vOZDjQ2DExwLb7jRpDeINspoVKKquX_Tyl_zxLYRCczrpo4AgwCQHmhQMNj4QAT0reIoh06l7BSSETeXxShLsmB3bfnUvuwqyjjMEmPF0jyy3jtJ5q9JCF2pS5oTzf1X2WjTiZFxyd0fclOBFaJLzZ9KzEEFpKMHmcoblV794jC29BwQLumIASZb9GGV5a6jCufEDJST7rDlsyDGa7cJ7qhxBBHI5a_FHLQpKY81QYhfNcL8ngQEQAeoM-IvMwhKgTBvzINrGpbMBsU7SjZBkKGdFLqTWEhjtLMrD3CgzJbuF9rgpKrjIizmxXYohqGGiwNisagsI8HUwC0WQjo6mJNDSdJac8tBCP9aGAmDZj8UMe59FstYYrc9pqQW_aXww1-1jzpDrUlW9lp32qE4JThY2cWDZGoK4Su9QRKaxa9pp4vWcVV49AF0zdrtwyXUG61mK3rAvOiF5NF0UPXVnsTBoPXDNbDUugn-yJCE6aQIHaoau60o_Mc1kbGhRJmb8pNTjFo5yeH5pNjYVEdV-qjU4Ar9no3hwaokxNKt9A27XvAq86t53u7lG76qGouQrO9kfUuBG6dbf6TAi2JoxH9MBZdFfL9K8j6Zr2eQOoZbvy5fZ2XQOzvVDXoK4rKGow2T1QRHUqncipvnbFWbKhKnRVLQ9Vi2MMNWi4bIt4xDeehCqkygBE9ImoAWc_SjXD1CV5ujHW9wKDc_ryjPyXXhFLhYvETwz-MuI9_qQmSRLn--5IMaiH53q79idxlo3GP0R7EVa7Nn1lRkGloFuFrU-kmG-Cy16bZoS6oxjPmhZfxnur8nJ6xKuk1zdI7AeD0vyJ_kRKZ6lqerzsrz49ldzWs1pb03XN__BPzSOmEPVWCb5Jx6SkMFZTpNsDUn1MfRqTgyi129-kDS1heP3sqlioahIYpmGzJhpUgdUXt2wjwnd_sVdq6qvHdUGZroX1EtFSYoDU_p6U5iDX5IWjd41shSgNjFeGLY1-6zYMqt5Bud4Tsd3GuZ9mvrPjWcAOIf_O_wAcIvZ-",
+		"synch_version": 1.0,
+		"duration": 107.74059,
+		"rhythm_version": 1.0,
+		"rhythmstring": "eJxNmQty5DgMQ6_iI1h_6f4XGzxA7kzVbk2StiV-QBBkl_LW8bT67Kee8vTxrP6U0p8xn_U---iX_RT9sZb6jP6s4Y_5YJen1P7M_Yz1zFe_nKe-TU_qg6YHus7gx_EcHj-P3tAlo3B018P19QuzPuXtTy_P1Ol1PkWnjfqs9pym6_T_y3EvB_Tli0qTnWs-R9Ztmdv8ui7UWXtg5nj9Slnn6TVudL3zzmdv21X3IwvLWo9e0AFFtulKbNBDpbdnndzOoTbyPFO_Dn4sTzucroOK_n3l5OL1-urTozMUFLmpV5vsmweHS5WN5dmOi86vinIt0zFXDiZJmDyo_2ZOK4ukTJ7TDYqA7lIAFZeT9OiFU5MI_Tbml0D-OXiJcXqgyXCeWM4Y9le5XWWFwyK_iPh6KplUNhRYLtEjMlqubYVj-56C33qf6HBUtS2l6X_leRNn3atXiPnAtUVQaysYVXV2IzCFw4sf16O6rr4vMBrDWClv0l19skzE89P5qShZMgfbeZgHpzCs-EzOBBL8ncwJtEVA0A3CirwjKzqBrI1jaJaOaa-tLIt_9bqiTtAwTqfXcsAtrxMCsKjLdAa_KU-KnRzjSoFSyQG-CapcfWMNbutPlT8dp5oIKW56nx96UlK6bywlZUZIbKRy0xSKuexWw2bViS7e_GXmf7lISflfnFfAC_X6DmOUMMu5ClxVog3IA0ohY3YbPSnO1xAgH1R25b9pVwkONrVUGQmeOcJm-6jlhCvv5gPKprgQoQNhQJDh0OYI80ibxpeTUc5XBfaG0scbWdK3P3HNCxqNslF6ftHSsTWnc7USU-XnTAQmv1XytzlwKSPBkohnNQdHx9lWYaMJzDvhopbIA5RwTAcUI5Ez4ei8Sto5ahsD_JlwC4IwhKxRxE7YRImWP8NlDUQDfiwJog8kDHUp-kKdC0ih346c_kjCi6mTy7Yvtynca7ZJUmozoFeO3NPH_ABicGxTiY6ogmZboURhuyn-ekGm1ZXneR3aAPgwuOIDldVcLiTgz_BvqolWRui_Gadc0gq3rCAQjlDZgA_8IlJ0EKpxcSu-0zLI6DyGqWiPpK2g03RSjRMAIY_1D5evZBpUAK2331c2BIkTsM80i8Li3Y2sUg6v3WktfIUHkM2MpS77hsshs5At1WU4E6jdzd8msmWWBpaAuZtMJ-WSRhX-hA56ikVlUeWAYlHx2nUTEFHWYRbMuNQuVEOOJw1SAGlU6iUqMkZoBHu9j5WEVrnr8KRMq7jn9JXXz2Co_kY1DtsPTmh7Nd0Ws2Xa-sB28oqdp3h0JM0VLgSUNZEjhUr_CoXq3pNuMJapGA4-7s8dYBSXixIEMaI5ut8kf8oIBm0fUvplrX38FsFbSQaWmbec2AkGZjQCyVNXeH8lSMx1kGFYzHgKMuQj-6G5hMGFf5wOE7rsVF3qYjyZJV38JW7wsaN1pq2qMkFuLScex6xuhi0r7hChSCsTq4lgscFi1c3cegAwuvKqq1vvoIPMHCNOlsTxfKYe81p0kg6QEdu8xwPbLWKmn8IQsgMqW2kGboI7zY_whZU5wQ2uzlS6-x19exJbLNUNI9mgfe_EVS814F7jAvqhp_9eiIBKPbhSIDv2OeaXh2h4Zhc332nqFQzpmi3toQIRtY1xfh2eE-kjyKdLB9ZC1fnry0rBwjUaC07TCbDLiqysvtjG3mPRrs20c96oxREj8a84wpUaLz7DJGP00jRoRwAUcNSAgy5GhNzj3LgpIVrdjgiCX9_LLFzxthBYJ5HYGK4TLPt0lwIbXASX98iNZB2y5cljqn0_NfOaBo-VbjNU0mphE9AjlkF8-mKM3pb1O21fECGMA3Zft_GduALjtsiBGX3oduGWZaHOtGARQOjd-kd4Qwb0-6M-ki-E4o2q0hkjshLnatgGX-vOKAFnYtm7XWR1RNRRk3QXHaiIm9BLqlHpCe9AKjZs3070OrgI4WYg9ek-5tan49fIDTPUhHdvogzOKcyXV2Q_uXcD8iAzEsx6e18j0PIVrLUr3Y-fp7B9CqgFtPpxRZMp6DQn2g-J5JqLEd9VeBf-tKKwFrAkDX-RCzLqcczP7SsSzIkBQXFb19M7c0RL4_T5ON9v1-HMeolCn8NK1KKnNp9gupW9w1Apd3JkitkGxu28e_3YEEatt7FWU3eEynJtfJWw3KEsr6LrzJt08-X-i2ywK8f6n1P61S07_RJClSmfrJPLO41mIHWq-3yZMybOdi2gd4pTBn7qlH1p7QTRlhzHqLKwseEEpIUvG-OJ5eBwTqcbCNIZDDEF9NQeB9SoaHrX-0mn4g5XXbDbXGZJX6IL7GFxh-rRDBjWw2s93iH2oLiSke7cORYi6JGWM3TluaOlnlcip0-PO5d1RiV2bknDntI_lF_S0q3uhzUqPHcupkjgsMZB5pyr0zkDbjnri2e_4b4IwwaycCK9ndftavCgaIV4Mqb9xwsrSgG9BMWlbNF3KxPV2XdamZcPvSzARnYGYSSeIxcCGL1kO2W0q5LegLG0LbKns3rKVM_MqBBfMELcPQoZuZRxAKjIiLWjW-4UARCjhmyvZyhP4UwHO595-q_1TrI9tH449zCqW7hbf6X0FT9-GzOja_xhJjw5YbqdrHAHcoaAIa9IMtXGr4CgRlGpI_GJ42_pvgN_PQYEZ_qGKyzrnRG9urMJorlbb6Up0hRafB-ZZcIXgnnz5ufuAvZt3DUJ8BzV3oxUbnSEdX2VbY3QPVAZi_WGdF1km3KBDxC1EEl5zwxRrDpqYhiN1T6V2NIXRoKjGMg24shESWgvmTD_wuvR_xaF8sf1NX9rKqewZTgLbLvVcHSAxcXpf0uq20mtNE82c-1rNxxZmxOwbxwoT7Os2383C_gDinjb0nWHfTTGsam-GIrsnzZH903ml-GpBji32xnLuG3KzaUtxwSLrSxTvER79ds3h5OGP0jgEdQzTZAEW1VXdKHbdkbzS5clVd1cLSiwmS76ek5Ej3tiYtvjnjabXwBt2wn0DSvroqtS3qAVUIci2Z_s6QnqpOsMrxvNL9EY0BHtrPon5nOGRRdiRszqos-UtN3LYfVtRLYWYmg1u6WrL9x0Xm8VvG8gCd07AYQFJoIQmNl6FAY84RrvStx-u_sSxI4tJb2yplfCAgrjvAs5KbMRYe42683l-JqOy9eUwoTheaHWFRl2jHEmx_cSbwu1H6P2NiqZYcDfKcQzTmb67Z1dz5ID371Wrb9pwCN3uIeWwkD-VbXnjv7N-ETp7Miu5UqbVpoVmtlW_bFneQkzUyfLs4wnuCgHSuRPacM0lnjZbUMikHxIpl529Nq6W-tEs3qWsC-RUsuBdUEcA2mur4ckUebdtmwOf1meuUeU3p1H8d6YGh4qPFfcLjhDVgDebpxU9TrfXsp8F6ijoiEkvTe8kGAl4MZl82sSUzLvxJ1lUvMukWn3XB1vZQ-cS8CO8DefT5csiUOsNCv_Pa5cLAY7w5kvLVmED1cVg-KwFvW-YmYlCXD6HdX088UR3HOnUCaC2-zZdQdu3o9Mo5JV7v4K2IuDUD6dsUfTeHvLSFKvwrubxyhPbzIjQHvmX3ZXu9waXy4BU9q4K-XlXQNr6Yt0Rv3Mf9kFpQZPzxDhXSRTHAuYZj03zfuGftkpLgtCN5pvV7asIby3UIKq117eEXkzWPWi1zF3dO4eWcb7DeworuEJo9824q2t7UYGdiuZ5vTe7WFZ-ZmdWjEk-XJgfMsfvq3Y2WKdxLyBst5uTf6nJ1pa8Ndf1hXnJcOQbq-Rr-fK3JmFHs9_41yx-AyZRO5v9yWS0CPRr6ilq85I3eN1FdGZ2bB5XdftJgXEfLS8xu_VeWW1Mt2Hu6WBibMHg9XGoFYBfnMMeBLkskTcAYnXG5jrLQaeLy_55q-BUTh3ErIgm1k7XtsuxXh3u0xKl8S9eexuxLRAhq3t7zhYHTgDDtv7tQfsonCmZwD-aAS7r2UW7PtblgKVYVSzTCnercSg-us_7Ev7ndlUQbQscrsvBkKCO_j5BDY8lC-Kpntr1vol6nOnVTV_wzhMUax02F34W7Jpweq1pL_FY47ylJxvE5HFkTFXfxorLrxyVx_pECzcvc1zeFmqJWlehBdvTyIfVwnkhkX58SBT3c9XvhFh0lwh_XLVLp2rZgokKyOK9fLWFSQmgXK_cfOFlpvbmLf2qfgbObMzAy9_0-bvDeude5e_xps3CNXhx768zRw27QpHZUdI8WX8NeJfC31yeKLcXjvbs2lvVwAiLbPrduKzi_yKY3wLLqrwWM95LEoo953OLoMbqneMSDi9IPE4UbMjv_ImKns6t3iVSe0ibmdamQa8_Dv-OrDfDkmwSh60BvJUzmKfmgrTrkDoWAu4SWRhDRr3_WLRkpwVplsYRGvrvr3YDwC_VsDC8NOtnlx3gjLTAF1A8yrcfDj2twp3Wm-lQk3tdf1aPju6oXYnNwDG6pq9o-m9vN9UBcq90lorDSiV2-s_7zbB4Q==",
+		"echoprintstring": "eJzVnQmSJDdyRa-EfTkO1vsfQe8jpUmyZUCZrIw2I9LGm12VGYGAu_8FQOYYY8w0j-CeIeRXiPMVmn2FXl5h2lfY5hGsqa-Q1iuM-QjO1lco9hVGe4W9H8Hr5vewxiOEah8hmvEKYb9CDa8w1iMk8wz1FXJ8htpfYaVHKHa_gl-v0Pwr9P4Kyz1C1cDvQe1yDys_QlPL3EMdr9DWK6z9CD2OV-jPsOIjjDZfYa1HmMa_gnuGXF9hzUdYfr9Cbq_QX2E7-wp5vEKPrzDKPVjj4yu0_ArA4TWAw-sVVD73kOMr1PkINttXUCPew7aP4Gx5hVhfQRx8Dd7mV_D1FWJ6BWXiHlR61xCUiXtY9RGii6-QniH3V2jhFdYrJJHDPeT5Ci29Ql-PkF17hGLHK8T-Cnqsa6g-v4JI-B5yfgXR-z3M_QjNzlfQza-hO_MK5yXXIHi4hiFheA_ev4Ja_B4EPPegCbuGKXl-D6L3e5jzEVbPrzD7I2z_DHIF96BM3YNExy1YEfwj-HAPP0FwKq_wZhwbXkFTcg8pv0JprzDrIzg1xD2oia_BCw7v4e1irHsF119BD30PUi33IEN5DdHkV1Aq7iHGV0jzFWZ7hCS6uwcR2j309Ai57VdQE19DMe4V3H6F1F5h2Ueoqb9CD6-w4yM0u19Bwv8eJGav4QfGkVC6huHWKyT3Cm28wqiPMOt8hbkeYenm9_B2QIKHa_iBU96sMcYr7Eew4PAr-PwKPzig8QrRv0J-hvoKNrpXSM_wZpxeX0ELM9fgRLP3IJS-hydbuRofIVj7Cq68gtzmPche34NE1j3s_AhR1u0eSniF7l_hzUe2v4Ks-TVkUdY9aKHxHrp5hTdbCaTvYb1C1eLZPZTxClKl19BMeoUn43S3XkFq9R4khe7hLOndwoDgH0FJvgeJnXv4DVtJ-t2DFguvYZnwClo-uQcJlmvYWvK5B_mNe-jzHrTY9AohvkLr9yD8fwUZ2XvI7hV-4KPxCjm9wm8ckLWv8I_xkffjFUp_hF_x0Uiv8AMfpUeIGvg9vPnoH2Oc1F8hp_AKv-EUqbd7EJReQ9XN7-HNOE8H1LT1cQ8qn3t481EIr1D8KwiGr2EIhu_h7Y-0AHYP2ri-hzfjDPcIP3CKFMs9aBvhGn7FKWdZ7hLgjWcI_hVyf4U2XuHtj1x6hR92iOYrPNfrqJBH-BXjxPIKP6y5hVf4Bad4LbrfgwzHNfyGj6I2N-4h2FfQqus9vDlFN7-HXF5B28vX8N7H-cEB_YZxpnsFbU1fQw3pFX7DONG-wptTUnqFMl9hhlfY_RF-WnN7u5hfcIqWBK7hJ055rqr9c5wy4itINt4C1JFe4c0pPb_CD5wSXiH5V9B03sM_xynPgxJWMHwNP5xJ0FPdQ8yvIPt1DT-w1b_J4_zkU-Ir6PDXPbwZ580pdb_Cm3HeLkYgfQ9a8LuHX_BR1TG6exBI38NvXMwPOzXlEXrwr6CtvHv4BVsN8ww_eBz3CoKle_iVAxqP8B_KVm8-cuMVYniFN1u9-cinV_jB46xX-Hd5nN_wwm9WxrQCeg__Nk55rn2N_Ar_mZzyj7HGDytjNr3CD4zzj62bvV2Mjmfew29Y4z-TF3Rg_B5GeAVt8l_D_0tO-adYw9pUriHEHHYLtviynbV-zRbqDimPtPljhN2Ln_RjBqBan5E63r0B3cXlFVfLPYaRc3Z-pNHiSqX3Orslia3v0Vboqazs6wiutbHSJkNp0f4jJhdmWj7k0sFVH60fhYsG3lNSt7OH1lrxvLmZmawPXGSbYUsCeYalwuIaDMDyDKkOH3cpPaccd_R2tl3M5EWFq8U6t2-ll9pbzy3ktQKylvu3kWzJe2ZSkD13BqWpXd6Izivbdx_XHitYu2sxtVV-5RoM07YrMfYQS7XVxOhsL6vyQHUYt8LcgWssX-t22e_iGUjhos3EXKIPpbWP9nXd9xTaGHtQgMzc9oB9GWWvNBir0cwPfViIVGVTJpd1GqPx5GOsVZoLzTZvXfQ-1lqR68300VwLyJFQXG08I86jMbOxhtiXj36NMmpdzQTre2F0ZMTGZErMNfhqXSKVc_jgbavRpD2CHdNvm-Oqo6TATe1Is81leRXDqA03Xv0UZ8yaFiPJM0WSVQKeKLswBoURcl9m9BSZ_Li8XXO71ZjP4ZtzeSeGWctKdi2_obaBnbbJcd1gc6_VFkf2S2hzdjfGiHvD-Ht3o014N42rpjGtPN5OvbrCowWdsLKx2t16cGk1CsSGmGzvpqDox5qT4VW_zQxllZFtIF19FoYN3qya7SqMgEkLPe9Wc981G1eoPEfeeaatSWx29RVb1NqCB3xDSTuHpBkqzvQ6Um_JdyyzNA7I3iL_Oek0E13d1Ivb9M-ySzuDk_YeOnVEydAWmvU8fFnLwel725ZmcY0y385n2qmTTIqr7TyXc5s5WnEoL6XqtF1XMmve1VFHzkzvgC2TTJhcOZrtqVSfVNeaRTsHTd0Lz0SXzBQ2Fwq5-hBIDlUfa--rp7pISm5MUA8zxkkDRdcyoDXczKv1ytzYsFa1y89Gu7vaNSc7-RZizI4qdWl79OIyafI_-rf15PMKzlFTdBB_Tpt62mRSl0qheO4yNX-1welkJeczcE-nhhhsI-N1aSlmUQA0xlLmEh0cgl9767mLju34lVzl-n5T90wmcFOn5ZZMJbmNc-8NrlDNQQfT6M8-LWnsE1zyywIZjmqo2ZUCCFLZCIWcqyAgM_8zB5Iaetw2YhAo15Uqb6KjeFsM2SbrupX0QPbMmLed5NB3MKfXHGr1iSvRRpm3UYndebCQBk1mOm619-SyS-e_U-c_irNpg6Oh7EClgOAgZqNTmUIyxF2AJZQ7rQPCLLAACMpgdTYVG9m5EYktLsURRuDR24xbOpKOybWa0IqlTqyzpK5SimQ0bwDLhybwcXuU2vIAjyj11B0NZplf7l4K8J9ttT62lWbvjDQE8h87_EPB7AmRULthmsQwQNLxlwBU_a-f_St450A9Epv78NVXmjeF5Gm36UkdpAWHAIjkeo2WtmkFodGH27OQZLLmzIoG-EqOQqqxQGs50uvWBaQSBMM7qE0qvAH51QBGkaYCygE0G4b6nt-QEZcpQSU8UU4hUJCZHkNB0k-FdA6wxCxmyDFQHVido5WZzwh2mx40XYwM7C8zju3oCoAyLOrJkbmcnG0CYFpgUwGxUZCDJ4twQV_ALcmEvwBUGlzjsGUWyIL6WZ2H5TXd1hL5Q0AlTrehe7Au1YCQPRi5m2cuDcmgoBe5zbPmODMss-yGLxEGxfTWJsjDYyBUXIyrg-OrpBU8Wq3azJ2LizvRi1ThTNTHotmpEVArp0mXqoRXqOn0XG0jJ25IkU_qhsb2aZDaFUnzTtHF2We2qry6ixo6DxRAn0iWkaKNrrtIyTogDcJwnvoCrIpZ08_SPIoFAq0B1mm9qwa7o6N239IYeYIJa7dMRTDuID1C3_AuYx1jZpJKgPayLTzC0gcMU3BMIbUFxVUmfJN0LagOEhoCWmWV3ch9JJcGcRLoN90WrFm24VcaTUKCqMVhKLvIbGa7l6MBAEE4JReaYQjYwU7NMflZdLUHUAx5bCgqhATUCAYnl8h3ZUY6eqrQimWLf2nrQCV0UxPZIYNMTE8Ml3TMNTtSkcqltdXQvdFHjk7FAyKBIJmYBnVjSTZq0dMcJSdb4xhQZyRbDiyaBnnVySeMIU0wc-XaG0CA4vLOy5G0Ti4QLugpPymqOXqEKCEZaiH7Fgu6DqbHTS-wCdFHX7WMmoQJZ-5cDhDcvDgFYHwUqgglCSgO6J3XwgOUC3eo2UvxAYIRCOixrOZz2xQVehAtwE_0262-yeA5HOp1bDUxRPqi5SixMCR8E1DGhDYPC2zTGTTqE013agjf4FJeVse0mXG4C5BEgkHvcwHbsdeEFhDj98mkDOdOUs9s-A3Lqc871U2OKDYmi_7ZdCS1osnzCDlJ5ew2SgK0A5GSZA8zEmuc1Dh4gLpy1HNClpHPTPmBGgC9KyAaoBVDQfGjGhbSJtNJFHuyzGiUIAOeoYCxT39I3g9VT3BUSHcGqdNhmQSPM6UVGS3ZAdo26qYIrKHlgD6G1ZYFYb2mCEUDBU2ea1fsBqSvP2HUWaZdvBD4iog8w7V9lzfIIoZsAvfitsFL2FBtotOyI7SJMqywY5NP6TE1QDTQRT0taicjVXF4YznaG5E_0I1yNTiQyRU88ATbQFx0Uay6KMDAnas2GUODExdEmqM-fDD0l-JABscolk5rMG3ojP4NMZz1vr_97Bu2kAL_gqICovAMhUu1VJFthSo3gBh6sMy-bGTiE4wF9fGsOwMh0u0UDpIfJXYuoM9903ENwVzgZ3Qxz41sBWQzBMTcCszritnjUSxix0FqSEAEFHUNqfWeC6gAfjOXmHuPNqHDQ-AihbcwRuQ6Gi9D-Kr-YkNGctngJ3oxuUGXAgIDeko6ymV4rIkKIc1NxgLDx7RJT1JgyBz4n-w6bsuLit0QOzKU2Se9I2VrLW4BOAG6UUA4gqD81U2usqc5bRLZUEAdo-nqqINJ5y3gKBM0Gv2ICvOI6kpflUCywfKFMko4Tx4HZ8XLE5cAC6iODjHYlAbsRfkztLgmtV_QQkDmRs0N4Fnbe1yLOdyo0QGz4V_RYvQmnqSiUnAEi1mV0WVSScpE09JaWY5SijdIXAI3dmycA7KLet9nko0QDgg2bS-gf2cthXUv-INt4RUU0NYnW-lcOqJGC6e1pf-OMC5Ihnrl0SCFPkE5hE-kw_E7CcI3i2RxfT-WrC8aXZi6LHSs2eMxgduE-EYHut0KNIHKoeVmolfwjqhWPDFThoKYFXABfJxlGpD5PI6MXRdIoV-0Coc9537ALpfNI1HHzG9RhZiA6ChwCDJsnIoFb0PibVZrBs3LNTH3kGNNQwoKbcjNJD9JrbKfyUnE2bZpFmyOWfsoYFARU9aaY4TCHFKPrOMf8Yq19AlzCu9E3RQwsYYnTEiXyD8gH6CEykNF-ErdMlMd8Y0W5lnJEh2A7wJbPXjUyH5X_5A1ennIdWPYyC3MaPXEUPOmAfQlFCMgBhNj57GXz4y0IFjpo2Yx1VNmFxUBKVAyCz1Gw4ENuCmofDbUGJCF1iNZuN-Ic6UwZA9gFegSkQV0oINAWnz47o4WzBkZFtH_HSeGEBFc2YJEhHunm8w2fm02GTKYk4dQPamrcxhklDmEZReCFkTYUtfJo6XPj5n4JJW_4LdKQyUHVDUgtBpsHwaTetpoKhQXeSKBGakPCE852TG2H95ETIlYmUnMETjClkib6IP3ouCpnkPg8isVOrKU3qBqEzUKyyMBSRFkRDe2PrReAO0vpcGuhi22JXV9hlQ8wWiwSbgIGBW_OxA9_ApBFNOqtLinSIubUuBgZGNqXXCVvzAfZAGzK0-KsU1yCIObUFVQYdhKLxThho5ygxfIK9SMkGMqY-eziIiOxs1ao1U3g0DjIdBg9rymFrdIC5yA94FyQA0oiipC5AR1nYkoc6sVtJlEx0wbjhuEwkQy4P0NXdXzx8--AaOFKIMWsLIbTSwbxFwoe8h9hE7R4TA6G64HU2n5ghxDjHB3YFOsGLuADklJs5NkVIY8DqoBEsUWZywjTIkUpXomj8K_mc4FjegWRB36WUsslFBF20EwVqt7FlJBGGX8GMIEF4WuQpJG1BVCX3mFJCgxJhRLDa5je5nFhahQfigBYGxGOndQe6UbxtjUWw6blXATXa4NHKNgYRacAuoMjbQ0lbVkzXYGxRwN7bVsCEphNZGTA4Et4Ex6moLhbSAZ_TJiTl4LLFYfgRwBrYKhnxgUmT4KRTJog8dJTIDAK6Ad5UEXSiG7jBIekFaXo59tkzeD4dmYXiqdrqkCydSDHQzegQuYGTAKmxJsQXrmgiFiwA7BILM4ZmxNht3IXJkJz1QGr0VZLT6N2smSKZtL8t9-DghPchLAq9gWoT_tKE1HKwTMBToijdiALKQOldVnESqEg5lLy10dyiH5zAQXgFQCZgWTTYFVandumAZxZY5QVQ-gzIImrZ7v65mW0jHbIyWRWtheTMdE3qBFaTR4rucqUNTSadNKb9TCbIA0RddMIzNTBm2MbXXZcRsJJS2xIl_A5o6MDxApdVHl8DxEXqtzYwB8fh8ViZSB4XGKScsJDBhNPJlutD7EbZCI1KJEs4xC0PIg-mFSU1Q3nT6UIzApdXgdz9awpnQyqB46asYChq0C3Tw67iupxMpJvDE8RUQ6TaqhSE7TcJsiChhsPA0ptk2iBVPlMdM2UobSOkEL0dy0gI74FvoKY4wYjFmZSyQQB43xMRuTBY1FTykhStBDYAm_DZEZTQYwQDAOuDH7IAMCwyUNtqIIbEHc0fuORwWfoAev71JANMkiAeGW11N2yDEUXYQ0CrjUoLtVZADgUiZkqD7GMkVLR4ykUJw0OMpioz6mLJUWhToljtbRguCKshCUAGJbZCg_rA0HKBEKgWxhPGTSRLoh3DY4GbW6iiVrog_8jpYVTGxqiObRFaCF3Qa5ig5AUeEPRdCaxYznKLhwUioBCR1CtsECiGAOvndu3AF6u0KjYFjRdyAY0jpChuYAWRKyMDce7TKUxegEBY3cw0rahPIdRtUCsJY88aEzQfQ2kQiYjvc6lCoiUOoETqccBGLylEABdU0-wHutlKNLkUNOH3jv-MSEiNXDo8iwUMls0IBBn4kNC9jWo6IbI37OQVRhTmxckaWoCH8ABupBIQJJWomzXuuZBjESQAZYPSONR4kJjmxOS8bL0NYRDVZckuzFLsTuKeJGj2FYyN3ofkuGWVwpzvQbqlbo__jZN-B-kGQzdQgw0a5kUdaKZtdWOvyOr6LCMDStkFrEF1oSDg1mBq8VShRq0r4AGXX6VChti5nQhgUVjKQaTKt2qRIiImmlw5bJD0notih2ilRyG-HpeJXVhwgG78OXgOZY6k7bdd-ClocBHcqnDxhgYXvrwEZqTwjoATBJTqWqGTPNJpmLr0hIVjn26VGLjJTZBhOrzibgqmHSlbXMp5UaqE2LQwaag5bzogPx-zh-LXRSlqJs1P4qBjUNDweJyuxQIAym6Sv3ZoEM24acaTJJEzRtSDr9qL2ORhdSHg2EbdrzATMs_EBf5eNBcNmubcTN1iZQNYw45ZzF05hgCFae2VIsVfjNfHeGAURC4Q7g59kREoHW9_QOJcHbkVECZ63CaGChu0jTY-O2S41L9QapTYoHXURLaAGafsefiNCwqJgfzCeyw8jgQ07IcLBxATKA1sD-oKln5UFTjRlCAgS1nCX3AhYgUZh58rSWCpgmhNAdk4p75-lm5Y5xaKcuGGDEd-kNZgzpnQ0gtmm1tpI2aySo0c90D11jtXjTaFF6HiuLW9I2YZCKVSPnoWPQwKXshXdatQ3gfSHlSEZ1p5xpxy2c7QcoS18CiIDQlolA1uI8MDp0uKioMF38LZXAv-Bj1Qzzd3gExtf1MIOSpKAc4gLyhNaS7_S6_G_e-CxtH8DD4F04mUaMg2y60SmaU3Wb-sLnkFgQr1oMK1UJZg88mo27BBuoRqpcRXiSDMTiFhED_nTAuTw0nCcFqq22YKGErPUpLtS1IyGJ4C0GDpkHq1EhaD6ayjujRQqpvcz4VfN07udVPF9BLHUMbq2qPtgaptcaOf4rYP7oezQG4IP2g00jJg4vZWn5hBOHlbAr6CkbEjyIzcOvdM3R1HLjHFuGlIbgLcxVpyxa1zdO1XnWCjFz2i0GlP576ubCV-pzsRZYtgPQYbIyXA-sMqk9yJxXLazC2vQ4tYlSbPSba1ErpIby7BLO6t8qU8hFo_YyAP2sjfO66RKknldIo1vJGrN1xIe-0IIO84jIowKRGlDJyccphtPdS5_N_GAEg1sHeCq9388joE_AGhoNTYBMs1AQNqaAmZhiD191dBHi2OHe4RNo1mB8kHm8H1fXqLNUcJJJ-zAwOLyjjSLyvrVvQ4dn7QzKrdZMC-JcEDQFUEGs2CwRRLnh86h2tIMdWXKDxwHa4RE8GwYeYzuUMWQtcpeqLx4kq4PxWoAFaTuafOsH14ZWpHVEAATCr2cvA09JapFDq57GfcOp-z9-9g3UOVTYJL6iTA2IdpYjGbYJwcTqmwva3pemxCIyiiRB4RH3ElwVcUIFIawQdyQXbTV7ARN4vuxlpPFWeGTtX3sk9ABIpFURIxB_tX2jMXFXqaEHtcUmiC47uoZMtVhv5BnPvJHpmI4OWgXt2mhBEsFCJW48x8BLgHzB69uTyNLUEbyhPQsy5CLmaGonAvkmvahveKD5zggWimprtRuBhf-aGFJLcYH8NBFqjGIM2mPaEgBYW9KNGe4ZSdg-44NatS5A4WpFSSsSsLoLwFHWIvQC5nRLSkx7yyYkOZ5lQfJgNdactZIG5YDatAIX0yYdTDlosgzegpQVDrV75w2vO3KB3K5QF_SXLc3vMZMMb6FwN5XSgLa5tMKpNRjkyaQgQTftS1DZBQ6FcckMz6bTJcDZMogAF7XCQNecnQqPq4C0eC-Sys-J7d88SdDKaKIh5ykQL2FyplNXymq-ov20radwG6ba6ikEABb187qgna-q8x3oYDgiMgnMCU08IWw8xdA2PRaCAjgv0dfcIsQsKVL2dbQFN9zw1IA41ZlJLYiIpqDrz4CcNtNqBQy0qoG6Rmqg6BA0-i4qwdzmGihXGAgC2GhuDJCWvsicNKMmDJtHVzHyuNA2WevraN-ABtuf9ZY-cJbopc92U1ED5hnw20PNBOr4ItVutFVqlxZy9QaenYK3AHOvyBksBlhaUjztErQRgFBO2vfEN2E2mUnAcYh1TpOg_5kRIIQysgbcdbLUY-v7YXKCjgsg5B3zVaJoSTWjRYoInOGn-ue3QSqD35Rh6WhJERDNI3kkWpBXvBS_B50nfgfNBbRKSOol7oxrrhW7NUY6a6hL6B-RnWfqtMnLVHmketIBG8YKPNAw9BncjgSfpWL1McytBmBbCiGb4bQiHiI-Vcdg6JXFfE06B_eH9UKflwBQqJBCIAlUn4Qkc4V61CqvxwkJaaRx4DTm32tZGlWAFcV1o3vw0YWmzVoc1aFIJqjraIFw49TaKZ8za5TQyOd6-5ysVbXbcg5W0M4dNS4htWDg7iFfJBreFe0rPXtyeeABHhCRwWJxMDcINz9FxfyNSd4WC9QCnaplOdvxQ5Y008_CNaRtwPFHvGTDvTXAf-BPXSVflnqjB5B-6E2rzb0EI-wUcaR9G53fomQrlhcj2FvS0sYWMGGZuAUyADGySLUOS5yRgpEgRWgqQa-d5YmNQ_i5AxQdK7u-4XTyHz_7BnqlABo8ABOgGkqgI0nB27aOTC0yqghlP2lfZEOkHiFtvK2A1kCBWcZ6NK0k0qlQB20CJUJIWee_Bo5mLjkfRr7SBm7cRCVRGDr3wkRtjOXyWi80ZmuJhsrvWhvV6l5y4h0GxrSbJsfksEoAPSobeJ4FOQE-9oxWX8wvc4UMo_N81rd5Q-uCOVCLS2nlh-ZwDVOehSpaohqZFuGhW2jQ7NRZDgP9Ia7wuiU34B9erwm_ipzrPBmWFJO5ZtQJAryKtvo8yg0b8dnrdFAc7gRM0h54qzpIA_iQCh4f6UHboniBSb2OOtS3KWsnAmVrKlURuAWZl3c6v50LLz3hzHDuATZutJ0HMbVVhNbfqG9ZFqgNXkMV7mLorOqjzo8kLQXSP2ON-BlGtbJ4uL6asRa7e_KDxt3nE6UdUdzPWMgRUI2_QwXSizqMoZNqyH1tHXuELqqX3Ay6AemnL2IDyWc34PZ5os9wUVLaJoL-mOGIzazqfn1vGwVyRn-e7QwN_HK0EZCiLwn3-kwgJeVGPFc5v4X_dR6S4v3cQxfYOhh3XsxL9jqXhzuQAbryucD_XH6vc99z-Ywg9Amanzrrw9idaI0GPiMdWb6Tgo1NndhJzCczHXRwJ79Oy4Unv2d8J3nbFOhZF4BkEIeSQ2cs57H-e-AtmlMMn3T_fTbK6Gmf36aK2jlv-86Bk-sLGB30G_bxXK_4Mql9lDoSRyIQPUv9VkNhwtoMiUFOWEQPDZ4i8LkOxUlTeyQhHWjQWHGWsnS88kzsAo0DesdGGROYp0QcE8JLZ838RtMzrDUhlMwrss4KJCYp0XgMwDVtjmUZL66jZxtRW0zDFFv1JTooaKx10dZP0HkuHds8GSzaB9XhP3hSi2g6VxiQJtUAOLFrMY1cokdNQbZMrxZjZJVWNn9kH2sJAHdxn3ZCz2-7MJOSRsYo015LQwhdLUjh-YUyOm6Txsk-dC1HSJJ11o7njsmcltR-UgEd6YGpA1gom6TzaesskmocmBX8eK9hfLL6Le9vak-p_FHPqAZmS7VGLXLVv1dsrCDQKZ9zgVOxp8ZPbZzKOSV1QOZ0xenBc9_T09_7nhmS6S5nBOfy32Y69z3Ac17yve-5ypnib9eemdSnLNPp7s-ldLxlIaxpMC0u_yt8BvT3n30D8x11tg8ZFdDhCdpAqjYVFeJW60DUfRIZS7U4PAc8K5bUV5gN37OOX3cYtOjMkJYomjbDXdamPhoHcrWQjyhPOj2eVbYSMuplQCJehzuNB84wgyg1scHaWhzAJ9LMpme0mEUmzp51GNZMnUSnN2E8aFJLlrxP63vR4kVAZKoIAJFdPvegWil1BCoQ2XS6JGt_wuo8wwqyZjoSOiOOySEzqARzbo5tjPRwmuZc5fzW6-lSn7Il3IO8rXjGwtMudI5WS7Rgea5ynnwFeWD9Ni-dW9TdztC0aitNmb31RUvW2gHrXiev4cSYGoTG7BSt32PZKx464k8kCvsZLma34f3gXR2aAXctJIqMj2tXqsnoHK6GhuzHWSF_7NIqIzSdtNEC_vaoXUzoBguOh7EG8tMq6m4hTwmC_H-ayfO8Z0pOus8cfOfvOxGlng0VJvG87cwzsNj858pKtzrAn_eeRz11ACiEdO57pvhTV7oentNlGxz9_Fm_1uKMnvzc6FSJhP36lMrfM3gu_33Ak8GTKHo5_iWX58Xnec9vz1X-UkMbVXbGfF58Ln-e9zMbZ5B_n6teowSFnuiU97mHfnme41T7aY1Tz2eQBg2wz3OcuSpbq0RSKufm5xFOic7htISzdNQWYDmjMjMB1YXa-suopk5DbN8-bRoiKHaqE7TGWepSvXh9mY1WY5Ujq2x8eyGjrmNAzIPywteyz1GprE90pHVm8jz0GcGn2gEFagol_ZlnOUq8ORp7DC2nT32qBMnWdCCRH3YNBtzn2QVPfmBpTEwAj8EpRZ1SgdOn1o5zsBggr-NipMmLvSxkGApV7TCvoHLWzlK3-mYR3KBmU0ek0H86VY9Q21ZrvjqKFHItPgxt6-v_HaHrU2sunLx9geJb6KfM_qirk61Tep-E6nnPPB9oORX7SbcOJfyf6vn04Ml-3hmXpft-i_BTG3rJqauTgL8g3Lfq1EcfjP3XMMrSKT3AuVfiB6UoJC1Daqkwcu9vaJY0_vGzb_gvK0rPfg==",
+		"sample_md5": "e3e3f44f48d1d2e72438386c5f220460",
+		"time_signature_confidence": 1.0,
+		"echoprint_version": 4.12,
+		"start_of_fade_out": 104.04281,
+		"analysis_sample_rate": 22050,
+		"analysis_channels": 1,
+		"tempo": 67.861,
+		"offset_seconds": 0,
+		"tempo_confidence": 0.256,
+		"key": 11,
+		"decoder": "mpg123",
+		"code_version": 3.15,
+		"window_seconds": 0,
+		"codestring": "eJxVlwmuHCEMRK_CEQAvmPtfLK_c8yc9kaKoAm28lMsej8oTd90xxzlzzX3mHXv78Kh77skY7iWke-YjfX5Q2hk132it8jc092EW92IwxsrkdK-KyLxjVZXenMn1Pfas-feoTVw4e3jdWZ5WYycurcLQsrnGPiUI5jiHLcuxbYctvjLLqcOTfFnDYs9h-5jPGfhz1palmWYKTBHktml1Tg6_fOuOB6u4Fx2QHz16fUTe_MC5c-TEwPJYPhc-pvdplsVaJCp5XJc3ARHpVEDfb4-8esE7_QV5-8l5uuUe1SXoZBi5qa7B3sSzjo0iv33qFZxeUxx18QFb40bW5_IWrMi2bLd46N7qmtwT7uRlLqJ-jqkDuFb-VZSv15r-W3Dluq5XKftjbTlOqLl8mfDuCsSa9yzub_I9FjlJz0MJbT5Us0vysG_ylnPLCIMjxIL92n6OzNkla-WxjUzAKDfStrbF5A6Gyb73-dl1wCF3uXwfb0I8SXw6xw_vhLyHGodwr65H_HHjyJvsvFPRA0u4T2n3X0k7jvkp8VO1dTD4xtXZfGH7qfKqjN_75T_2ru1f7Pvn-xv1i4-_8Z6qBrmfrpKBTaTLmLRJ0FS495DQj0PvrfJw7jeoSIDVortu5Zq0_u6mLEhh21aoR0OYPl-UXB14xd2wneco72Sf6wkJaPjt0hUdr1v0sB9qvX3t2Es9Hcqemvrcrc-DIn6afEsR8uAt9-HIJfsolTd2SNqY9z-47xfv_-BQdjKKWBRtnU-1nE7gS5yETHGwM-XZXWJDkNPpZFNUnR8MsRCdJfLduclASYOU7EAkOYBVChalw6xO8SM_kD4xOd96RmIE1cJPqDo1yY5MiWfAW29TLlYVreFXWmj-VAWu3tTX7l0F_pmSAguPXyyWFARweYw8qymC2mfrdS7J5yQeyk5XGPrc9s-EEBcBTdsfe9BkWK3zY7_w-wdLrHngwiIp5JzP94TZ_J89bkQOPFtgpcqddOyWspmzPhgPUKueFC8sK4capsbDcFNdsMJkmMX4MnX1Jl6mwW7L0ig0JfjL_egu1v2oc8F6VfagcbUaSsOYi2slGua5pQUkiDqIGHxHxu7S9al5eeQAGP5cEiSePxlNV8tq5pjGFF1Jzonlqg_rLLiwDx5ddGtIlo5aacTsjHJuuGXgq4wfoj3ibCwNE0Zp8HzcAcpngBdMFW4da5VH-UY8qgu2KxWPltUPRuXDO0LECu7ovhzUIE-5KJLPHrOkS5LBWGTGfrAUBg2XDK9LZTRuumUeBoT0PI4yCq6JRqwhBmriU66J8IP9OYeBCD9zlj99fu4lHu6l1Ig1gmIs8G3KqsaKceRn89hM-DQuLI0V8e3AsdC8h_ON7S6NBM2NN9bYe2FacEtwiAa2gNUzCBWjJlI7kcKmdD6ZNITqGhR9nuJCtpRRDl4vCMBiwv9ySkXVXHRYNdaMJmGpAfhgNJ8E1EPZ_9jqaRkxkvgkmX8twzmLXA-CvxbpeQuFNUURMHB-WgxK0iJn1fl8D0E532pUM7Wu9Om0XDVBez88PZYR2CvP96BtT98_MI0WIsv5ITSqjuc9eB_C3iWsQfYQHCNgdch_gmNd-fsS_Ig3D0a0iOc8DfMf-9lve_A-3_ZakhgyrGrRmb_k58qb47p_JZE6RwK1lV7V15Ef-Fm95aqhJllhayITUw3FfRbKglk1W7-n9h4uSNweyeK4PiPxI2krG1e9JQ2btt-4-fbGz6D_4uab1A6B2Rdcj6CYtCZGhVj0CAocHtq46yUoSsfserGSMOhpEstvvfA_Q3z91kuT8p1v7U_-g-_XvvLPNtiC8LVPqn_sX-WHJUXZR1AYFJ3vVdKTA9aoJxak1U3nqpcESgNSkS_l5xGsUCXFj_8CBkuz3tg661AJiWIv1PO9QdPHNAy4FzPuU2N-qdxYv99HL2IvrB8RL9x8hdV0jH4n3NSaW4znQ2WEWw_oJSqYNu6RHnCftmWHYinXSAcjDPqldHtRfPDitxnCkb-4f1uwYqR2Xbb4841fv-W08a38B-3Ossg=",
+		"mode": 1,
+		"time_signature": 4,
+		"num_samples": 2375680,
+		"loudness": -29.425,
+		"decoder_version": "mpg123 1.19.0"
+	},
+	"segments": [{
+		"confidence": 1.0,
+		"timbre": [8.773, 24.933, 54.18, -188.788, 90.516, -6.535, 43.626, -147.833, -46.097, 57.85, -21.078, -1.116],
+		"pitches": [0.162, 0.032, 0.017, 0.005, 0.008, 0.022, 0.053, 0.04, 0.024, 0.047, 0.157, 1.0],
+		"start": 0.0,
+		"loudness_max_time": 0.25649,
+		"loudness_start": -60.0,
+		"duration": 0.29002,
+		"loudness_max": -38.196
+	}, {
+		"confidence": 0.628,
+		"timbre": [25.459, -152.567, 20.819, -6.306, 81.616, -39.518, -18.425, 12.883, 27.198, -5.424, -9.769, -3.217],
+		"pitches": [0.151, 0.036, 0.078, 0.88, 0.041, 0.02, 0.059, 0.057, 0.039, 0.041, 0.06, 1.0],
+		"start": 0.29002,
+		"loudness_max_time": 0.05741,
+		"loudness_start": -38.445,
+		"duration": 0.17011,
+		"loudness_max": -33.156
+	}, {
+		"confidence": 0.513,
+		"timbre": [25.826, -133.359, 20.139, -20.043, 87.392, -17.977, -31.84, -18.057, 27.435, -5.067, 10.658, 2.962],
+		"pitches": [0.119, 0.039, 0.136, 0.911, 0.066, 0.079, 0.348, 0.057, 0.026, 0.029, 0.058, 1.0],
+		"start": 0.46014,
+		"loudness_max_time": 0.02996,
+		"loudness_start": -37.46,
+		"duration": 0.13197,
+		"loudness_max": -32.574
+	}, {
+		"confidence": 0.472,
+		"timbre": [28.247, -152.731, 83.939, -40.481, 86.192, -41.251, 11.924, -1.522, 6.793, 7.769, 10.585, -0.419],
+		"pitches": [0.095, 0.025, 0.072, 0.997, 0.023, 0.061, 0.683, 0.023, 0.009, 0.012, 0.073, 1.0],
+		"start": 0.59211,
+		"loudness_max_time": 0.14968,
+		"loudness_start": -34.326,
+		"duration": 0.20281,
+		"loudness_max": -28.87
+	}, {
+		"confidence": 0.663,
+		"timbre": [30.73, -135.722, 111.789, 11.955, 72.138, -6.523, 12.396, 15.663, -14.596, -25.229, -13.029, 7.69],
+		"pitches": [0.07, 0.026, 0.067, 0.778, 0.037, 0.049, 0.178, 0.049, 0.025, 0.028, 0.082, 1.0],
+		"start": 0.79492,
+		"loudness_max_time": 0.07402,
+		"loudness_start": -31.476,
+		"duration": 0.3946,
+		"loudness_max": -25.195
+	}, {
+		"confidence": 0.322,
+		"timbre": [29.475, -140.198, 116.128, 16.961, 69.264, -31.419, 36.137, 8.892, -7.552, -7.461, -8.871, 2.636],
+		"pitches": [0.167, 0.105, 0.077, 0.849, 0.053, 0.064, 0.361, 0.037, 0.021, 0.025, 0.101, 1.0],
+		"start": 1.18952,
+		"loudness_max_time": 0.07058,
+		"loudness_start": -32.454,
+		"duration": 0.17415,
+		"loudness_max": -29.056
+	}, {
+		"confidence": 0.619,
+		"timbre": [31.838, -73.413, 129.366, 43.532, 39.281, -6.035, 44.575, -5.95, -32.482, -27.714, -1.92, 24.922],
+		"pitches": [0.063, 0.027, 0.111, 0.708, 0.038, 0.036, 0.115, 0.035, 0.018, 0.015, 0.093, 1.0],
+		"start": 1.36367,
+		"loudness_max_time": 0.06639,
+		"loudness_start": -31.962,
+		"duration": 0.26245,
+		"loudness_max": -26.109
+	}, {
+		"confidence": 0.224,
+		"timbre": [29.338, -151.564, 114.732, 15.13, 77.721, -17.638, -5.649, 7.558, -18.721, -8.997, -7.804, -5.789],
+		"pitches": [0.084, 0.035, 0.089, 1.0, 0.056, 0.022, 0.094, 0.035, 0.015, 0.016, 0.05, 0.909],
+		"start": 1.62612,
+		"loudness_max_time": 0.11274,
+		"loudness_start": -32.443,
+		"duration": 0.27256,
+		"loudness_max": -28.435
+	}, {
+		"confidence": 0.052,
+		"timbre": [28.182, -137.933, 80.277, -13.71, 65.923, -35.14, -6.965, 1.126, -9.115, -8.257, 6.174, 4.303],
+		"pitches": [0.062, 0.048, 0.107, 1.0, 0.028, 0.046, 0.347, 0.035, 0.009, 0.008, 0.048, 0.717],
+		"start": 1.89868,
+		"loudness_max_time": 0.11804,
+		"loudness_start": -33.609,
+		"duration": 0.19746,
+		"loudness_max": -30.33
+	}, {
+		"confidence": 0.35,
+		"timbre": [30.19, -162.671, 99.849, 2.943, 78.041, -31.409, 15.174, 4.047, -9.228, -10.571, 5.931, 5.311],
+		"pitches": [0.065, 0.038, 0.059, 0.579, 0.016, 0.028, 0.473, 0.021, 0.012, 0.011, 0.068, 1.0],
+		"start": 2.09615,
+		"loudness_max_time": 0.05583,
+		"loudness_start": -32.365,
+		"duration": 0.20259,
+		"loudness_max": -28.644
+	}, {
+		"confidence": 0.577,
+		"timbre": [31.999, -131.876, 86.14, 47.08, 62.746, -16.007, 0.693, 4.354, -21.706, -13.477, -7.523, 11.298],
+		"pitches": [0.032, 0.021, 0.037, 0.531, 0.018, 0.039, 0.197, 0.02, 0.009, 0.012, 0.041, 1.0],
+		"start": 2.29873,
+		"loudness_max_time": 0.05602,
+		"loudness_start": -30.439,
+		"duration": 0.37079,
+		"loudness_max": -25.412
+	}, {
+		"confidence": 0.235,
+		"timbre": [30.328, -153.65, 118.242, 3.643, 96.013, -32.358, 4.732, -3.632, -7.797, -3.454, -1.817, -3.547],
+		"pitches": [0.088, 0.024, 0.092, 0.897, 0.05, 0.086, 0.681, 0.066, 0.047, 0.057, 0.121, 1.0],
+		"start": 2.66952,
+		"loudness_max_time": 0.07905,
+		"loudness_start": -31.412,
+		"duration": 0.11705,
+		"loudness_max": -28.449
+	}, {
+		"confidence": 0.381,
+		"timbre": [30.503, -128.763, 106.821, 26.453, 63.118, -22.978, 15.807, 24.608, -14.365, -29.329, -7.344, 8.044],
+		"pitches": [0.108, 0.056, 0.136, 0.72, 0.057, 0.05, 0.299, 0.107, 0.027, 0.024, 0.124, 1.0],
+		"start": 2.78658,
+		"loudness_max_time": 0.07189,
+		"loudness_start": -30.299,
+		"duration": 0.37696,
+		"loudness_max": -26.139
+	}, {
+		"confidence": 0.297,
+		"timbre": [28.573, -152.925, 74.419, 12.823, 42.16, -33.924, 10.638, 13.666, -24.906, -11.842, -1.285, 10.186],
+		"pitches": [0.18, 0.626, 0.1, 0.531, 0.019, 0.03, 0.193, 0.038, 0.038, 0.015, 0.082, 1.0],
+		"start": 3.16354,
+		"loudness_max_time": 0.06813,
+		"loudness_start": -33.617,
+		"duration": 0.22753,
+		"loudness_max": -29.894
+	}, {
+		"confidence": 0.327,
+		"timbre": [29.604, -142.825, 60.511, -15.934, 55.496, -51.969, 9.905, -16.715, -1.348, 11.632, 2.307, 11.129],
+		"pitches": [0.128, 1.0, 0.071, 0.165, 0.04, 0.043, 0.092, 0.076, 0.463, 0.048, 0.048, 0.423],
+		"start": 3.39107,
+		"loudness_max_time": 0.10176,
+		"loudness_start": -33.201,
+		"duration": 0.13791,
+		"loudness_max": -29.503
+	}, {
+		"confidence": 0.514,
+		"timbre": [32.071, -157.019, 98.275, -22.35, 49.42, -25.645, 41.203, 26.218, -5.968, -13.381, 2.725, 11.378],
+		"pitches": [0.105, 1.0, 0.038, 0.138, 0.008, 0.008, 0.042, 0.05, 0.505, 0.029, 0.039, 0.498],
+		"start": 3.52898,
+		"loudness_max_time": 0.08916,
+		"loudness_start": -30.381,
+		"duration": 0.20957,
+		"loudness_max": -25.443
+	}, {
+		"confidence": 0.246,
+		"timbre": [32.89, -126.803, 85.116, 37.913, 41.862, -30.359, 26.821, 7.548, -20.086, -6.97, -5.334, 11.551],
+		"pitches": [0.071, 1.0, 0.028, 0.082, 0.468, 0.032, 0.026, 0.027, 0.197, 0.023, 0.018, 0.385],
+		"start": 3.73855,
+		"loudness_max_time": 0.02117,
+		"loudness_start": -29.734,
+		"duration": 0.27868,
+		"loudness_max": -25.102
+	}, {
+		"confidence": 0.485,
+		"timbre": [31.757, -150.309, 103.201, -31.533, 42.039, -36.167, 37.17, 20.552, -7.308, -6.333, 8.718, 2.028],
+		"pitches": [0.132, 1.0, 0.065, 0.083, 0.366, 0.039, 0.04, 0.082, 0.698, 0.043, 0.044, 0.5],
+		"start": 4.01723,
+		"loudness_max_time": 0.0957,
+		"loudness_start": -31.344,
+		"duration": 0.13923,
+		"loudness_max": -25.984
+	}, {
+		"confidence": 0.3,
+		"timbre": [34.225, -115.866, 104.092, 42.114, 40.854, -31.595, 44.102, 14.691, -16.54, -15.808, -7.753, 17.443],
+		"pitches": [0.176, 1.0, 0.043, 0.055, 0.825, 0.054, 0.027, 0.08, 0.434, 0.048, 0.07, 0.681],
+		"start": 4.15646,
+		"loudness_max_time": 0.07766,
+		"loudness_start": -26.595,
+		"duration": 0.40721,
+		"loudness_max": -23.153
+	}, {
+		"confidence": 0.559,
+		"timbre": [30.388, -139.691, 87.655, -11.419, 42.128, -15.074, 11.074, 28.39, -29.965, -12.854, -8.983, 12.411],
+		"pitches": [0.145, 0.407, 0.076, 0.031, 0.304, 0.023, 0.023, 0.027, 0.141, 0.018, 0.064, 1.0],
+		"start": 4.56367,
+		"loudness_max_time": 0.09995,
+		"loudness_start": -32.86,
+		"duration": 0.20766,
+		"loudness_max": -26.642
+	}, {
+		"confidence": 0.305,
+		"timbre": [30.084, -137.882, 88.363, 4.51, 35.643, -28.569, 20.838, -13.405, -26.459, -10.454, 1.581, 11.793],
+		"pitches": [0.121, 1.0, 0.061, 0.026, 0.112, 0.019, 0.06, 0.085, 0.369, 0.044, 0.022, 0.258],
+		"start": 4.77134,
+		"loudness_max_time": 0.077,
+		"loudness_start": -33.4,
+		"duration": 0.18562,
+		"loudness_max": -28.908
+	}, {
+		"confidence": 0.57,
+		"timbre": [32.245, -158.382, 107.369, -25.295, 60.096, -23.784, 30.051, 31.389, -7.929, -7.626, 4.44, 7.792],
+		"pitches": [0.079, 1.0, 0.032, 0.016, 0.069, 0.012, 0.023, 0.042, 0.331, 0.023, 0.025, 0.397],
+		"start": 4.95696,
+		"loudness_max_time": 0.10286,
+		"loudness_start": -30.769,
+		"duration": 0.2395,
+		"loudness_max": -24.683
+	}, {
+		"confidence": 0.367,
+		"timbre": [33.523, -124.317, 89.152, 34.969, 45.479, -36.407, 22.373, 3.877, -16.455, -9.507, -8.69, 6.468],
+		"pitches": [0.065, 1.0, 0.029, 0.039, 0.568, 0.037, 0.03, 0.052, 0.344, 0.035, 0.024, 0.317],
+		"start": 5.19646,
+		"loudness_max_time": 0.02847,
+		"loudness_start": -29.517,
+		"duration": 0.32395,
+		"loudness_max": -24.905
+	}, {
+		"confidence": 0.422,
+		"timbre": [32.844, -139.07, 92.889, 25.664, 39.195, -20.721, 44.227, 20.071, -4.678, -17.282, -11.447, 14.22],
+		"pitches": [0.107, 1.0, 0.033, 0.019, 0.227, 0.013, 0.014, 0.048, 0.555, 0.028, 0.031, 0.352],
+		"start": 5.52041,
+		"loudness_max_time": 0.06968,
+		"loudness_start": -28.835,
+		"duration": 0.19746,
+		"loudness_max": -25.166
+	}, {
+		"confidence": 0.645,
+		"timbre": [32.82, -113.71, 95.973, 62.366, 52.857, -7.277, 19.433, 0.373, -25.078, -15.701, -5.259, 9.877],
+		"pitches": [0.173, 0.867, 0.061, 0.066, 0.874, 0.062, 0.022, 0.043, 0.284, 0.072, 0.386, 1.0],
+		"start": 5.71787,
+		"loudness_max_time": 0.03089,
+		"loudness_start": -30.711,
+		"duration": 0.32399,
+		"loudness_max": -23.996
+	}, {
+		"confidence": 0.662,
+		"timbre": [32.382, -149.797, 86.46, 6.569, 51.822, 3.071, -6.982, 2.29, -29.466, -24.975, 0.154, 5.476],
+		"pitches": [0.053, 0.316, 0.045, 0.022, 0.19, 0.045, 0.051, 0.058, 0.151, 0.119, 1.0, 0.246],
+		"start": 6.04186,
+		"loudness_max_time": 0.0628,
+		"loudness_start": -31.109,
+		"duration": 0.18091,
+		"loudness_max": -24.643
+	}, {
+		"confidence": 0.294,
+		"timbre": [32.005, -195.584, 60.995, 5.32, 66.644, -20.033, -27.852, -5.9, -15.485, -13.111, 3.879, -3.366],
+		"pitches": [0.038, 0.32, 0.023, 0.005, 0.037, 0.021, 0.06, 0.013, 0.034, 0.04, 1.0, 0.09],
+		"start": 6.22277,
+		"loudness_max_time": 0.0404,
+		"loudness_start": -29.926,
+		"duration": 0.23882,
+		"loudness_max": -26.555
+	}, {
+		"confidence": 0.675,
+		"timbre": [33.147, -197.636, 93.776, -56.55, 82.596, -13.286, -17.414, 8.425, -8.792, -17.947, 5.119, 1.712],
+		"pitches": [0.025, 0.337, 0.011, 0.005, 0.015, 0.016, 0.173, 0.006, 0.016, 0.038, 1.0, 0.047],
+		"start": 6.46159,
+		"loudness_max_time": 0.16145,
+		"loudness_start": -30.534,
+		"duration": 0.23234,
+		"loudness_max": -23.365
+	}, {
+		"confidence": 0.247,
+		"timbre": [34.742, -171.889, 77.01, 27.999, 67.676, -26.988, -22.899, -8.384, -25.515, -19.911, 7.646, 4.396],
+		"pitches": [0.023, 0.357, 0.01, 0.013, 0.21, 0.023, 0.067, 0.012, 0.007, 0.018, 1.0, 0.026],
+		"start": 6.69392,
+		"loudness_max_time": 0.01906,
+		"loudness_start": -28.083,
+		"duration": 0.33551,
+		"loudness_max": -22.989
+	}, {
+		"confidence": 0.47,
+		"timbre": [33.803, -167.108, 87.115, 15.03, 64.696, -11.91, -15.67, 12.506, -22.867, -24.314, -9.696, 7.079],
+		"pitches": [0.063, 0.579, 0.026, 0.04, 0.371, 0.053, 0.22, 0.047, 0.025, 0.058, 1.0, 0.046],
+		"start": 7.02943,
+		"loudness_max_time": 0.14202,
+		"loudness_start": -27.577,
+		"duration": 0.50558,
+		"loudness_max": -22.346
+	}, {
+		"confidence": 0.623,
+		"timbre": [31.366, -155.713, 103.534, -4.923, 66.05, -1.397, -14.604, 1.464, -29.979, -19.968, -3.13, 8.853],
+		"pitches": [0.053, 0.253, 0.037, 0.01, 0.152, 0.025, 0.063, 0.012, 0.015, 0.12, 1.0, 0.05],
+		"start": 7.53501,
+		"loudness_max_time": 0.06991,
+		"loudness_start": -32.431,
+		"duration": 0.19773,
+		"loudness_max": -26.517
+	}, {
+		"confidence": 0.11,
+		"timbre": [31.14, -210.289, 48.895, -5.211, 69.112, -32.876, -28.882, 0.236, -12.47, -11.44, 3.14, -5.072],
+		"pitches": [0.032, 0.341, 0.024, 0.01, 0.038, 0.026, 0.074, 0.031, 0.03, 0.087, 1.0, 0.009],
+		"start": 7.73274,
+		"loudness_max_time": 0.06478,
+		"loudness_start": -30.154,
+		"duration": 0.17878,
+		"loudness_max": -27.647
+	}, {
+		"confidence": 0.588,
+		"timbre": [32.82, -191.474, 93.905, -50.163, 81.873, -18.188, -21.005, 1.581, -9.936, -9.147, 9.591, 2.375],
+		"pitches": [0.026, 0.318, 0.012, 0.004, 0.032, 0.017, 0.167, 0.005, 0.008, 0.05, 1.0, 0.015],
+		"start": 7.91152,
+		"loudness_max_time": 0.1712,
+		"loudness_start": -30.211,
+		"duration": 0.2322,
+		"loudness_max": -23.386
+	}, {
+		"confidence": 0.17,
+		"timbre": [34.901, -169.155, 83.259, 17.052, 63.869, -30.08, -22.391, -4.461, -26.167, -18.413, 1.234, 6.242],
+		"pitches": [0.022, 0.321, 0.009, 0.012, 0.189, 0.018, 0.048, 0.009, 0.01, 0.038, 1.0, 0.02],
+		"start": 8.14372,
+		"loudness_max_time": 0.02913,
+		"loudness_start": -28.58,
+		"duration": 0.24517,
+		"loudness_max": -23.727
+	}, {
+		"confidence": 0.591,
+		"timbre": [33.12, -187.024, 87.302, -37.961, 73.163, -27.001, -15.94, -3.557, -20.207, -3.702, 10.556, 3.891],
+		"pitches": [0.022, 0.384, 0.013, 0.006, 0.095, 0.021, 0.096, 0.007, 0.006, 0.03, 1.0, 0.013],
+		"start": 8.38889,
+		"loudness_max_time": 0.12212,
+		"loudness_start": -29.402,
+		"duration": 0.26045,
+		"loudness_max": -22.816
+	}, {
+		"confidence": 0.344,
+		"timbre": [33.561, -172.12, 73.283, 23.041, 63.412, -14.325, -12.584, 15.956, -21.068, -27.949, -0.186, 7.606],
+		"pitches": [0.072, 0.439, 0.023, 0.019, 0.285, 0.033, 0.087, 0.01, 0.015, 0.056, 1.0, 0.108],
+		"start": 8.64934,
+		"loudness_max_time": 0.04389,
+		"loudness_start": -28.095,
+		"duration": 0.36571,
+		"loudness_max": -24.116
+	}, {
+		"confidence": 0.546,
+		"timbre": [31.659, -136.723, 83.534, 29.633, 48.455, -8.425, -4.043, 8.538, -24.36, -23.837, 8.198, 0.418],
+		"pitches": [0.1, 0.41, 0.064, 1.0, 0.25, 0.05, 0.23, 0.048, 0.022, 0.117, 0.577, 0.865],
+		"start": 9.01506,
+		"loudness_max_time": 0.05796,
+		"loudness_start": -31.229,
+		"duration": 0.36635,
+		"loudness_max": -25.785
+	}, {
+		"confidence": 0.476,
+		"timbre": [29.505, -165.673, 89.046, -35.489, 73.141, -32.023, 17.42, 6.321, -2.561, -9.938, 14.569, 0.126],
+		"pitches": [0.078, 0.226, 0.049, 0.58, 0.095, 0.036, 0.416, 0.015, 0.01, 0.027, 0.232, 1.0],
+		"start": 9.38141,
+		"loudness_max_time": 0.1598,
+		"loudness_start": -34.302,
+		"duration": 0.22512,
+		"loudness_max": -28.375
+	}, {
+		"confidence": 0.535,
+		"timbre": [33.301, -121.942, 97.112, 39.158, 57.969, -12.912, 3.334, 6.19, -26.255, -17.387, -10.576, 17.094],
+		"pitches": [0.048, 0.061, 0.039, 0.61, 0.058, 0.025, 0.102, 0.019, 0.008, 0.015, 0.24, 1.0],
+		"start": 9.60653,
+		"loudness_max_time": 0.05516,
+		"loudness_start": -29.43,
+		"duration": 0.26816,
+		"loudness_max": -24.578
+	}, {
+		"confidence": 0.191,
+		"timbre": [30.242, -144.946, 89.017, -11.797, 58.72, -32.626, 4.969, 0.476, -18.401, -22.667, 10.998, 11.117],
+		"pitches": [0.055, 0.049, 0.04, 0.558, 0.038, 0.028, 0.189, 0.015, 0.008, 0.015, 0.185, 1.0],
+		"start": 9.87469,
+		"loudness_max_time": 0.18791,
+		"loudness_start": -31.95,
+		"duration": 0.26612,
+		"loudness_max": -28.7
+	}, {
+		"confidence": 0.572,
+		"timbre": [33.277, -106.493, 113.829, 51.233, 64.088, -20.436, 10.895, 12.628, -20.394, -18.984, -6.868, 6.933],
+		"pitches": [0.065, 0.055, 0.097, 0.816, 0.047, 0.027, 0.111, 0.019, 0.011, 0.019, 0.135, 1.0],
+		"start": 10.14082,
+		"loudness_max_time": 0.03574,
+		"loudness_start": -29.517,
+		"duration": 0.262,
+		"loudness_max": -24.455
+	}, {
+		"confidence": 0.28,
+		"timbre": [30.42, -146.08, 87.261, 3.888, 38.255, -23.089, 9.439, 7.954, -28.301, -10.349, -8.491, 12.662],
+		"pitches": [0.067, 0.032, 0.051, 0.576, 0.031, 0.013, 0.052, 0.011, 0.007, 0.015, 0.072, 1.0],
+		"start": 10.40281,
+		"loudness_max_time": 0.1221,
+		"loudness_start": -31.125,
+		"duration": 0.34295,
+		"loudness_max": -27.09
+	}, {
+		"confidence": 0.251,
+		"timbre": [29.745, -156.768, 68.169, 9.627, 86.986, -31.507, -7.082, -6.245, 11.718, -14.649, 3.526, -5.426],
+		"pitches": [0.087, 0.045, 0.158, 1.0, 0.065, 0.059, 0.183, 0.034, 0.012, 0.013, 0.049, 0.497],
+		"start": 10.74576,
+		"loudness_max_time": 0.03623,
+		"loudness_start": -31.694,
+		"duration": 0.11007,
+		"loudness_max": -28.499
+	}, {
+		"confidence": 0.292,
+		"timbre": [30.811, -157.539, 86.445, 12.196, 76.807, -38.672, 8.335, -1.024, -0.371, -0.553, -1.54, 5.771],
+		"pitches": [0.046, 0.017, 0.06, 0.841, 0.018, 0.033, 0.491, 0.023, 0.011, 0.009, 0.06, 1.0],
+		"start": 10.85583,
+		"loudness_max_time": 0.05535,
+		"loudness_start": -32.145,
+		"duration": 0.20209,
+		"loudness_max": -28.38
+	}, {
+		"confidence": 0.727,
+		"timbre": [33.261, -123.676, 98.015, 59.244, 58.689, -20.651, 5.919, 2.323, -21.531, -21.083, 7.749, 7.185],
+		"pitches": [0.047, 0.03, 0.073, 0.652, 0.028, 0.054, 0.248, 0.053, 0.027, 0.022, 0.09, 1.0],
+		"start": 11.05791,
+		"loudness_max_time": 0.03714,
+		"loudness_start": -30.894,
+		"duration": 0.46512,
+		"loudness_max": -23.569
+	}, {
+		"confidence": 0.08,
+		"timbre": [31.403, -127.52, 123.985, 11.509, 62.644, -46.764, 35.448, 20.646, -6.796, -5.122, 11.225, 5.701],
+		"pitches": [0.208, 0.064, 0.185, 0.802, 0.089, 0.106, 0.388, 0.061, 0.04, 0.045, 0.091, 1.0],
+		"start": 11.52304,
+		"loudness_max_time": 0.03059,
+		"loudness_start": -30.227,
+		"duration": 0.08091,
+		"loudness_max": -28.254
+	}, {
+		"confidence": 0.145,
+		"timbre": [31.362, -92.751, 121.36, 65.438, 48.288, -27.867, 36.261, -1.189, -26.323, -14.523, -22.159, 17.142],
+		"pitches": [0.089, 0.025, 0.071, 0.574, 0.027, 0.03, 0.167, 0.031, 0.025, 0.018, 0.077, 1.0],
+		"start": 11.60395,
+		"loudness_max_time": 0.07253,
+		"loudness_start": -29.087,
+		"duration": 0.23315,
+		"loudness_max": -26.478
+	}, {
+		"confidence": 0.055,
+		"timbre": [27.207, -154.57, 79.895, 21.081, 74.274, -46.574, -2.563, -4.018, -21.357, 2.322, 2.069, -2.419],
+		"pitches": [0.111, 0.041, 0.075, 0.761, 0.053, 0.019, 0.156, 0.014, 0.012, 0.019, 0.062, 1.0],
+		"start": 11.8371,
+		"loudness_max_time": 0.02601,
+		"loudness_start": -34.294,
+		"duration": 0.3127,
+		"loudness_max": -31.542
+	}, {
+		"confidence": 0.221,
+		"timbre": [27.824, -159.308, 77.969, -15.285, 85.98, -35.084, 1.716, -7.189, 0.251, 0.98, 9.228, 3.47],
+		"pitches": [0.102, 0.046, 0.121, 1.0, 0.121, 0.099, 0.194, 0.163, 0.69, 0.092, 0.093, 0.905],
+		"start": 12.1498,
+		"loudness_max_time": 0.10567,
+		"loudness_start": -34.443,
+		"duration": 0.16866,
+		"loudness_max": -30.963
+	}, {
+		"confidence": 0.721,
+		"timbre": [32.815, -126.203, 108.684, 17.822, 63.381, -3.435, 19.554, 22.111, -13.595, -18.313, -2.214, 4.88],
+		"pitches": [0.115, 0.053, 0.11, 1.0, 0.085, 0.072, 0.145, 0.147, 0.459, 0.08, 0.045, 0.684],
+		"start": 12.31846,
+		"loudness_max_time": 0.07368,
+		"loudness_start": -32.075,
+		"duration": 0.16844,
+		"loudness_max": -25.015
+	}, {
+		"confidence": 0.816,
+		"timbre": [35.218, -57.467, 119.586, 10.07, 36.171, 29.3, -4.08, 18.076, -26.577, -48.401, -0.796, -6.528],
+		"pitches": [0.076, 0.047, 0.053, 0.913, 0.021, 0.013, 0.033, 0.075, 0.537, 0.031, 0.035, 1.0],
+		"start": 12.48689,
+		"loudness_max_time": 0.05549,
+		"loudness_start": -30.841,
+		"duration": 0.25533,
+		"loudness_max": -21.376
+	}, {
+		"confidence": 0.202,
+		"timbre": [33.822, -85.778, 112.526, 7.225, 41.067, -28.417, 3.881, -2.831, -23.455, -6.357, 5.937, -1.314],
+		"pitches": [0.041, 0.046, 0.085, 0.864, 0.046, 0.017, 0.03, 0.07, 0.699, 0.033, 0.038, 1.0],
+		"start": 12.74222,
+		"loudness_max_time": 0.17678,
+		"loudness_start": -29.651,
+		"duration": 0.29524,
+		"loudness_max": -24.318
+	}, {
+		"confidence": 0.716,
+		"timbre": [35.578, -51.986, 104.078, 60.954, 35.724, 16.293, 0.144, -3.629, -24.237, -40.144, -0.055, -9.766],
+		"pitches": [0.081, 0.033, 0.123, 1.0, 0.049, 0.014, 0.022, 0.082, 0.688, 0.054, 0.113, 0.92],
+		"start": 13.03746,
+		"loudness_max_time": 0.04156,
+		"loudness_start": -28.666,
+		"duration": 0.31338,
+		"loudness_max": -20.684
+	}, {
+		"confidence": 0.346,
+		"timbre": [33.411, -54.847, 80.594, 15.296, -4.489, -35.097, -1.835, -11.962, -38.393, -11.872, 6.392, -8.763],
+		"pitches": [0.453, 0.026, 0.099, 0.265, 0.023, 0.014, 0.038, 0.066, 0.384, 0.051, 0.055, 1.0],
+		"start": 13.35084,
+		"loudness_max_time": 0.02274,
+		"loudness_start": -29.176,
+		"duration": 0.07565,
+		"loudness_max": -25.257
+	}, {
+		"confidence": 0.09,
+		"timbre": [33.112, -97.787, 62.624, 52.42, 22.064, -34.159, -13.775, -7.652, -19.898, 0.885, -11.299, -24.151],
+		"pitches": [0.159, 0.035, 0.087, 0.797, 0.046, 0.028, 0.04, 0.044, 0.14, 0.011, 0.065, 1.0],
+		"start": 13.42649,
+		"loudness_max_time": 0.028,
+		"loudness_start": -27.623,
+		"duration": 0.17937,
+		"loudness_max": -23.709
+	}, {
+		"confidence": 0.062,
+		"timbre": [29.45, -165.29, 82.655, -7.458, 68.46, -37.5, 8.567, -4.758, -2.067, -0.305, 3.295, -3.019],
+		"pitches": [0.062, 0.033, 0.135, 1.0, 0.077, 0.05, 0.079, 0.116, 0.555, 0.068, 0.06, 0.504],
+		"start": 13.60585,
+		"loudness_max_time": 0.09387,
+		"loudness_start": -32.699,
+		"duration": 0.14558,
+		"loudness_max": -29.489
+	}, {
+		"confidence": 0.667,
+		"timbre": [32.306, -139.706, 113.499, -7.688, 70.636, -7.063, 16.673, 23.912, -6.942, -20.659, -10.762, -0.937],
+		"pitches": [0.044, 0.014, 0.062, 1.0, 0.031, 0.012, 0.019, 0.043, 0.352, 0.02, 0.038, 0.509],
+		"start": 13.75143,
+		"loudness_max_time": 0.09739,
+		"loudness_start": -30.911,
+		"duration": 0.21615,
+		"loudness_max": -24.263
+	}, {
+		"confidence": 0.839,
+		"timbre": [36.985, -31.914, 108.28, 51.221, 25.693, 0.796, -10.097, -7.847, -33.746, -22.874, -9.75, -16.225],
+		"pitches": [0.105, 0.038, 0.076, 0.802, 0.027, 0.015, 0.042, 0.079, 0.561, 0.035, 0.091, 1.0],
+		"start": 13.96757,
+		"loudness_max_time": 0.03588,
+		"loudness_start": -29.801,
+		"duration": 0.18481,
+		"loudness_max": -20.815
+	}, {
+		"confidence": 0.365,
+		"timbre": [32.515, -108.17, 113.951, -32.086, 53.475, -28.725, 10.328, 15.825, -12.161, -12.265, 12.104, -15.714],
+		"pitches": [0.087, 0.037, 0.103, 0.969, 0.029, 0.016, 0.026, 0.115, 0.694, 0.04, 0.063, 1.0],
+		"start": 14.15238,
+		"loudness_max_time": 0.14217,
+		"loudness_start": -30.697,
+		"duration": 0.19161,
+		"loudness_max": -24.505
+	}, {
+		"confidence": 0.034,
+		"timbre": [34.438, -111.915, 116.12, 58.386, 55.408, -32.226, 12.337, 1.825, -20.167, -13.499, -8.42, 4.867],
+		"pitches": [0.074, 0.03, 0.1, 1.0, 0.026, 0.011, 0.042, 0.07, 0.313, 0.04, 0.058, 0.611],
+		"start": 14.34399,
+		"loudness_max_time": 0.04086,
+		"loudness_start": -26.103,
+		"duration": 0.15079,
+		"loudness_max": -23.43
+	}, {
+		"confidence": 0.723,
+		"timbre": [35.556, -36.616, 118.231, 80.288, 41.572, -18.901, -20.105, -20.699, -31.325, -23.159, -24.008, -21.744],
+		"pitches": [0.109, 0.065, 0.067, 0.698, 0.044, 0.026, 0.038, 0.097, 0.388, 0.051, 0.093, 1.0],
+		"start": 14.49478,
+		"loudness_max_time": 0.02478,
+		"loudness_start": -30.275,
+		"duration": 0.28522,
+		"loudness_max": -21.29
+	}, {
+		"confidence": 0.439,
+		"timbre": [32.394, -70.867, 92.962, 29.483, 31.396, -17.614, -28.168, -13.93, -35.609, -14.25, -3.199, -15.279],
+		"pitches": [0.16, 0.576, 0.115, 0.344, 0.029, 0.028, 0.03, 0.057, 0.353, 0.02, 0.068, 1.0],
+		"start": 14.78,
+		"loudness_max_time": 0.02337,
+		"loudness_start": -30.17,
+		"duration": 0.27256,
+		"loudness_max": -25.332
+	}, {
+		"confidence": 0.184,
+		"timbre": [28.954, -172.68, 55.906, -14.133, 65.966, -37.804, -15.682, -5.482, 0.464, 16.259, 2.486, -17.113],
+		"pitches": [0.292, 0.973, 0.123, 0.592, 0.112, 1.0, 0.119, 0.074, 0.133, 0.048, 0.064, 0.743],
+		"start": 15.05256,
+		"loudness_max_time": 0.04971,
+		"loudness_start": -33.93,
+		"duration": 0.10499,
+		"loudness_max": -30.538
+	}, {
+		"confidence": 0.055,
+		"timbre": [29.767, -160.003, 56.67, -2.684, 58.402, -39.35, 1.047, 1.202, 7.166, -4.344, 4.612, -8.424],
+		"pitches": [0.176, 1.0, 0.075, 0.398, 0.144, 1.0, 0.066, 0.081, 0.629, 0.054, 0.059, 0.809],
+		"start": 15.15755,
+		"loudness_max_time": 0.02118,
+		"loudness_start": -31.196,
+		"duration": 0.2083,
+		"loudness_max": -29.352
+	}, {
+		"confidence": 0.594,
+		"timbre": [31.33, -160.185, 85.863, -8.868, 55.162, -15.396, 30.449, 17.008, -0.499, -11.465, -4.196, 6.204],
+		"pitches": [0.083, 1.0, 0.031, 0.079, 0.075, 0.774, 0.046, 0.049, 0.269, 0.047, 0.029, 0.475],
+		"start": 15.36585,
+		"loudness_max_time": 0.14652,
+		"loudness_start": -31.382,
+		"duration": 0.59197,
+		"loudness_max": -25.518
+	}, {
+		"confidence": 0.539,
+		"timbre": [31.947, -127.411, 105.411, 35.863, 52.904, -10.745, 36.204, 9.746, -15.232, -19.098, -5.332, 19.248],
+		"pitches": [0.202, 0.747, 0.061, 0.051, 0.052, 0.29, 0.088, 0.179, 0.417, 0.072, 0.153, 1.0],
+		"start": 15.95782,
+		"loudness_max_time": 0.12507,
+		"loudness_start": -30.31,
+		"duration": 0.44771,
+		"loudness_max": -24.495
+	}, {
+		"confidence": 0.3,
+		"timbre": [29.19, -166.03, 71.728, -15.658, 45.614, -32.796, 19.883, 7.373, -15.862, -7.651, 2.986, 11.094],
+		"pitches": [0.134, 1.0, 0.052, 0.016, 0.043, 0.747, 0.052, 0.029, 0.092, 0.022, 0.029, 0.646],
+		"start": 16.40553,
+		"loudness_max_time": 0.1738,
+		"loudness_start": -33.485,
+		"duration": 0.30585,
+		"loudness_max": -29.19
+	}, {
+		"confidence": 0.229,
+		"timbre": [29.666, -153.775, 65.712, -18.15, 48.231, -32.098, 17.054, 3.247, 12.508, 2.362, 4.089, 3.625],
+		"pitches": [0.136, 0.906, 0.055, 0.034, 0.12, 0.538, 0.125, 0.197, 0.756, 0.101, 0.056, 1.0],
+		"start": 16.71138,
+		"loudness_max_time": 0.06788,
+		"loudness_start": -32.448,
+		"duration": 0.16327,
+		"loudness_max": -29.257
+	}, {
+		"confidence": 0.495,
+		"timbre": [32.714, -140.297, 94.107, 20.087, 38.6, -23.137, 41.484, 15.041, -10.837, -19.968, -11.377, 17.0],
+		"pitches": [0.112, 1.0, 0.024, 0.013, 0.043, 0.319, 0.028, 0.035, 0.271, 0.024, 0.021, 0.395],
+		"start": 16.87465,
+		"loudness_max_time": 0.05741,
+		"loudness_start": -30.427,
+		"duration": 0.24508,
+		"loudness_max": -25.592
+	}, {
+		"confidence": 0.375,
+		"timbre": [31.661, -156.389, 73.261, 28.406, 37.949, -37.948, 35.078, 9.035, -8.596, -12.565, 6.452, 13.374],
+		"pitches": [0.101, 1.0, 0.04, 0.036, 0.068, 0.508, 0.032, 0.036, 0.418, 0.034, 0.03, 0.46],
+		"start": 17.11973,
+		"loudness_max_time": 0.03759,
+		"loudness_start": -29.97,
+		"duration": 0.25991,
+		"loudness_max": -26.303
+	}, {
+		"confidence": 0.551,
+		"timbre": [32.582, -139.609, 104.742, 30.427, 54.339, -8.199, 35.782, 9.663, -11.891, -22.601, -2.018, 12.868],
+		"pitches": [0.138, 1.0, 0.052, 0.032, 0.063, 0.733, 0.085, 0.111, 0.448, 0.038, 0.037, 0.456],
+		"start": 17.37964,
+		"loudness_max_time": 0.05003,
+		"loudness_start": -30.079,
+		"duration": 0.17465,
+		"loudness_max": -25.105
+	}, {
+		"confidence": 0.46,
+		"timbre": [31.71, -151.91, 88.897, 25.409, 52.708, -9.746, 23.851, 0.687, -23.204, -17.736, 5.405, 17.37],
+		"pitches": [0.225, 0.767, 0.055, 0.035, 0.121, 0.351, 0.146, 0.15, 0.313, 0.178, 1.0, 0.715],
+		"start": 17.55429,
+		"loudness_max_time": 0.04482,
+		"loudness_start": -30.806,
+		"duration": 0.13855,
+		"loudness_max": -25.829
+	}, {
+		"confidence": 0.192,
+		"timbre": [31.279, -170.559, 68.821, 29.49, 58.211, -39.111, -7.561, 1.844, -25.257, -4.312, -1.914, 17.436],
+		"pitches": [0.057, 0.265, 0.038, 0.024, 0.037, 0.087, 0.032, 0.036, 0.124, 0.136, 1.0, 0.246],
+		"start": 17.69283,
+		"loudness_max_time": 0.01835,
+		"loudness_start": -31.317,
+		"duration": 0.12921,
+		"loudness_max": -27.056
+	}, {
+		"confidence": 0.2,
+		"timbre": [30.57, -204.966, 59.21, -7.284, 73.815, -32.669, -19.29, -7.933, -19.442, 1.409, 0.728, 5.293],
+		"pitches": [0.039, 0.305, 0.023, 0.01, 0.01, 0.06, 0.022, 0.014, 0.075, 0.064, 1.0, 0.134],
+		"start": 17.82204,
+		"loudness_max_time": 0.07543,
+		"loudness_start": -31.9,
+		"duration": 0.20213,
+		"loudness_max": -28.122
+	}, {
+		"confidence": 0.167,
+		"timbre": [31.134, -226.3, 60.235, -10.294, 82.202, -32.464, -24.65, 0.265, -14.167, -10.966, 5.392, -3.574],
+		"pitches": [0.047, 0.297, 0.023, 0.005, 0.013, 0.04, 0.083, 0.022, 0.023, 0.149, 1.0, 0.094],
+		"start": 18.02417,
+		"loudness_max_time": 0.03579,
+		"loudness_start": -30.207,
+		"duration": 0.10531,
+		"loudness_max": -28.128
+	}, {
+		"confidence": 0.595,
+		"timbre": [34.207, -190.879, 96.522, -18.086, 78.254, -5.268, -13.601, 7.688, -16.465, -22.289, 8.994, 7.132],
+		"pitches": [0.039, 0.324, 0.015, 0.005, 0.003, 0.024, 0.161, 0.009, 0.012, 0.051, 1.0, 0.055],
+		"start": 18.12948,
+		"loudness_max_time": 0.1326,
+		"loudness_start": -29.879,
+		"duration": 0.19596,
+		"loudness_max": -23.694
+	}, {
+		"confidence": 0.466,
+		"timbre": [35.337, -164.352, 87.518, 14.604, 61.934, -20.27, -26.22, 3.587, -21.66, -27.801, -3.787, 2.719],
+		"pitches": [0.027, 0.347, 0.013, 0.011, 0.013, 0.03, 0.171, 0.027, 0.019, 0.023, 1.0, 0.034],
+		"start": 18.32544,
+		"loudness_max_time": 0.07909,
+		"loudness_start": -27.208,
+		"duration": 0.37229,
+		"loudness_max": -22.185
+	}, {
+		"confidence": 0.455,
+		"timbre": [34.772, -176.061, 90.136, 3.988, 64.715, -18.094, -7.842, 0.202, -21.679, -22.087, -2.656, 16.066],
+		"pitches": [0.034, 0.393, 0.01, 0.003, 0.008, 0.018, 0.135, 0.017, 0.017, 0.051, 1.0, 0.013],
+		"start": 18.69773,
+		"loudness_max_time": 0.08121,
+		"loudness_start": -27.842,
+		"duration": 0.1805,
+		"loudness_max": -23.389
+	}, {
+		"confidence": 0.48,
+		"timbre": [34.149, -158.069, 76.506, 41.514, 59.517, -14.608, -23.92, 0.611, -22.268, -34.163, -10.718, 4.248],
+		"pitches": [0.051, 0.357, 0.022, 0.014, 0.018, 0.032, 0.184, 0.045, 0.033, 0.065, 1.0, 0.053],
+		"start": 18.87823,
+		"loudness_max_time": 0.05505,
+		"loudness_start": -28.032,
+		"duration": 0.4346,
+		"loudness_max": -23.061
+	}, {
+		"confidence": 0.348,
+		"timbre": [29.246, -207.515, 54.494, -27.545, 75.714, -29.447, -21.948, 1.944, -18.834, -1.886, 6.818, -5.694],
+		"pitches": [0.032, 0.292, 0.029, 0.011, 0.011, 0.024, 0.065, 0.014, 0.015, 0.081, 1.0, 0.026],
+		"start": 19.31283,
+		"loudness_max_time": 0.11802,
+		"loudness_start": -33.019,
+		"duration": 0.15683,
+		"loudness_max": -29.88
+	}, {
+		"confidence": 0.2,
+		"timbre": [30.938, -203.161, 32.451, -11.918, 68.185, -29.349, -38.178, -11.828, 3.371, -9.37, -0.082, -11.115],
+		"pitches": [0.034, 0.408, 0.02, 0.009, 0.016, 0.031, 0.069, 0.025, 0.017, 0.081, 1.0, 0.021],
+		"start": 19.46966,
+		"loudness_max_time": 0.03958,
+		"loudness_start": -29.923,
+		"duration": 0.15084,
+		"loudness_max": -27.976
+	}, {
+		"confidence": 0.674,
+		"timbre": [34.229, -179.153, 86.94, 8.79, 67.076, -12.167, -11.893, 6.486, -18.771, -22.455, -0.352, 13.213],
+		"pitches": [0.038, 0.436, 0.015, 0.005, 0.012, 0.029, 0.181, 0.025, 0.027, 0.074, 1.0, 0.011],
+		"start": 19.6205,
+		"loudness_max_time": 0.04812,
+		"loudness_start": -30.746,
+		"duration": 0.16345,
+		"loudness_max": -24.211
+	}, {
+		"confidence": 0.487,
+		"timbre": [34.474, -176.434, 82.882, 6.259, 61.094, -20.208, -23.821, 8.162, -19.848, -21.315, 2.59, 2.639],
+		"pitches": [0.026, 0.307, 0.01, 0.005, 0.006, 0.018, 0.123, 0.012, 0.006, 0.015, 1.0, 0.011],
+		"start": 19.78395,
+		"loudness_max_time": 0.12566,
+		"loudness_start": -28.983,
+		"duration": 0.36576,
+		"loudness_max": -22.46
+	}, {
+		"confidence": 0.514,
+		"timbre": [34.511, -176.999, 98.088, -13.131, 68.961, -10.272, -9.466, 10.997, -21.249, -17.292, -0.783, 13.415],
+		"pitches": [0.041, 0.431, 0.013, 0.003, 0.004, 0.018, 0.171, 0.008, 0.006, 0.05, 1.0, 0.021],
+		"start": 20.14971,
+		"loudness_max_time": 0.12861,
+		"loudness_start": -27.905,
+		"duration": 0.19673,
+		"loudness_max": -22.993
+	}, {
+		"confidence": 0.587,
+		"timbre": [33.27, -176.033, 71.483, 37.538, 69.373, -18.352, -28.132, -6.268, -18.102, -33.035, -12.107, 2.671],
+		"pitches": [0.06, 0.218, 0.023, 0.076, 0.024, 0.023, 0.097, 0.042, 0.019, 0.056, 1.0, 0.2],
+		"start": 20.34644,
+		"loudness_max_time": 0.07331,
+		"loudness_start": -29.54,
+		"duration": 0.77751,
+		"loudness_max": -22.189
+	}, {
+		"confidence": 0.429,
+		"timbre": [30.762, -191.3, 46.056, -9.737, 101.507, -26.511, -43.176, -14.7, 12.85, -13.532, 10.98, -0.878],
+		"pitches": [0.029, 0.071, 0.02, 0.156, 0.015, 0.024, 0.097, 0.019, 0.01, 0.089, 1.0, 0.172],
+		"start": 21.12395,
+		"loudness_max_time": 0.04534,
+		"loudness_start": -31.895,
+		"duration": 0.13977,
+		"loudness_max": -27.693
+	}, {
+		"confidence": 0.295,
+		"timbre": [31.204, -205.902, 52.455, -25.093, 94.529, -32.358, -32.265, -6.995, 6.269, -5.125, -0.439, 3.414],
+		"pitches": [0.02, 0.031, 0.052, 0.457, 0.022, 0.021, 0.077, 0.018, 0.016, 0.016, 1.0, 0.393],
+		"start": 21.26372,
+		"loudness_max_time": 0.12126,
+		"loudness_start": -30.046,
+		"duration": 0.60408,
+		"loudness_max": -26.486
+	}, {
+		"confidence": 0.512,
+		"timbre": [30.819, -181.649, 63.31, 9.753, 80.314, -23.026, -4.711, -5.797, -16.123, -5.531, -15.64, 12.142],
+		"pitches": [0.05, 0.024, 0.037, 0.181, 0.026, 0.039, 0.097, 0.026, 0.019, 0.085, 1.0, 0.55],
+		"start": 21.8678,
+		"loudness_max_time": 0.08746,
+		"loudness_start": -31.241,
+		"duration": 0.42345,
+		"loudness_max": -25.323
+	}, {
+		"confidence": 0.463,
+		"timbre": [30.092, -222.81, 53.448, -27.805, 103.357, -31.367, -32.445, 6.13, -0.808, -10.067, 13.71, -6.477],
+		"pitches": [0.023, 0.008, 0.027, 0.353, 0.021, 0.015, 0.055, 0.016, 0.01, 0.026, 1.0, 0.188],
+		"start": 22.29125,
+		"loudness_max_time": 0.3326,
+		"loudness_start": -33.445,
+		"duration": 0.48181,
+		"loudness_max": -27.953
+	}, {
+		"confidence": 0.279,
+		"timbre": [31.734, -194.209, 74.016, -12.128, 94.066, -28.201, -24.725, -7.075, -5.69, -11.863, 4.617, 6.555],
+		"pitches": [0.021, 0.013, 0.021, 0.087, 0.013, 0.014, 0.093, 0.004, 0.004, 0.028, 1.0, 0.277],
+		"start": 22.77306,
+		"loudness_max_time": 0.06512,
+		"loudness_start": -30.269,
+		"duration": 0.27311,
+		"loudness_max": -27.03
+	}, {
+		"confidence": 0.109,
+		"timbre": [31.842, -202.785, 57.942, 2.059, 84.866, -48.942, -32.928, 7.151, -3.774, -0.123, 5.773, 7.093],
+		"pitches": [0.016, 0.008, 0.022, 0.241, 0.012, 0.021, 0.088, 0.011, 0.004, 0.032, 1.0, 0.333],
+		"start": 23.04617,
+		"loudness_max_time": 0.02262,
+		"loudness_start": -29.166,
+		"duration": 0.26676,
+		"loudness_max": -26.833
+	}, {
+		"confidence": 0.197,
+		"timbre": [31.688, -187.765, 59.29, 1.922, 82.853, -30.558, -21.155, 0.047, -6.234, -5.142, -5.013, 10.061],
+		"pitches": [0.044, 0.03, 0.035, 0.175, 0.015, 0.041, 0.159, 0.044, 0.097, 0.088, 1.0, 0.453],
+		"start": 23.31293,
+		"loudness_max_time": 0.07047,
+		"loudness_start": -29.143,
+		"duration": 0.25619,
+		"loudness_max": -26.56
+	}, {
+		"confidence": 0.323,
+		"timbre": [29.976, -204.67, 37.532, 16.833, 57.212, -40.66, -4.621, 9.0, -23.808, -10.12, 1.482, 13.377],
+		"pitches": [0.06, 0.019, 0.023, 0.099, 0.009, 0.017, 0.075, 0.081, 1.0, 0.061, 0.337, 0.438],
+		"start": 23.56912,
+		"loudness_max_time": 0.04348,
+		"loudness_start": -31.859,
+		"duration": 0.2244,
+		"loudness_max": -27.939
+	}, {
+		"confidence": 0.303,
+		"timbre": [28.707, -205.588, 31.053, -35.347, 55.724, -29.769, -5.949, 13.503, -22.381, -7.692, 9.111, 5.838],
+		"pitches": [0.037, 0.013, 0.035, 0.386, 0.028, 0.013, 0.063, 0.07, 1.0, 0.053, 0.304, 0.44],
+		"start": 23.79351,
+		"loudness_max_time": 0.11541,
+		"loudness_start": -33.472,
+		"duration": 0.23229,
+		"loudness_max": -30.225
+	}, {
+		"confidence": 0.2,
+		"timbre": [29.749, -195.666, 22.313, -22.352, 71.031, -30.217, -17.861, -7.911, 6.55, -10.251, 4.687, 1.433],
+		"pitches": [0.03, 0.017, 0.036, 0.385, 0.019, 0.019, 0.113, 0.071, 1.0, 0.021, 0.134, 0.275],
+		"start": 24.0258,
+		"loudness_max_time": 0.03846,
+		"loudness_start": -31.921,
+		"duration": 0.23238,
+		"loudness_max": -29.22
+	}, {
+		"confidence": 0.534,
+		"timbre": [32.871, -188.905, 50.657, -30.74, 56.517, -25.474, 4.339, -1.595, -8.523, -2.908, 12.755, 18.215],
+		"pitches": [0.077, 0.015, 0.035, 0.124, 0.024, 0.036, 0.274, 0.153, 1.0, 0.053, 0.119, 0.343],
+		"start": 24.25819,
+		"loudness_max_time": 0.05891,
+		"loudness_start": -31.117,
+		"duration": 0.0873,
+		"loudness_max": -26.179
+	}, {
+		"confidence": 0.126,
+		"timbre": [33.583, -192.47, 51.579, 12.413, 48.254, -29.788, 1.854, 11.936, -16.295, -13.816, -12.103, 25.053],
+		"pitches": [0.021, 0.008, 0.019, 0.219, 0.029, 0.01, 0.059, 0.081, 1.0, 0.017, 0.089, 0.333],
+		"start": 24.34549,
+		"loudness_max_time": 0.06042,
+		"loudness_start": -26.498,
+		"duration": 0.19837,
+		"loudness_max": -24.291
+	}, {
+		"confidence": 0.181,
+		"timbre": [31.782, -186.709, 28.655, -8.595, 53.888, -38.972, -15.182, 16.443, -7.346, -0.149, 7.512, 19.6],
+		"pitches": [0.014, 0.011, 0.022, 0.18, 0.01, 0.019, 0.092, 0.064, 1.0, 0.013, 0.061, 0.303],
+		"start": 24.54385,
+		"loudness_max_time": 0.04204,
+		"loudness_start": -29.16,
+		"duration": 0.23732,
+		"loudness_max": -27.171
+	}, {
+		"confidence": 0.588,
+		"timbre": [32.394, -175.01, 40.224, 12.913, 54.891, -12.027, 10.388, 5.917, -4.518, -19.103, 3.72, 17.729],
+		"pitches": [0.032, 0.023, 0.03, 0.106, 0.012, 0.017, 0.196, 0.087, 1.0, 0.018, 0.085, 0.504],
+		"start": 24.78118,
+		"loudness_max_time": 0.03358,
+		"loudness_start": -30.856,
+		"duration": 0.26676,
+		"loudness_max": -25.281
+	}, {
+		"confidence": 0.551,
+		"timbre": [30.304, -196.759, 32.884, 11.711, 42.618, -19.874, 13.532, 10.299, -19.688, -15.402, -5.624, 20.815],
+		"pitches": [0.043, 0.024, 0.016, 0.095, 0.009, 0.015, 0.047, 0.067, 1.0, 0.02, 0.056, 0.434],
+		"start": 25.04794,
+		"loudness_max_time": 0.05637,
+		"loudness_start": -32.02,
+		"duration": 0.30249,
+		"loudness_max": -27.267
+	}, {
+		"confidence": 0.069,
+		"timbre": [28.828, -209.854, 8.136, -23.144, 64.015, -40.41, -18.465, 6.529, 1.179, -5.765, -0.343, 1.768],
+		"pitches": [0.039, 0.013, 0.027, 0.37, 0.014, 0.008, 0.042, 0.09, 1.0, 0.02, 0.031, 0.36],
+		"start": 25.35043,
+		"loudness_max_time": 0.05108,
+		"loudness_start": -32.147,
+		"duration": 0.19628,
+		"loudness_max": -30.257
+	}, {
+		"confidence": 0.484,
+		"timbre": [29.771, -193.679, 21.7, -37.653, 73.017, -21.648, -10.069, -6.645, 15.753, -16.808, 7.974, -2.828],
+		"pitches": [0.035, 0.017, 0.05, 0.4, 0.029, 0.033, 0.123, 0.151, 1.0, 0.055, 0.02, 0.237],
+		"start": 25.54671,
+		"loudness_max_time": 0.07021,
+		"loudness_start": -33.27,
+		"duration": 0.15252,
+		"loudness_max": -29.067
+	}, {
+		"confidence": 0.294,
+		"timbre": [31.447, -194.287, 46.331, -36.778, 57.527, -32.633, -1.435, 1.009, -3.282, -5.939, 1.35, 11.429],
+		"pitches": [0.011, 0.012, 0.023, 0.16, 0.011, 0.011, 0.103, 0.036, 1.0, 0.006, 0.017, 0.31],
+		"start": 25.69923,
+		"loudness_max_time": 0.13906,
+		"loudness_start": -30.315,
+		"duration": 0.31986,
+		"loudness_max": -26.734
+	}, {
+		"confidence": 0.008,
+		"timbre": [31.651, -196.651, 34.791, -6.512, 55.453, -42.757, -10.486, 19.849, -6.947, -3.976, 6.486, 13.219],
+		"pitches": [0.016, 0.014, 0.031, 0.255, 0.011, 0.017, 0.086, 0.059, 1.0, 0.008, 0.016, 0.344],
+		"start": 26.01909,
+		"loudness_max_time": 0.03536,
+		"loudness_start": -29.863,
+		"duration": 0.25379,
+		"loudness_max": -27.285
+	}, {
+		"confidence": 0.186,
+		"timbre": [30.453, -183.834, 24.221, -10.688, 56.917, -38.886, -3.461, 0.926, 0.713, -9.358, -13.931, 17.906],
+		"pitches": [0.163, 0.73, 0.132, 0.312, 0.039, 0.041, 0.199, 0.115, 1.0, 0.052, 0.079, 0.733],
+		"start": 26.27288,
+		"loudness_max_time": 0.13297,
+		"loudness_start": -30.186,
+		"duration": 0.47669,
+		"loudness_max": -27.049
+	}, {
+		"confidence": 0.365,
+		"timbre": [28.334, -215.345, 16.961, -37.724, 48.751, -32.306, -0.163, 8.633, -26.764, -9.21, 3.111, 7.252],
+		"pitches": [0.056, 0.721, 0.06, 0.073, 0.006, 0.007, 0.039, 0.047, 1.0, 0.018, 0.021, 0.237],
+		"start": 26.74957,
+		"loudness_max_time": 0.06939,
+		"loudness_start": -33.407,
+		"duration": 0.30054,
+		"loudness_max": -30.027
+	}, {
+		"confidence": 0.154,
+		"timbre": [29.796, -199.579, 1.322, -29.051, 42.372, -36.859, 14.985, 8.062, -10.139, -11.489, -4.756, -6.06],
+		"pitches": [0.146, 1.0, 0.111, 0.035, 0.033, 0.234, 0.022, 0.064, 0.686, 0.016, 0.007, 0.081],
+		"start": 27.05011,
+		"loudness_max_time": 0.09994,
+		"loudness_start": -31.536,
+		"duration": 0.20349,
+		"loudness_max": -28.872
+	}, {
+		"confidence": 0.429,
+		"timbre": [30.822, -194.55, 32.658, -41.742, 25.718, -27.249, 32.619, -0.744, -17.53, -8.135, -1.86, 17.454],
+		"pitches": [0.083, 1.0, 0.052, 0.028, 0.013, 0.121, 0.013, 0.035, 0.763, 0.007, 0.014, 0.197],
+		"start": 27.25361,
+		"loudness_max_time": 0.10778,
+		"loudness_start": -32.116,
+		"duration": 0.27347,
+		"loudness_max": -26.825
+	}, {
+		"confidence": 0.104,
+		"timbre": [31.082, -206.889, 26.548, -8.584, 41.1, -37.96, 6.606, 11.821, -16.354, -12.414, 8.9, 11.677],
+		"pitches": [0.068, 0.663, 0.035, 0.027, 0.016, 0.234, 0.019, 0.046, 1.0, 0.01, 0.007, 0.044],
+		"start": 27.52707,
+		"loudness_max_time": 0.03722,
+		"loudness_start": -29.958,
+		"duration": 0.27864,
+		"loudness_max": -27.237
+	}, {
+		"confidence": 0.517,
+		"timbre": [30.516, -200.263, 27.324, 1.71, 38.572, -17.532, 14.575, 23.593, -18.332, -23.402, -9.95, 19.349],
+		"pitches": [0.086, 1.0, 0.057, 0.025, 0.018, 0.092, 0.019, 0.058, 0.425, 0.021, 0.019, 0.109],
+		"start": 27.80571,
+		"loudness_max_time": 0.17989,
+		"loudness_start": -30.711,
+		"duration": 0.74825,
+		"loudness_max": -25.456
+	}, {
+		"confidence": 0.242,
+		"timbre": [29.989, -192.476, 14.604, -14.739, 49.699, -35.069, 9.709, 2.024, -15.33, -6.782, -4.94, -1.289],
+		"pitches": [0.159, 0.791, 0.073, 0.039, 0.036, 0.357, 0.022, 0.107, 1.0, 0.017, 0.004, 0.033],
+		"start": 28.55397,
+		"loudness_max_time": 0.1088,
+		"loudness_start": -31.417,
+		"duration": 0.20426,
+		"loudness_max": -29.1
+	}, {
+		"confidence": 0.552,
+		"timbre": [31.552, -189.348, 40.555, -46.211, 47.235, -21.882, 15.862, -0.461, -14.882, -10.068, 12.185, 20.649],
+		"pitches": [0.207, 0.602, 0.219, 0.027, 0.021, 0.054, 0.017, 0.216, 1.0, 0.086, 0.02, 0.247],
+		"start": 28.75823,
+		"loudness_max_time": 0.05461,
+		"loudness_start": -31.99,
+		"duration": 0.10417,
+		"loudness_max": -27.275
+	}, {
+		"confidence": 0.461,
+		"timbre": [33.423, -195.608, 42.117, 23.851, 42.269, -29.807, 8.401, 6.343, -18.516, -15.73, 3.776, 19.73],
+		"pitches": [0.055, 0.605, 0.027, 0.028, 0.017, 0.148, 0.021, 0.05, 1.0, 0.01, 0.014, 0.116],
+		"start": 28.8624,
+		"loudness_max_time": 0.06262,
+		"loudness_start": -27.12,
+		"duration": 0.4478,
+		"loudness_max": -23.38
+	}, {
+		"confidence": 0.29,
+		"timbre": [32.304, -197.104, 48.789, -13.433, 40.48, -32.546, 14.494, 13.072, -16.767, -17.115, 0.886, 23.072],
+		"pitches": [0.119, 0.815, 0.05, 0.027, 0.016, 0.092, 0.029, 0.074, 1.0, 0.012, 0.017, 0.191],
+		"start": 29.3102,
+		"loudness_max_time": 0.1563,
+		"loudness_start": -29.818,
+		"duration": 0.25447,
+		"loudness_max": -25.99
+	}, {
+		"confidence": 0.406,
+		"timbre": [30.661, -206.574, 29.456, 2.238, 42.417, -17.309, 11.451, 8.38, -23.012, -19.121, -14.908, 25.321],
+		"pitches": [0.092, 0.757, 0.049, 0.016, 0.025, 0.14, 1.0, 0.095, 0.336, 0.037, 0.326, 0.214],
+		"start": 29.56467,
+		"loudness_max_time": 0.08838,
+		"loudness_start": -30.647,
+		"duration": 0.25483,
+		"loudness_max": -26.739
+	}, {
+		"confidence": 0.281,
+		"timbre": [29.249, -233.327, 23.152, -24.119, 70.358, -37.929, -19.013, 3.906, -23.614, -12.786, 15.199, 5.768],
+		"pitches": [0.037, 0.361, 0.067, 0.014, 0.01, 0.103, 1.0, 0.104, 0.248, 0.073, 0.571, 0.077],
+		"start": 29.8195,
+		"loudness_max_time": 0.03656,
+		"loudness_start": -32.334,
+		"duration": 0.16404,
+		"loudness_max": -29.752
+	}, {
+		"confidence": 0.179,
+		"timbre": [30.302, -233.17, 28.898, -25.826, 76.872, -32.661, -23.838, -7.89, -6.178, -11.74, 6.515, -5.961],
+		"pitches": [0.035, 0.297, 0.024, 0.008, 0.007, 0.05, 0.869, 0.034, 0.142, 0.025, 1.0, 0.044],
+		"start": 29.98354,
+		"loudness_max_time": 0.04744,
+		"loudness_start": -31.453,
+		"duration": 0.29451,
+		"loudness_max": -29.001
+	}, {
+		"confidence": 0.076,
+		"timbre": [30.575, -233.867, 42.219, -9.32, 93.971, -45.571, -30.539, 5.192, -8.63, -13.185, 10.287, -4.957],
+		"pitches": [0.02, 0.165, 0.024, 0.009, 0.006, 0.026, 0.576, 0.03, 0.078, 0.023, 1.0, 0.019],
+		"start": 30.27805,
+		"loudness_max_time": 0.01683,
+		"loudness_start": -29.936,
+		"duration": 0.50526,
+		"loudness_max": -28.42
+	}, {
+		"confidence": 0.089,
+		"timbre": [29.588, -219.48, 43.859, -3.899, 91.508, -33.808, -24.636, 16.354, -11.09, -18.352, -3.558, 0.154],
+		"pitches": [0.03, 0.103, 0.015, 0.007, 0.013, 0.118, 0.778, 0.076, 0.037, 0.083, 1.0, 0.036],
+		"start": 30.78331,
+		"loudness_max_time": 0.22969,
+		"loudness_start": -30.885,
+		"duration": 0.47197,
+		"loudness_max": -28.332
+	}, {
+		"confidence": 0.227,
+		"timbre": [28.107, -222.089, 40.594, -33.98, 77.252, -33.798, -19.639, -0.713, -35.593, -9.651, 8.536, 5.371],
+		"pitches": [0.017, 0.112, 0.014, 0.007, 0.019, 0.152, 1.0, 0.065, 0.033, 0.129, 0.865, 0.027],
+		"start": 31.25528,
+		"loudness_max_time": 0.07831,
+		"loudness_start": -33.415,
+		"duration": 0.13846,
+		"loudness_max": -30.906
+	}, {
+		"confidence": 0.111,
+		"timbre": [29.507, -222.08, 42.861, -25.284, 87.286, -34.798, -27.938, 1.807, -11.019, -4.963, 3.043, -2.682],
+		"pitches": [0.025, 0.149, 0.016, 0.009, 0.012, 0.029, 0.855, 0.031, 0.015, 0.028, 1.0, 0.018],
+		"start": 31.39374,
+		"loudness_max_time": 0.47122,
+		"loudness_start": -31.719,
+		"duration": 0.84113,
+		"loudness_max": -28.723
+	}, {
+		"confidence": 0.396,
+		"timbre": [28.013, -185.103, 39.394, -13.643, 80.303, -28.185, -8.879, 21.647, -6.481, -5.052, 4.673, 7.84],
+		"pitches": [0.03, 0.202, 0.022, 0.006, 0.013, 0.093, 1.0, 0.039, 0.01, 0.074, 0.475, 0.029],
+		"start": 32.23488,
+		"loudness_max_time": 0.04295,
+		"loudness_start": -34.15,
+		"duration": 0.20345,
+		"loudness_max": -30.042
+	}, {
+		"confidence": 0.326,
+		"timbre": [27.592, -173.527, 22.726, -18.688, 50.825, -31.462, 21.956, -3.494, -24.197, 2.593, 1.514, 23.093],
+		"pitches": [0.035, 0.128, 0.029, 0.012, 0.015, 0.069, 1.0, 0.098, 0.048, 0.103, 0.349, 0.034],
+		"start": 32.43832,
+		"loudness_max_time": 0.05466,
+		"loudness_start": -34.4,
+		"duration": 0.28993,
+		"loudness_max": -30.666
+	}, {
+		"confidence": 0.285,
+		"timbre": [28.638, -218.711, 11.727, -34.977, 39.136, -31.355, 11.005, 3.026, -31.723, -9.908, 2.254, 11.266],
+		"pitches": [0.016, 0.069, 0.027, 0.14, 0.033, 0.096, 1.0, 0.059, 0.042, 0.759, 0.165, 0.017],
+		"start": 32.72825,
+		"loudness_max_time": 0.13413,
+		"loudness_start": -33.332,
+		"duration": 0.22222,
+		"loudness_max": -29.89
+	}, {
+		"confidence": 0.221,
+		"timbre": [29.355, -229.521, 3.86, -44.521, 36.137, -37.808, 14.674, 5.29, -20.789, -8.198, 0.813, 4.338],
+		"pitches": [0.005, 0.043, 0.035, 0.327, 0.021, 0.063, 0.841, 0.046, 0.045, 1.0, 0.128, 0.01],
+		"start": 32.95048,
+		"loudness_max_time": 0.11367,
+		"loudness_start": -32.009,
+		"duration": 0.22571,
+		"loudness_max": -29.426
+	}, {
+		"confidence": 0.383,
+		"timbre": [31.294, -222.483, 25.824, -29.909, 36.984, -29.591, 16.667, 12.646, -13.231, -16.695, 11.12, 6.351],
+		"pitches": [0.117, 0.047, 0.024, 0.123, 0.019, 0.035, 0.992, 0.026, 0.026, 1.0, 0.079, 0.025],
+		"start": 33.17619,
+		"loudness_max_time": 0.04056,
+		"loudness_start": -31.243,
+		"duration": 0.2829,
+		"loudness_max": -27.112
+	}, {
+		"confidence": 0.116,
+		"timbre": [31.404, -204.994, 21.376, 10.968, 34.207, -42.792, 13.843, 8.706, -15.319, -13.957, 7.101, 13.687],
+		"pitches": [0.074, 0.047, 0.045, 0.354, 0.027, 0.031, 0.784, 0.029, 0.028, 1.0, 0.046, 0.022],
+		"start": 33.45909,
+		"loudness_max_time": 0.0416,
+		"loudness_start": -29.988,
+		"duration": 0.52213,
+		"loudness_max": -26.527
+	}, {
+		"confidence": 0.561,
+		"timbre": [30.303, -210.99, 25.128, -7.147, 46.228, -8.214, 4.614, 5.808, -25.391, -26.828, 3.157, 20.086],
+		"pitches": [0.097, 0.037, 0.022, 0.078, 0.018, 0.088, 1.0, 0.04, 0.04, 0.187, 0.024, 0.021],
+		"start": 33.98122,
+		"loudness_max_time": 0.07086,
+		"loudness_start": -32.104,
+		"duration": 0.26821,
+		"loudness_max": -26.909
+	}, {
+		"confidence": 0.051,
+		"timbre": [30.144, -236.154, 9.535, -33.993, 45.036, -46.895, -3.906, 3.369, -23.976, -10.007, 9.015, 9.281],
+		"pitches": [0.04, 0.025, 0.029, 0.309, 0.026, 0.032, 0.816, 0.031, 0.031, 1.0, 0.023, 0.012],
+		"start": 34.24943,
+		"loudness_max_time": 0.09368,
+		"loudness_start": -31.403,
+		"duration": 0.43751,
+		"loudness_max": -28.638
+	}, {
+		"confidence": 0.317,
+		"timbre": [31.869, -221.257, 23.543, -19.288, 32.313, -55.611, 10.087, 3.698, -18.856, -12.58, 9.134, 14.249],
+		"pitches": [0.094, 0.039, 0.021, 0.085, 0.019, 0.048, 1.0, 0.025, 0.028, 0.894, 0.03, 0.02],
+		"start": 34.68694,
+		"loudness_max_time": 0.00608,
+		"loudness_start": -30.784,
+		"duration": 0.25302,
+		"loudness_max": -26.715
+	}, {
+		"confidence": 0.352,
+		"timbre": [32.311, -204.442, 29.237, 16.002, 32.15, -39.945, 16.272, 7.08, -14.91, -15.071, 4.812, 14.402],
+		"pitches": [0.099, 0.046, 0.043, 0.317, 0.038, 0.04, 0.781, 0.029, 0.031, 1.0, 0.02, 0.023],
+		"start": 34.93995,
+		"loudness_max_time": 0.04164,
+		"loudness_start": -29.353,
+		"duration": 0.52875,
+		"loudness_max": -25.463
+	}, {
+		"confidence": 0.563,
+		"timbre": [30.674, -194.621, 26.723, 27.401, 33.888, -34.433, 14.975, -2.345, -26.746, -16.662, -1.516, 24.132],
+		"pitches": [0.089, 0.024, 0.016, 0.091, 1.0, 0.057, 0.4, 0.063, 0.346, 0.226, 0.02, 0.019],
+		"start": 35.46871,
+		"loudness_max_time": 0.04084,
+		"loudness_start": -32.461,
+		"duration": 0.30227,
+		"loudness_max": -26.622
+	}, {
+		"confidence": 0.236,
+		"timbre": [29.591, -217.905, 2.858, -37.425, 27.587, -28.791, 9.427, 8.681, -25.061, -13.105, 8.479, 15.938],
+		"pitches": [0.065, 0.138, 0.021, 0.14, 1.0, 0.083, 0.162, 0.074, 0.616, 0.183, 0.015, 0.02],
+		"start": 35.77098,
+		"loudness_max_time": 0.12932,
+		"loudness_start": -32.505,
+		"duration": 0.19102,
+		"loudness_max": -29.055
+	}, {
+		"confidence": 0.096,
+		"timbre": [30.357, -210.505, 8.059, -35.442, 38.978, -44.436, 12.79, -5.69, -7.051, -3.811, 8.971, 14.731],
+		"pitches": [0.054, 0.112, 0.016, 0.08, 1.0, 0.048, 0.159, 0.061, 0.587, 0.12, 0.009, 0.016],
+		"start": 35.962,
+		"loudness_max_time": 0.17543,
+		"loudness_start": -32.109,
+		"duration": 0.22132,
+		"loudness_max": -28.737
+	}, {
+		"confidence": 0.584,
+		"timbre": [34.758, -180.98, 48.607, -4.044, 18.875, -22.843, 19.626, 4.338, -28.176, -26.824, -2.961, 37.013],
+		"pitches": [0.028, 0.145, 0.012, 0.053, 1.0, 0.025, 0.037, 0.036, 0.584, 0.044, 0.003, 0.011],
+		"start": 36.18331,
+		"loudness_max_time": 0.11815,
+		"loudness_start": -29.244,
+		"duration": 0.2541,
+		"loudness_max": -23.319
+	}, {
+		"confidence": 0.127,
+		"timbre": [33.411, -201.937, 28.785, -3.204, 22.903, -38.089, 3.265, 7.896, -26.322, -14.268, -5.071, 32.503],
+		"pitches": [0.028, 0.166, 0.019, 0.058, 1.0, 0.025, 0.011, 0.048, 0.717, 0.025, 0.003, 0.013],
+		"start": 36.43741,
+		"loudness_max_time": 0.08004,
+		"loudness_start": -27.51,
+		"duration": 0.23197,
+		"loudness_max": -24.404
+	}, {
+		"confidence": 0.572,
+		"timbre": [32.956, -188.065, 47.497, -23.85, 27.224, -27.631, 21.854, 27.951, -14.133, -24.522, -5.045, 25.205],
+		"pitches": [0.039, 0.259, 0.026, 0.061, 1.0, 0.037, 0.02, 0.06, 0.518, 0.034, 0.023, 0.033],
+		"start": 36.66939,
+		"loudness_max_time": 0.11101,
+		"loudness_start": -29.103,
+		"duration": 0.37238,
+		"loudness_max": -22.661
+	}, {
+		"confidence": 0.039,
+		"timbre": [31.116, -185.073, 31.587, 13.711, 24.514, -43.676, 9.41, -0.066, -34.199, -5.724, -1.862, 31.09],
+		"pitches": [0.041, 0.123, 0.024, 0.199, 1.0, 0.197, 0.027, 0.098, 0.752, 0.042, 0.02, 0.021],
+		"start": 37.04177,
+		"loudness_max_time": 0.02439,
+		"loudness_start": -29.995,
+		"duration": 0.12608,
+		"loudness_max": -27.054
+	}, {
+		"confidence": 0.342,
+		"timbre": [30.266, -203.757, 12.516, -22.516, 22.389, -25.956, 13.317, 13.526, -23.383, -11.826, -0.545, 20.616],
+		"pitches": [0.02, 0.164, 0.029, 0.101, 1.0, 0.041, 0.008, 0.07, 0.948, 0.028, 0.006, 0.015],
+		"start": 37.16785,
+		"loudness_max_time": 0.0604,
+		"loudness_start": -31.641,
+		"duration": 0.21705,
+		"loudness_max": -28.058
+	}, {
+		"confidence": 0.219,
+		"timbre": [30.689, -211.854, 13.596, -21.395, 27.564, -47.708, 11.279, 3.777, -15.859, -17.682, 16.788, 14.291],
+		"pitches": [0.037, 0.129, 0.014, 0.053, 1.0, 0.019, 0.006, 0.047, 0.554, 0.013, 0.004, 0.021],
+		"start": 37.3849,
+		"loudness_max_time": 0.0249,
+		"loudness_start": -30.559,
+		"duration": 0.27293,
+		"loudness_max": -28.278
+	}, {
+		"confidence": 0.521,
+		"timbre": [34.777, -180.093, 53.221, -15.4, 18.512, -23.03, 24.114, 11.451, -25.541, -20.424, 2.066, 35.294],
+		"pitches": [0.018, 0.155, 0.013, 0.076, 1.0, 0.041, 0.007, 0.046, 0.485, 0.013, 0.002, 0.011],
+		"start": 37.65782,
+		"loudness_max_time": 0.117,
+		"loudness_start": -28.773,
+		"duration": 0.19773,
+		"loudness_max": -23.268
+	}, {
+		"confidence": 0.223,
+		"timbre": [33.28, -195.587, 27.041, -24.398, 26.229, -31.672, 5.2, 9.279, -21.273, -11.562, -0.656, 33.61],
+		"pitches": [0.024, 0.196, 0.018, 0.026, 1.0, 0.013, 0.004, 0.028, 0.659, 0.007, 0.003, 0.012],
+		"start": 37.85556,
+		"loudness_max_time": 0.07768,
+		"loudness_start": -27.844,
+		"duration": 0.29451,
+		"loudness_max": -24.703
+	}, {
+		"confidence": 0.613,
+		"timbre": [33.663, -186.549, 49.901, -9.509, 27.758, -7.155, 25.581, 27.601, -18.038, -27.761, -14.915, 28.571],
+		"pitches": [0.044, 0.283, 0.018, 0.074, 1.0, 0.036, 0.009, 0.067, 0.718, 0.016, 0.005, 0.015],
+		"start": 38.15007,
+		"loudness_max_time": 0.06447,
+		"loudness_start": -28.471,
+		"duration": 0.2215,
+		"loudness_max": -22.707
+	}, {
+		"confidence": 0.387,
+		"timbre": [31.775, -169.243, 53.139, 28.962, 35.174, -35.279, 7.842, -3.242, -36.945, -14.426, 12.405, 34.477],
+		"pitches": [0.063, 0.36, 0.028, 0.146, 1.0, 0.144, 0.011, 0.089, 0.457, 0.042, 0.018, 0.031],
+		"start": 38.37156,
+		"loudness_max_time": 0.0237,
+		"loudness_start": -31.167,
+		"duration": 0.10345,
+		"loudness_max": -25.648
+	}, {
+		"confidence": 0.338,
+		"timbre": [31.117, -172.304, 42.627, 32.811, 36.228, -16.192, 6.293, -4.49, -39.496, -21.192, -9.342, 41.933],
+		"pitches": [0.031, 0.176, 0.031, 0.123, 1.0, 0.084, 0.019, 0.085, 0.235, 0.023, 0.018, 0.015],
+		"start": 38.47501,
+		"loudness_max_time": 0.05094,
+		"loudness_start": -30.843,
+		"duration": 0.139,
+		"loudness_max": -26.547
+	}, {
+		"confidence": 0.466,
+		"timbre": [30.632, -218.545, 4.931, -19.163, 24.133, -27.574, 5.012, 8.877, -31.523, -10.077, 14.383, 22.326],
+		"pitches": [0.018, 0.064, 0.014, 0.052, 1.0, 0.038, 0.066, 0.634, 0.149, 0.023, 0.004, 0.012],
+		"start": 38.61401,
+		"loudness_max_time": 0.02678,
+		"loudness_start": -33.061,
+		"duration": 0.18512,
+		"loudness_max": -28.007
+	}, {
+		"confidence": 0.082,
+		"timbre": [29.876, -217.459, -5.801, -21.17, 26.852, -35.837, 8.613, 0.955, -23.352, -9.159, 3.495, 17.263],
+		"pitches": [0.022, 0.14, 0.021, 0.023, 1.0, 0.016, 0.018, 0.52, 0.081, 0.003, 0.003, 0.013],
+		"start": 38.79914,
+		"loudness_max_time": 0.24308,
+		"loudness_start": -31.946,
+		"duration": 0.34898,
+		"loudness_max": -28.98
+	}, {
+		"confidence": 0.441,
+		"timbre": [30.378, -223.513, -5.966, -20.422, 40.471, -47.692, 8.379, 8.249, -12.596, -15.432, -0.372, 16.777],
+		"pitches": [0.017, 0.102, 0.016, 0.013, 1.0, 0.018, 0.013, 0.443, 0.044, 0.013, 0.062, 0.016],
+		"start": 39.14812,
+		"loudness_max_time": 0.11633,
+		"loudness_start": -32.908,
+		"duration": 0.52327,
+		"loudness_max": -28.052
+	}, {
+		"confidence": 0.394,
+		"timbre": [30.233, -201.904, 8.615, -26.245, 48.077, -27.879, 14.843, 5.098, -0.983, 2.209, 2.143, 14.747],
+		"pitches": [0.025, 0.111, 0.021, 0.073, 1.0, 0.058, 0.066, 0.674, 0.088, 0.023, 0.171, 0.03],
+		"start": 39.67138,
+		"loudness_max_time": 0.04282,
+		"loudness_start": -31.889,
+		"duration": 0.20186,
+		"loudness_max": -28.144
+	}, {
+		"confidence": 0.13,
+		"timbre": [29.543, -228.121, 5.034, 9.534, 52.221, -54.987, -1.431, 13.526, -16.231, -13.867, -8.847, 12.536],
+		"pitches": [0.016, 0.028, 0.026, 0.1, 1.0, 0.123, 0.09, 0.376, 0.079, 0.036, 0.13, 0.018],
+		"start": 39.87324,
+		"loudness_max_time": 0.00931,
+		"loudness_start": -30.575,
+		"duration": 0.12816,
+		"loudness_max": -28.19
+	}, {
+		"confidence": 0.213,
+		"timbre": [28.231, -223.218, -17.885, -47.787, 45.208, -48.059, 0.032, 3.425, -21.391, -12.018, 14.032, 9.721],
+		"pitches": [0.014, 0.07, 0.024, 0.021, 1.0, 0.021, 0.029, 0.492, 0.035, 0.008, 0.034, 0.016],
+		"start": 40.00141,
+		"loudness_max_time": 0.43667,
+		"loudness_start": -34.696,
+		"duration": 0.48902,
+		"loudness_max": -30.388
+	}, {
+		"confidence": 0.002,
+		"timbre": [29.494, -234.087, -2.145, -17.989, 59.587, -43.377, 8.7, 10.844, 3.201, 2.192, -5.613, -5.969],
+		"pitches": [0.019, 0.114, 0.03, 0.104, 1.0, 0.091, 0.074, 0.344, 0.017, 0.006, 0.012, 0.013],
+		"start": 40.49043,
+		"loudness_max_time": 0.03127,
+		"loudness_start": -31.276,
+		"duration": 0.15215,
+		"loudness_max": -29.297
+	}, {
+		"confidence": 0.285,
+		"timbre": [30.181, -227.296, -1.821, -27.148, 43.095, -42.593, 7.994, 3.643, -11.015, -9.017, 1.793, 14.342],
+		"pitches": [0.02, 0.117, 0.02, 0.012, 1.0, 0.014, 0.013, 0.521, 0.016, 0.01, 0.053, 0.01],
+		"start": 40.64259,
+		"loudness_max_time": 0.13177,
+		"loudness_start": -32.724,
+		"duration": 0.55615,
+		"loudness_max": -28.291
+	}, {
+		"confidence": 0.384,
+		"timbre": [29.269, -227.55, -1.33, -13.738, 45.908, -40.711, 11.78, 9.978, -18.228, -12.14, -2.074, 11.576],
+		"pitches": [0.03, 0.092, 0.087, 1.0, 0.974, 0.073, 0.413, 0.856, 0.042, 0.035, 0.162, 0.027],
+		"start": 41.19873,
+		"loudness_max_time": 0.0928,
+		"loudness_start": -32.954,
+		"duration": 0.6332,
+		"loudness_max": -28.435
+	}, {
+		"confidence": 0.103,
+		"timbre": [28.426, -228.708, 2.011, -43.468, 56.402, -41.183, -20.727, 11.191, -28.034, -16.519, 9.068, 12.076],
+		"pitches": [0.02, 0.047, 0.074, 0.87, 0.176, 0.053, 1.0, 0.151, 0.008, 0.012, 0.06, 0.17],
+		"start": 41.83193,
+		"loudness_max_time": 0.14596,
+		"loudness_start": -33.143,
+		"duration": 0.29474,
+		"loudness_max": -29.867
+	}, {
+		"confidence": 0.557,
+		"timbre": [31.943, -209.919, 31.47, -31.473, 49.747, -21.833, 4.46, 6.142, -13.871, -15.333, 3.917, 23.19],
+		"pitches": [0.022, 0.033, 0.069, 0.779, 0.081, 0.038, 1.0, 0.06, 0.003, 0.004, 0.036, 0.165],
+		"start": 42.12667,
+		"loudness_max_time": 0.14662,
+		"loudness_start": -31.379,
+		"duration": 0.27247,
+		"loudness_max": -25.969
+	}, {
+		"confidence": 0.032,
+		"timbre": [30.722, -204.473, 23.487, 4.265, 40.597, -47.044, -6.627, 13.373, -21.918, -16.384, 11.282, 28.005],
+		"pitches": [0.038, 0.044, 0.096, 1.0, 0.049, 0.038, 0.68, 0.04, 0.005, 0.007, 0.05, 0.301],
+		"start": 42.39914,
+		"loudness_max_time": 0.02622,
+		"loudness_start": -30.15,
+		"duration": 0.27474,
+		"loudness_max": -27.116
+	}, {
+		"confidence": 0.33,
+		"timbre": [30.288, -197.487, 38.752, -21.013, 54.239, -30.919, 12.692, 13.812, -8.6, -21.548, -2.627, 17.381],
+		"pitches": [0.041, 0.031, 0.109, 0.566, 0.099, 0.089, 1.0, 0.101, 0.03, 0.017, 0.046, 0.439],
+		"start": 42.67388,
+		"loudness_max_time": 0.12698,
+		"loudness_start": -30.66,
+		"duration": 0.42259,
+		"loudness_max": -26.699
+	}, {
+		"confidence": 0.386,
+		"timbre": [28.132, -224.725, 8.118, -49.549, 55.314, -42.117, -7.776, 6.433, -32.803, -9.422, 8.352, 13.691],
+		"pitches": [0.025, 0.031, 0.045, 0.693, 0.021, 0.043, 1.0, 0.054, 0.015, 0.012, 0.043, 0.21],
+		"start": 43.09646,
+		"loudness_max_time": 0.12286,
+		"loudness_start": -34.794,
+		"duration": 0.51188,
+		"loudness_max": -29.15
+	}, {
+		"confidence": 0.371,
+		"timbre": [30.349, -207.338, 23.567, -29.629, 48.41, -26.325, 0.389, 18.268, -12.839, -17.341, 0.243, 19.373],
+		"pitches": [0.028, 0.034, 0.064, 0.991, 0.029, 0.048, 1.0, 0.034, 0.015, 0.018, 0.07, 0.44],
+		"start": 43.60834,
+		"loudness_max_time": 0.17887,
+		"loudness_start": -31.546,
+		"duration": 0.55469,
+		"loudness_max": -25.782
+	}, {
+		"confidence": 0.578,
+		"timbre": [29.119, -173.966, 46.332, -33.803, 48.574, -24.808, 23.981, 3.422, -7.401, -10.246, 1.535, 18.963],
+		"pitches": [0.039, 0.02, 0.062, 0.39, 0.032, 0.056, 1.0, 0.048, 0.012, 0.008, 0.047, 0.406],
+		"start": 44.16304,
+		"loudness_max_time": 0.1035,
+		"loudness_start": -34.741,
+		"duration": 0.26245,
+		"loudness_max": -28.427
+	}, {
+		"confidence": 0.142,
+		"timbre": [28.305, -188.162, 4.547, 23.192, 27.789, -44.828, 25.43, 14.614, -25.627, -15.071, -1.28, 27.899],
+		"pitches": [0.03, 0.035, 0.201, 1.0, 0.228, 0.067, 0.283, 0.051, 0.032, 0.032, 0.043, 0.203],
+		"start": 44.42549,
+		"loudness_max_time": 0.02794,
+		"loudness_start": -33.786,
+		"duration": 0.13433,
+		"loudness_max": -28.825
+	}, {
+		"confidence": 0.271,
+		"timbre": [27.21, -207.093, 3.67, -17.536, 42.079, -41.88, 14.776, 3.329, -36.065, -9.934, 13.44, 19.211],
+		"pitches": [0.055, 0.063, 0.234, 1.0, 0.508, 0.149, 0.445, 0.075, 0.035, 0.033, 0.046, 0.185],
+		"start": 44.55982,
+		"loudness_max_time": 0.03716,
+		"loudness_start": -36.261,
+		"duration": 0.12649,
+		"loudness_max": -31.426
+	}, {
+		"confidence": 0.458,
+		"timbre": [28.551, -228.039, -15.04, -5.763, 43.402, -38.287, -5.387, 3.787, -29.546, -14.425, -2.68, 18.49],
+		"pitches": [0.019, 0.009, 0.036, 0.573, 1.0, 0.029, 0.093, 0.057, 0.378, 0.018, 0.03, 0.119],
+		"start": 44.6863,
+		"loudness_max_time": 0.04792,
+		"loudness_start": -33.607,
+		"duration": 0.43107,
+		"loudness_max": -29.398
+	}, {
+		"confidence": 0.434,
+		"timbre": [28.988, -237.003, -20.242, -43.62, 68.868, -34.029, -4.862, 6.781, -16.724, 2.239, 0.021, -0.256],
+		"pitches": [0.02, 0.007, 0.049, 0.654, 1.0, 0.021, 0.023, 0.024, 0.105, 0.009, 0.02, 0.112],
+		"start": 45.11737,
+		"loudness_max_time": 0.15014,
+		"loudness_start": -33.944,
+		"duration": 0.28902,
+		"loudness_max": -29.057
+	}, {
+		"confidence": 0.266,
+		"timbre": [28.686, -259.002, -25.964, -39.639, 62.754, -40.96, -7.169, 6.754, -23.428, -3.985, 0.106, -2.176],
+		"pitches": [0.016, 0.006, 0.038, 0.513, 1.0, 0.013, 0.009, 0.019, 0.14, 0.009, 0.036, 0.106],
+		"start": 45.40639,
+		"loudness_max_time": 0.11096,
+		"loudness_start": -33.626,
+		"duration": 0.30068,
+		"loudness_max": -30.028
+	}, {
+		"confidence": 0.188,
+		"timbre": [27.66, -221.104, -39.162, -12.46, 63.133, -35.061, -25.615, 15.763, 0.128, -10.835, -10.977, 5.421],
+		"pitches": [0.027, 0.011, 0.081, 0.342, 1.0, 0.047, 0.015, 0.019, 0.121, 0.008, 0.02, 0.085],
+		"start": 45.70707,
+		"loudness_max_time": 0.07188,
+		"loudness_start": -32.75,
+		"duration": 0.20939,
+		"loudness_max": -30.058
+	}, {
+		"confidence": 0.464,
+		"timbre": [25.708, -227.307, -15.194, -54.767, 79.518, -31.289, 5.303, 0.338, -17.39, -1.024, -8.383, -6.364],
+		"pitches": [0.036, 0.014, 0.081, 0.72, 1.0, 0.053, 0.032, 0.05, 0.288, 0.022, 0.048, 0.129],
+		"start": 45.91646,
+		"loudness_max_time": 0.09862,
+		"loudness_start": -36.938,
+		"duration": 0.30726,
+		"loudness_max": -31.641
+	}, {
+		"confidence": 0.333,
+		"timbre": [26.847, -245.194, -40.78, -48.76, 62.756, -35.8, -22.869, 7.093, -29.46, -13.13, -5.703, 0.484],
+		"pitches": [0.022, 0.008, 0.046, 0.597, 1.0, 0.033, 0.013, 0.056, 0.327, 0.033, 0.036, 0.107],
+		"start": 46.22372,
+		"loudness_max_time": 0.09533,
+		"loudness_start": -34.898,
+		"duration": 0.38576,
+		"loudness_max": -31.257
+	}, {
+		"confidence": 0.505,
+		"timbre": [28.562, -249.808, -21.578, -37.747, 63.164, -36.492, -9.948, 11.639, -16.642, -6.648, 3.222, 0.887],
+		"pitches": [0.015, 0.01, 0.041, 0.688, 1.0, 0.015, 0.006, 0.031, 0.213, 0.01, 0.023, 0.075],
+		"start": 46.60948,
+		"loudness_max_time": 0.10483,
+		"loudness_start": -35.155,
+		"duration": 0.33986,
+		"loudness_max": -29.099
+	}, {
+		"confidence": 0.071,
+		"timbre": [28.321, -254.285, -44.226, -28.27, 73.55, -55.522, -14.891, 1.985, -17.761, -15.559, 2.542, 1.489],
+		"pitches": [0.018, 0.007, 0.095, 0.505, 1.0, 0.043, 0.007, 0.02, 0.088, 0.018, 0.043, 0.143],
+		"start": 46.94934,
+		"loudness_max_time": 0.01537,
+		"loudness_start": -32.022,
+		"duration": 0.18816,
+		"loudness_max": -30.413
+	}, {
+		"confidence": 0.552,
+		"timbre": [29.014, -239.568, -24.19, -3.073, 69.769, -38.891, -12.488, 20.564, -9.106, -2.561, -4.125, 0.239],
+		"pitches": [0.042, 0.069, 0.068, 0.236, 1.0, 0.03, 0.006, 0.015, 0.09, 0.008, 0.02, 0.087],
+		"start": 47.13751,
+		"loudness_max_time": 0.01897,
+		"loudness_start": -33.315,
+		"duration": 0.27324,
+		"loudness_max": -28.788
+	}, {
+		"confidence": 0.288,
+		"timbre": [25.954, -236.741, -22.286, -46.624, 80.27, -42.486, 6.264, 2.616, -21.137, -5.687, -4.804, -3.808],
+		"pitches": [0.075, 0.435, 0.091, 0.265, 1.0, 0.042, 0.01, 0.032, 0.216, 0.011, 0.031, 0.119],
+		"start": 47.41075,
+		"loudness_max_time": 0.07965,
+		"loudness_start": -35.846,
+		"duration": 0.27107,
+		"loudness_max": -32.38
+	}, {
+		"confidence": 0.281,
+		"timbre": [26.151, -243.329, -50.458, -61.205, 59.925, -42.194, -6.791, 15.907, -27.631, -9.576, -0.976, -3.951],
+		"pitches": [0.067, 0.697, 0.039, 0.094, 1.0, 0.029, 0.01, 0.041, 0.299, 0.02, 0.029, 0.084],
+		"start": 47.68181,
+		"loudness_max_time": 0.15735,
+		"loudness_start": -35.097,
+		"duration": 0.37927,
+		"loudness_max": -31.745
+	}, {
+		"confidence": 0.582,
+		"timbre": [28.851, -235.387, -20.595, -48.669, 50.072, -28.245, 11.931, 15.186, -2.456, 5.601, 2.732, -7.292],
+		"pitches": [0.054, 0.614, 0.03, 0.05, 1.0, 0.021, 0.005, 0.026, 0.125, 0.009, 0.015, 0.093],
+		"start": 48.06109,
+		"loudness_max_time": 0.11118,
+		"loudness_start": -35.003,
+		"duration": 0.27651,
+		"loudness_max": -29.309
+	}, {
+		"confidence": 0.154,
+		"timbre": [27.97, -245.6, -31.716, -46.244, 49.266, -43.211, 7.258, 2.526, -21.722, -0.157, -7.163, -3.727],
+		"pitches": [0.044, 0.523, 0.019, 0.031, 1.0, 0.014, 0.005, 0.018, 0.198, 0.011, 0.024, 0.151],
+		"start": 48.3376,
+		"loudness_max_time": 0.10469,
+		"loudness_start": -33.1,
+		"duration": 0.29102,
+		"loudness_max": -30.283
+	}, {
+		"confidence": 0.182,
+		"timbre": [27.036, -238.36, -49.515, -22.569, 58.18, -51.722, -2.823, 23.281, -8.643, -7.513, -10.297, -2.292],
+		"pitches": [0.11, 1.0, 0.077, 0.059, 0.965, 0.035, 0.012, 0.021, 0.083, 0.008, 0.019, 0.104],
+		"start": 48.62862,
+		"loudness_max_time": 0.03973,
+		"loudness_start": -33.781,
+		"duration": 0.24848,
+		"loudness_max": -31.465
+	}, {
+		"confidence": 0.364,
+		"timbre": [24.973, -217.274, -32.082, -44.382, 62.785, -45.185, 21.401, 20.775, -11.58, 3.816, -15.234, -18.439],
+		"pitches": [0.086, 1.0, 0.094, 0.043, 0.395, 0.028, 0.016, 0.027, 0.21, 0.008, 0.018, 0.097],
+		"start": 48.8771,
+		"loudness_max_time": 0.09134,
+		"loudness_start": -36.19,
+		"duration": 0.28658,
+		"loudness_max": -32.743
+	}, {
+		"confidence": 0.452,
+		"timbre": [25.281, -215.179, -47.228, -48.613, 43.851, -30.746, 1.553, 10.152, -30.12, -2.152, -4.427, -5.649],
+		"pitches": [0.053, 0.837, 0.028, 0.037, 1.0, 0.021, 0.01, 0.039, 0.337, 0.017, 0.026, 0.125],
+		"start": 49.16367,
+		"loudness_max_time": 0.09834,
+		"loudness_start": -37.161,
+		"duration": 0.34104,
+		"loudness_max": -32.768
+	}, {
+		"confidence": 0.636,
+		"timbre": [27.842, -229.823, -29.219, -58.476, 53.256, -14.955, 14.198, 2.001, -8.608, 2.981, -10.504, -9.137],
+		"pitches": [0.047, 0.681, 0.021, 0.032, 1.0, 0.018, 0.01, 0.024, 0.146, 0.011, 0.015, 0.086],
+		"start": 49.50472,
+		"loudness_max_time": 0.05292,
+		"loudness_start": -35.551,
+		"duration": 0.34299,
+		"loudness_max": -29.943
+	}, {
+		"confidence": 0.236,
+		"timbre": [28.22, -260.31, -32.667, -42.074, 62.187, -41.765, 12.707, 10.795, -16.069, -4.232, -6.349, -8.502],
+		"pitches": [0.075, 0.439, 0.036, 0.043, 1.0, 0.029, 0.005, 0.038, 0.206, 0.016, 0.025, 0.113],
+		"start": 49.84771,
+		"loudness_max_time": 0.07063,
+		"loudness_start": -33.152,
+		"duration": 0.21887,
+		"loudness_max": -30.485
+	}, {
+		"confidence": 0.48,
+		"timbre": [29.206, -246.091, -21.179, -19.055, 59.611, -33.732, 9.775, 26.53, -4.209, 0.743, -5.72, -8.084],
+		"pitches": [0.111, 0.797, 0.043, 0.056, 1.0, 0.028, 0.008, 0.023, 0.067, 0.01, 0.015, 0.099],
+		"start": 50.06658,
+		"loudness_max_time": 0.05528,
+		"loudness_start": -33.399,
+		"duration": 0.26385,
+		"loudness_max": -29.291
+	}, {
+		"confidence": 0.22,
+		"timbre": [25.845, -221.16, -31.256, -45.37, 63.22, -35.426, 16.408, -3.584, -9.627, 8.251, -6.204, -7.93],
+		"pitches": [0.078, 1.0, 0.081, 0.029, 0.544, 0.104, 0.769, 0.084, 0.137, 0.007, 0.022, 0.089],
+		"start": 50.33043,
+		"loudness_max_time": 0.14986,
+		"loudness_start": -36.501,
+		"duration": 0.31274,
+		"loudness_max": -32.697
+	}, {
+		"confidence": 0.104,
+		"timbre": [24.911, -225.493, -49.514, -43.471, 53.815, -50.146, 17.258, 12.362, -26.663, -13.493, -12.168, -7.736],
+		"pitches": [0.033, 0.61, 0.035, 0.019, 0.136, 0.108, 1.0, 0.062, 0.054, 0.02, 0.227, 0.049],
+		"start": 50.64317,
+		"loudness_max_time": 0.0944,
+		"loudness_start": -35.874,
+		"duration": 0.34952,
+		"loudness_max": -33.326
+	}, {
+		"confidence": 0.69,
+		"timbre": [27.643, -216.744, -22.353, -36.468, 59.762, -21.832, 36.142, 10.8, -7.183, 19.566, -10.498, -20.903],
+		"pitches": [0.065, 1.0, 0.034, 0.021, 0.333, 0.12, 0.965, 0.085, 0.03, 0.04, 0.287, 0.041],
+		"start": 50.9927,
+		"loudness_max_time": 0.12398,
+		"loudness_start": -36.877,
+		"duration": 0.29406,
+		"loudness_max": -29.832
+	}, {
+		"confidence": 0.178,
+		"timbre": [27.371, -238.217, -13.202, -35.378, 60.28, -44.524, 25.612, 10.269, -15.0, 1.289, -12.654, -16.749],
+		"pitches": [0.074, 0.77, 0.035, 0.01, 0.241, 0.147, 1.0, 0.091, 0.03, 0.05, 0.392, 0.044],
+		"start": 51.28676,
+		"loudness_max_time": 0.10557,
+		"loudness_start": -33.947,
+		"duration": 0.25388,
+		"loudness_max": -30.887
+	}, {
+		"confidence": 0.219,
+		"timbre": [26.745, -210.905, -12.567, -30.185, 60.936, -43.187, 14.677, 11.975, 4.091, 6.866, -11.051, -14.6],
+		"pitches": [0.069, 1.0, 0.046, 0.025, 0.245, 0.094, 0.354, 0.059, 0.029, 0.035, 0.346, 0.034],
+		"start": 51.54063,
+		"loudness_max_time": 0.12283,
+		"loudness_start": -35.608,
+		"duration": 0.28834,
+		"loudness_max": -31.46
+	}, {
+		"confidence": 0.498,
+		"timbre": [25.471, -214.78, -9.565, -32.939, 74.881, -31.35, 32.586, 18.987, -8.329, 9.75, -20.163, -18.784],
+		"pitches": [0.063, 0.831, 0.131, 0.022, 0.425, 0.215, 1.0, 0.079, 0.049, 0.061, 0.155, 0.032],
+		"start": 51.82898,
+		"loudness_max_time": 0.08293,
+		"loudness_start": -36.847,
+		"duration": 0.28132,
+		"loudness_max": -32.219
+	}, {
+		"confidence": 0.465,
+		"timbre": [24.905, -213.852, -41.193, -45.483, 49.669, -37.456, 16.53, 10.689, -33.472, -6.726, -3.257, -3.811],
+		"pitches": [0.04, 0.884, 0.054, 0.014, 0.045, 0.146, 1.0, 0.055, 0.032, 0.024, 0.301, 0.036],
+		"start": 52.11029,
+		"loudness_max_time": 0.10753,
+		"loudness_start": -38.662,
+		"duration": 0.32662,
+		"loudness_max": -33.146
+	}, {
+		"confidence": 0.605,
+		"timbre": [26.063, -209.48, -21.211, -72.066, 54.07, -23.43, 33.054, -5.163, -2.767, 6.782, -17.425, -17.539],
+		"pitches": [0.048, 1.0, 0.022, 0.02, 0.321, 0.093, 0.872, 0.034, 0.037, 0.045, 0.267, 0.031],
+		"start": 52.43692,
+		"loudness_max_time": 0.14107,
+		"loudness_start": -37.02,
+		"duration": 0.34816,
+		"loudness_max": -29.918
+	}, {
+		"confidence": 0.244,
+		"timbre": [27.365, -233.701, -17.151, -21.684, 69.138, -42.864, 28.122, 17.489, -5.595, -9.681, -17.297, -21.119],
+		"pitches": [0.121, 0.885, 0.072, 0.015, 0.263, 0.244, 1.0, 0.131, 0.043, 0.033, 0.323, 0.038],
+		"start": 52.78508,
+		"loudness_max_time": 0.06228,
+		"loudness_start": -33.419,
+		"duration": 0.21383,
+		"loudness_max": -30.825
+	}, {
+		"confidence": 0.434,
+		"timbre": [26.122, -203.038, -21.711, -40.149, 52.988, -34.707, 7.492, 6.562, 3.755, 2.891, -25.194, -11.539],
+		"pitches": [0.133, 1.0, 0.072, 0.021, 0.279, 0.127, 0.572, 0.063, 0.038, 0.042, 0.235, 0.048],
+		"start": 52.99891,
+		"loudness_max_time": 0.1034,
+		"loudness_start": -35.083,
+		"duration": 0.26667,
+		"loudness_max": -30.562
+	}, {
+		"confidence": 0.531,
+		"timbre": [26.226, -237.317, -22.387, -41.764, 72.884, -32.849, 21.85, 11.354, -17.166, -1.351, -17.368, -10.236],
+		"pitches": [0.12, 0.95, 0.113, 0.591, 0.43, 0.096, 0.465, 0.059, 0.034, 0.038, 0.146, 1.0],
+		"start": 53.26558,
+		"loudness_max_time": 0.12061,
+		"loudness_start": -36.142,
+		"duration": 0.30934,
+		"loudness_max": -31.211
+	}, {
+		"confidence": 0.292,
+		"timbre": [25.271, -223.733, -47.904, -51.222, 49.455, -39.495, -2.903, 10.776, -31.963, -15.133, -3.412, 3.985],
+		"pitches": [0.067, 0.127, 0.056, 0.643, 0.062, 0.088, 0.737, 0.075, 0.015, 0.022, 0.112, 1.0],
+		"start": 53.57492,
+		"loudness_max_time": 0.11706,
+		"loudness_start": -35.504,
+		"duration": 0.38766,
+		"loudness_max": -32.131
+	}, {
+		"confidence": 0.406,
+		"timbre": [27.301, -251.83, -28.358, -47.065, 64.555, -63.677, 6.158, 2.11, -17.561, -12.525, 6.792, -8.672],
+		"pitches": [0.107, 0.045, 0.073, 0.789, 0.043, 0.023, 0.179, 0.021, 0.005, 0.005, 0.055, 1.0],
+		"start": 53.96259,
+		"loudness_max_time": 0.20603,
+		"loudness_start": -35.903,
+		"duration": 0.25156,
+		"loudness_max": -31.688
+	}, {
+		"confidence": 0.053,
+		"timbre": [27.133, -245.38, -48.323, -25.528, 51.644, -47.133, -2.571, 19.161, -23.194, -14.825, -3.209, -1.258],
+		"pitches": [0.079, 0.035, 0.048, 0.608, 0.014, 0.043, 0.311, 0.031, 0.004, 0.007, 0.043, 1.0],
+		"start": 54.21415,
+		"loudness_max_time": 0.06922,
+		"loudness_start": -32.931,
+		"duration": 0.31778,
+		"loudness_max": -30.874
+	}, {
+		"confidence": 0.013,
+		"timbre": [25.995, -233.446, -41.115, -47.047, 59.8, -56.701, -4.881, 10.209, -14.841, -14.912, 1.672, -7.685],
+		"pitches": [0.28, 0.026, 0.116, 0.666, 0.079, 0.053, 0.292, 0.041, 0.014, 0.017, 0.032, 1.0],
+		"start": 54.53193,
+		"loudness_max_time": 0.01102,
+		"loudness_start": -34.881,
+		"duration": 0.16771,
+		"loudness_max": -33.416
+	}, {
+		"confidence": 0.277,
+		"timbre": [26.204, -228.501, -17.586, -16.268, 73.703, -48.593, 20.225, 18.387, -8.088, -1.612, -5.487, -20.063],
+		"pitches": [0.182, 0.017, 0.075, 0.476, 0.025, 0.018, 0.128, 0.016, 0.003, 0.005, 0.066, 1.0],
+		"start": 54.69964,
+		"loudness_max_time": 0.04378,
+		"loudness_start": -34.935,
+		"duration": 0.23764,
+		"loudness_max": -32.162
+	}, {
+		"confidence": 0.316,
+		"timbre": [24.954, -236.047, -61.412, -39.469, 66.217, -46.634, 1.19, 17.139, -24.059, -2.562, 12.029, -6.319],
+		"pitches": [0.198, 0.012, 0.065, 0.438, 0.05, 0.023, 0.055, 0.028, 0.014, 0.015, 0.022, 1.0],
+		"start": 54.93728,
+		"loudness_max_time": 0.02675,
+		"loudness_start": -37.677,
+		"duration": 0.18204,
+		"loudness_max": -33.131
+	}, {
+		"confidence": 0.376,
+		"timbre": [25.867, -226.999, -45.105, -41.175, 47.47, -39.542, -4.554, 14.647, -31.228, -13.308, 1.623, 3.072],
+		"pitches": [0.084, 0.019, 0.032, 0.461, 0.01, 0.053, 0.358, 0.035, 0.008, 0.008, 0.039, 1.0],
+		"start": 55.11932,
+		"loudness_max_time": 0.10107,
+		"loudness_start": -36.464,
+		"duration": 0.33615,
+		"loudness_max": -32.178
+	}, {
+		"confidence": 0.242,
+		"timbre": [26.488, -223.948, -43.253, -42.221, 39.837, -51.959, -15.997, 15.801, -14.524, -10.371, 8.416, -11.919],
+		"pitches": [0.335, 0.016, 0.11, 0.513, 0.066, 0.058, 0.158, 0.032, 0.009, 0.012, 0.055, 1.0],
+		"start": 55.45546,
+		"loudness_max_time": 0.03015,
+		"loudness_start": -34.872,
+		"duration": 0.13324,
+		"loudness_max": -32.412
+	}, {
+		"confidence": 0.181,
+		"timbre": [26.81, -240.472, -32.762, -27.362, 66.103, -46.061, -0.281, 20.822, -16.437, -2.784, -7.168, -7.819],
+		"pitches": [0.09, 0.028, 0.078, 0.607, 0.034, 0.083, 0.469, 0.068, 0.016, 0.015, 0.065, 1.0],
+		"start": 55.58871,
+		"loudness_max_time": 0.0943,
+		"loudness_start": -34.443,
+		"duration": 0.38839,
+		"loudness_max": -31.406
+	}, {
+		"confidence": 0.504,
+		"timbre": [26.186, -221.374, 3.093, -10.267, 84.623, -46.96, 13.613, 17.922, -7.704, 0.565, -16.178, -22.46],
+		"pitches": [0.268, 0.022, 0.147, 1.0, 0.088, 0.086, 0.31, 0.095, 0.023, 0.032, 0.081, 0.619],
+		"start": 55.9771,
+		"loudness_max_time": 0.05858,
+		"loudness_start": -37.34,
+		"duration": 0.14612,
+		"loudness_max": -32.52
+	}, {
+		"confidence": 0.247,
+		"timbre": [25.913, -217.388, 16.556, -30.901, 85.122, -46.704, 24.353, 13.449, -7.883, -2.018, -8.446, -25.651],
+		"pitches": [0.412, 0.055, 0.171, 1.0, 0.144, 0.034, 0.154, 0.025, 0.024, 0.032, 0.115, 0.771],
+		"start": 56.12322,
+		"loudness_max_time": 0.0699,
+		"loudness_start": -36.257,
+		"duration": 0.12036,
+		"loudness_max": -33.168
+	}, {
+		"confidence": 0.092,
+		"timbre": [26.009, -219.049, 5.253, -20.958, 82.962, -43.252, 14.996, 15.917, -11.86, 2.41, -15.41, -15.947],
+		"pitches": [0.253, 0.041, 0.063, 0.552, 0.067, 0.038, 0.115, 0.027, 0.009, 0.01, 0.048, 1.0],
+		"start": 56.24358,
+		"loudness_max_time": 0.07333,
+		"loudness_start": -34.927,
+		"duration": 0.13973,
+		"loudness_max": -32.44
+	}, {
+		"confidence": 0.318,
+		"timbre": [26.129, -227.356, -12.593, -36.727, 66.694, -40.52, 6.748, 6.792, -29.331, -8.724, -2.1, -4.35],
+		"pitches": [0.127, 0.034, 0.036, 0.128, 0.013, 0.048, 0.597, 0.045, 0.016, 0.017, 0.068, 1.0],
+		"start": 56.38331,
+		"loudness_max_time": 0.05897,
+		"loudness_start": -37.138,
+		"duration": 0.21628,
+		"loudness_max": -32.852
+	}, {
+		"confidence": 0.328,
+		"timbre": [27.754, -241.813, -17.628, -52.722, 50.886, -36.708, -3.536, 10.29, -34.152, -16.526, 9.773, 2.497],
+		"pitches": [0.086, 0.029, 0.014, 0.053, 0.005, 0.025, 0.838, 0.036, 0.038, 0.337, 0.061, 1.0],
+		"start": 56.59959,
+		"loudness_max_time": 0.08659,
+		"loudness_start": -34.122,
+		"duration": 0.29478,
+		"loudness_max": -30.809
+	}, {
+		"confidence": 0.094,
+		"timbre": [28.902, -234.888, -1.46, -25.59, 44.83, -42.158, 3.965, 7.497, -26.971, -4.278, 1.824, 3.29],
+		"pitches": [0.028, 0.024, 0.025, 0.215, 0.016, 0.01, 0.505, 0.009, 0.039, 0.198, 0.037, 1.0],
+		"start": 56.89438,
+		"loudness_max_time": 0.03373,
+		"loudness_start": -31.919,
+		"duration": 0.57433,
+		"loudness_max": -30.118
+	}, {
+		"confidence": 0.024,
+		"timbre": [27.62, -238.229, -10.304, -13.682, 69.449, -53.541, 2.531, 20.735, -11.769, -8.725, -4.506, -10.317],
+		"pitches": [0.38, 0.047, 0.032, 0.309, 0.019, 0.074, 0.555, 0.05, 0.026, 0.109, 0.044, 1.0],
+		"start": 57.46871,
+		"loudness_max_time": 0.01987,
+		"loudness_start": -32.938,
+		"duration": 0.14172,
+		"loudness_max": -30.995
+	}, {
+		"confidence": 0.219,
+		"timbre": [26.8, -232.396, -6.658, -14.006, 78.57, -45.715, 12.384, 17.349, -10.244, -3.077, -1.291, -16.419],
+		"pitches": [0.307, 0.036, 0.034, 0.344, 0.028, 0.044, 0.353, 0.042, 0.017, 0.065, 0.042, 1.0],
+		"start": 57.61043,
+		"loudness_max_time": 0.02385,
+		"loudness_start": -34.98,
+		"duration": 0.1649,
+		"loudness_max": -31.4
+	}, {
+		"confidence": 0.387,
+		"timbre": [26.258, -222.009, -15.362, -6.376, 74.088, -39.72, 14.131, 26.08, -9.561, 1.345, -2.6, -15.664],
+		"pitches": [0.4, 0.023, 0.026, 0.317, 0.027, 0.077, 0.346, 0.041, 0.018, 0.114, 0.061, 1.0],
+		"start": 57.77533,
+		"loudness_max_time": 0.04188,
+		"loudness_start": -35.53,
+		"duration": 0.14154,
+		"loudness_max": -31.42
+	}, {
+		"confidence": 0.401,
+		"timbre": [26.074, -211.582, -18.289, -48.59, 36.181, -29.942, 20.299, -1.643, -43.3, -3.822, 2.777, 9.809],
+		"pitches": [0.171, 0.03, 0.019, 0.09, 0.015, 0.084, 0.77, 0.062, 0.013, 0.047, 0.084, 1.0],
+		"start": 57.91687,
+		"loudness_max_time": 0.06318,
+		"loudness_start": -36.4,
+		"duration": 0.19796,
+		"loudness_max": -32.885
+	}, {
+		"confidence": 0.175,
+		"timbre": [27.864, -236.334, -8.495, -53.006, 49.139, -43.065, -0.078, 5.619, -32.737, -16.057, 16.976, 0.992],
+		"pitches": [0.055, 0.029, 0.019, 0.086, 0.013, 0.023, 0.623, 0.019, 0.023, 0.187, 0.046, 1.0],
+		"start": 58.11483,
+		"loudness_max_time": 0.31197,
+		"loudness_start": -33.849,
+		"duration": 0.45746,
+		"loudness_max": -30.192
+	}, {
+		"confidence": 0.005,
+		"timbre": [29.07, -236.816, -5.601, -17.441, 45.649, -48.131, 0.388, 10.481, -23.058, -12.26, 0.574, 2.481],
+		"pitches": [0.042, 0.022, 0.02, 0.119, 0.014, 0.015, 0.413, 0.019, 0.04, 0.198, 0.038, 1.0],
+		"start": 58.57229,
+		"loudness_max_time": 0.06668,
+		"loudness_start": -31.112,
+		"duration": 0.54168,
+		"loudness_max": -29.567
+	}, {
+		"confidence": 0.236,
+		"timbre": [26.897, -229.621, 1.12, -25.83, 75.901, -50.579, 16.305, 14.23, -7.896, -3.257, -14.35, -17.98],
+		"pitches": [0.158, 0.035, 0.064, 0.586, 0.622, 0.179, 0.639, 0.031, 0.036, 0.122, 0.068, 1.0],
+		"start": 59.11397,
+		"loudness_max_time": 0.07044,
+		"loudness_start": -35.585,
+		"duration": 0.26785,
+		"loudness_max": -31.129
+	}, {
+		"confidence": 0.373,
+		"timbre": [25.154, -222.65, -38.544, -42.727, 70.621, -41.064, 21.319, 9.413, -11.665, 5.719, -8.162, -14.972],
+		"pitches": [0.161, 0.05, 0.05, 0.487, 1.0, 0.236, 0.253, 0.075, 0.06, 0.104, 0.055, 0.32],
+		"start": 59.38181,
+		"loudness_max_time": 0.06172,
+		"loudness_start": -37.841,
+		"duration": 0.13061,
+		"loudness_max": -33.47
+	}, {
+		"confidence": 0.435,
+		"timbre": [25.925, -227.003, -43.987, -37.027, 56.089, -36.112, -13.153, 14.904, -28.861, -7.121, 2.356, -1.949],
+		"pitches": [0.026, 0.016, 0.01, 0.068, 1.0, 0.052, 0.137, 0.028, 0.195, 0.021, 0.027, 0.163],
+		"start": 59.51243,
+		"loudness_max_time": 0.07859,
+		"loudness_start": -36.844,
+		"duration": 0.36757,
+		"loudness_max": -32.033
+	}, {
+		"confidence": 0.039,
+		"timbre": [25.852, -231.329, -42.147, -45.046, 65.688, -63.208, -17.052, 14.753, -11.868, -11.28, 6.5, -4.304],
+		"pitches": [0.045, 0.018, 0.028, 0.241, 1.0, 0.097, 0.06, 0.038, 0.075, 0.011, 0.02, 0.1],
+		"start": 59.88,
+		"loudness_max_time": 0.00897,
+		"loudness_start": -35.582,
+		"duration": 0.16059,
+		"loudness_max": -33.032
+	}, {
+		"confidence": 0.284,
+		"timbre": [26.63, -244.474, -22.965, -36.93, 83.757, -33.432, -12.794, 13.328, -23.895, -3.122, -8.762, -1.811],
+		"pitches": [0.022, 0.009, 0.03, 0.198, 1.0, 0.026, 0.025, 0.048, 0.299, 0.024, 0.023, 0.144],
+		"start": 60.04059,
+		"loudness_max_time": 0.18808,
+		"loudness_start": -35.075,
+		"duration": 0.41882,
+		"loudness_max": -31.124
+	}, {
+		"confidence": 0.376,
+		"timbre": [26.378, -245.199, -15.917, -34.594, 86.62, -51.857, -6.022, 8.35, -24.097, -11.882, 5.69, -7.304],
+		"pitches": [0.051, 0.047, 0.046, 0.38, 1.0, 0.099, 0.026, 0.044, 0.116, 0.025, 0.026, 0.147],
+		"start": 60.45941,
+		"loudness_max_time": 0.02893,
+		"loudness_start": -36.482,
+		"duration": 0.13819,
+		"loudness_max": -32.876
+	}, {
+		"confidence": 0.128,
+		"timbre": [26.746, -231.77, -2.847, -20.034, 81.256, -50.926, 4.952, 19.568, -11.949, -6.683, -10.581, -13.577],
+		"pitches": [0.023, 0.016, 0.029, 0.353, 1.0, 0.134, 0.025, 0.021, 0.133, 0.008, 0.017, 0.133],
+		"start": 60.5976,
+		"loudness_max_time": 0.08333,
+		"loudness_start": -35.097,
+		"duration": 0.27302,
+		"loudness_max": -31.885
+	}, {
+		"confidence": 0.429,
+		"timbre": [25.092, -223.12, -44.673, -30.864, 81.399, -38.563, 1.204, 10.412, -23.123, 5.97, -5.317, -8.828],
+		"pitches": [0.012, 0.035, 0.034, 0.389, 1.0, 0.166, 0.015, 0.031, 0.107, 0.014, 0.016, 0.074],
+		"start": 60.87061,
+		"loudness_max_time": 0.03748,
+		"loudness_start": -38.01,
+		"duration": 0.12685,
+		"loudness_max": -33.393
+	}, {
+		"confidence": 0.493,
+		"timbre": [25.583, -227.984, -39.238, -49.43, 62.764, -27.608, -18.982, 13.136, -33.102, -12.09, -3.367, -1.141],
+		"pitches": [0.017, 0.007, 0.009, 0.078, 1.0, 0.036, 0.011, 0.026, 0.26, 0.014, 0.017, 0.098],
+		"start": 60.99746,
+		"loudness_max_time": 0.08313,
+		"loudness_start": -37.322,
+		"duration": 0.35583,
+		"loudness_max": -32.414
+	}, {
+		"confidence": 0.439,
+		"timbre": [25.851, -232.149, -28.225, -50.984, 79.274, -29.803, -8.723, 1.28, -22.401, 7.704, -6.682, -0.699],
+		"pitches": [0.033, 0.008, 0.022, 0.29, 1.0, 0.054, 0.014, 0.029, 0.064, 0.011, 0.021, 0.171],
+		"start": 61.35329,
+		"loudness_max_time": 0.04748,
+		"loudness_start": -36.655,
+		"duration": 0.1849,
+		"loudness_max": -32.604
+	}, {
+		"confidence": 0.301,
+		"timbre": [26.253, -238.938, -22.846, -46.205, 81.293, -38.816, -12.775, 9.642, -24.963, -8.175, -8.908, 0.826],
+		"pitches": [0.023, 0.009, 0.021, 0.199, 1.0, 0.038, 0.012, 0.051, 0.443, 0.016, 0.022, 0.117],
+		"start": 61.53819,
+		"loudness_max_time": 0.17904,
+		"loudness_start": -35.699,
+		"duration": 0.3732,
+		"loudness_max": -31.005
+	}, {
+		"confidence": 0.279,
+		"timbre": [25.77, -226.404, -16.115, -19.68, 86.316, -50.038, -16.322, 12.953, -18.666, -3.75, 1.304, -5.347],
+		"pitches": [0.079, 0.044, 0.061, 0.498, 1.0, 0.095, 0.029, 0.081, 0.121, 0.022, 0.046, 0.417],
+		"start": 61.91138,
+		"loudness_max_time": 0.01988,
+		"loudness_start": -35.4,
+		"duration": 0.16726,
+		"loudness_max": -32.72
+	}, {
+		"confidence": 0.346,
+		"timbre": [25.804, -223.981, 5.02, -35.002, 89.66, -34.606, 10.455, 13.396, -15.821, -0.957, -10.411, -15.993],
+		"pitches": [0.056, 0.016, 0.056, 0.646, 1.0, 0.684, 0.108, 0.036, 0.189, 0.014, 0.021, 0.233],
+		"start": 62.07864,
+		"loudness_max_time": 0.1745,
+		"loudness_start": -36.719,
+		"duration": 0.2619,
+		"loudness_max": -32.125
+	}, {
+		"confidence": 0.489,
+		"timbre": [24.483, -225.499, -37.233, -47.722, 76.179, -36.86, 24.906, 17.672, -17.684, 2.582, -14.305, -16.045],
+		"pitches": [0.261, 0.035, 0.048, 0.432, 0.373, 0.714, 0.277, 0.086, 0.241, 0.036, 0.068, 1.0],
+		"start": 62.34054,
+		"loudness_max_time": 0.06484,
+		"loudness_start": -39.067,
+		"duration": 0.13274,
+		"loudness_max": -33.561
+	}, {
+		"confidence": 0.428,
+		"timbre": [25.872, -217.274, -37.126, -43.303, 37.103, -29.203, 5.966, 13.254, -37.426, -7.881, -6.198, -3.154],
+		"pitches": [0.064, 0.008, 0.01, 0.064, 0.18, 1.0, 0.048, 0.039, 0.403, 0.011, 0.022, 0.758],
+		"start": 62.47329,
+		"loudness_max_time": 0.15379,
+		"loudness_start": -37.532,
+		"duration": 0.36077,
+		"loudness_max": -32.362
+	}, {
+		"confidence": 0.727,
+		"timbre": [27.43, -239.648, -14.022, -64.406, 64.951, -12.718, 23.8, 6.589, -16.37, 17.2, -14.91, -15.889],
+		"pitches": [0.096, 0.056, 0.505, 0.046, 0.099, 0.908, 0.069, 0.024, 0.092, 0.011, 0.027, 1.0],
+		"start": 62.83406,
+		"loudness_max_time": 0.10549,
+		"loudness_start": -36.896,
+		"duration": 0.3015,
+		"loudness_max": -28.901
+	}, {
+		"confidence": 0.02,
+		"timbre": [26.879, -235.035, -48.81, -14.223, 44.916, -52.915, 1.501, 19.505, -16.815, -13.571, -3.787, -11.289],
+		"pitches": [0.11, 0.022, 0.131, 0.024, 0.084, 0.763, 0.087, 0.029, 0.251, 0.013, 0.049, 1.0],
+		"start": 63.13556,
+		"loudness_max_time": 0.03694,
+		"loudness_start": -32.725,
+		"duration": 0.27247,
+		"loudness_max": -30.878
+	}, {
+		"confidence": 0.655,
+		"timbre": [26.982, -239.657, -41.683, -5.857, 65.822, -34.25, 4.721, 37.221, -6.584, -4.719, -24.616, -15.391],
+		"pitches": [0.082, 0.053, 0.468, 0.039, 0.127, 1.0, 0.087, 0.05, 0.204, 0.016, 0.032, 0.835],
+		"start": 63.40803,
+		"loudness_max_time": 0.0543,
+		"loudness_start": -36.125,
+		"duration": 0.55483,
+		"loudness_max": -29.38
+	}, {
+		"confidence": 0.538,
+		"timbre": [25.361, -211.891, -50.568, -34.451, 34.087, -33.616, -1.965, 16.854, -37.909, -8.633, -2.193, 1.813],
+		"pitches": [0.082, 0.013, 0.038, 0.016, 0.066, 1.0, 0.069, 0.028, 0.27, 0.014, 0.021, 0.922],
+		"start": 63.96286,
+		"loudness_max_time": 0.07395,
+		"loudness_start": -37.767,
+		"duration": 0.32821,
+		"loudness_max": -32.788
+	}, {
+		"confidence": 0.758,
+		"timbre": [25.841, -226.735, -42.464, -73.867, 58.648, -16.103, 11.921, 1.747, -15.848, 17.054, -29.159, -5.131],
+		"pitches": [0.061, 0.037, 0.383, 0.025, 0.04, 0.971, 0.048, 0.038, 0.221, 0.013, 0.023, 1.0],
+		"start": 64.29107,
+		"loudness_max_time": 0.12147,
+		"loudness_start": -37.187,
+		"duration": 0.54454,
+		"loudness_max": -28.648
+	}, {
+		"confidence": 0.678,
+		"timbre": [27.574, -233.744, -11.192, -29.177, 72.816, -13.361, 17.395, 21.564, -3.098, 11.966, -21.782, -20.466],
+		"pitches": [0.109, 0.076, 0.851, 0.041, 0.089, 0.771, 0.061, 0.034, 0.153, 0.026, 0.043, 1.0],
+		"start": 64.8356,
+		"loudness_max_time": 0.10054,
+		"loudness_start": -35.992,
+		"duration": 0.30222,
+		"loudness_max": -28.137
+	}, {
+		"confidence": 0.158,
+		"timbre": [24.974, -228.731, -38.878, -21.844, 73.846, -61.968, 18.123, 17.997, -11.31, -6.023, -4.16, -24.865],
+		"pitches": [0.058, 0.038, 0.191, 0.032, 0.324, 0.111, 0.196, 1.0, 0.257, 0.012, 0.019, 0.269],
+		"start": 65.13782,
+		"loudness_max_time": 0.02401,
+		"loudness_start": -36.089,
+		"duration": 0.27782,
+		"loudness_max": -33.288
+	}, {
+		"confidence": 0.264,
+		"timbre": [25.045, -238.568, -66.123, -65.392, 68.702, -53.007, -1.244, 6.616, -21.809, -4.455, 6.742, -12.285],
+		"pitches": [0.02, 0.012, 0.045, 0.019, 0.81, 0.045, 0.082, 1.0, 0.135, 0.024, 0.149, 0.138],
+		"start": 65.41565,
+		"loudness_max_time": 0.28155,
+		"loudness_start": -37.448,
+		"duration": 0.37655,
+		"loudness_max": -33.499
+	}, {
+		"confidence": 0.249,
+		"timbre": [26.728, -223.137, -58.553, -45.38, 44.171, -41.558, -16.725, -12.297, -0.249, -5.918, -2.29, -6.643],
+		"pitches": [0.028, 0.096, 0.055, 0.011, 0.827, 0.03, 0.045, 1.0, 0.068, 0.019, 0.201, 0.11],
+		"start": 65.7922,
+		"loudness_max_time": 0.048,
+		"loudness_start": -34.695,
+		"duration": 0.48862,
+		"loudness_max": -32.064
+	}, {
+		"confidence": 0.251,
+		"timbre": [25.76, -215.504, -41.681, -41.487, 63.64, -35.277, -28.424, 18.411, -1.831, -8.583, -0.056, -8.181],
+		"pitches": [0.075, 0.297, 0.085, 0.039, 1.0, 0.073, 0.08, 0.433, 0.04, 0.055, 0.278, 0.226],
+		"start": 66.28082,
+		"loudness_max_time": 0.04225,
+		"loudness_start": -35.941,
+		"duration": 0.30154,
+		"loudness_max": -32.699
+	}, {
+		"confidence": 0.096,
+		"timbre": [22.961, -209.688, -69.988, -42.037, 67.596, -55.834, 8.087, 25.969, -7.114, 0.487, -3.236, -19.484],
+		"pitches": [0.037, 0.089, 0.024, 0.024, 0.155, 0.035, 0.267, 1.0, 0.158, 0.024, 0.073, 0.116],
+		"start": 66.58236,
+		"loudness_max_time": 0.04987,
+		"loudness_start": -37.827,
+		"duration": 0.2278,
+		"loudness_max": -35.282
+	}, {
+		"confidence": 0.516,
+		"timbre": [24.002, -220.042, -60.594, -76.316, 61.384, -30.82, 5.974, -7.873, -23.067, 20.587, -5.818, -16.587],
+		"pitches": [0.019, 0.035, 0.023, 0.021, 0.834, 0.02, 0.106, 1.0, 0.063, 0.024, 0.176, 0.077],
+		"start": 66.81016,
+		"loudness_max_time": 0.14055,
+		"loudness_start": -39.322,
+		"duration": 0.34776,
+		"loudness_max": -34.028
+	}, {
+		"confidence": 0.294,
+		"timbre": [25.58, -224.913, -62.47, -64.541, 50.411, -41.813, -10.783, 12.522, -3.437, -0.792, 9.97, -11.943],
+		"pitches": [0.04, 0.097, 0.062, 0.223, 1.0, 0.169, 0.063, 0.172, 0.026, 0.045, 0.227, 0.135],
+		"start": 67.15791,
+		"loudness_max_time": 0.03687,
+		"loudness_start": -37.214,
+		"duration": 0.12367,
+		"loudness_max": -33.251
+	}, {
+		"confidence": 0.256,
+		"timbre": [26.517, -214.332, -60.276, -47.528, 35.636, -35.482, -22.347, -19.113, -2.558, -5.807, -12.53, -8.569],
+		"pitches": [0.032, 0.137, 0.039, 0.014, 0.893, 0.023, 0.077, 1.0, 0.102, 0.015, 0.19, 0.091],
+		"start": 67.28159,
+		"loudness_max_time": 0.08226,
+		"loudness_start": -34.53,
+		"duration": 0.38236,
+		"loudness_max": -30.733
+	}, {
+		"confidence": 0.007,
+		"timbre": [24.97, -219.586, -34.87, -32.93, 78.486, -48.415, -25.056, 27.735, -8.161, -19.932, -5.196, -12.645],
+		"pitches": [0.121, 0.5, 0.134, 0.049, 1.0, 0.063, 0.116, 0.74, 0.124, 0.095, 0.477, 0.399],
+		"start": 67.66395,
+		"loudness_max_time": 0.03597,
+		"loudness_start": -35.618,
+		"duration": 0.48045,
+		"loudness_max": -33.576
+	}, {
+		"confidence": 0.061,
+		"timbre": [21.67, -192.086, -63.192, -73.804, 65.882, -50.802, 3.54, -3.061, -15.372, -5.22, 0.832, -12.709],
+		"pitches": [0.034, 0.094, 0.043, 0.062, 0.673, 0.297, 1.0, 0.245, 0.039, 0.034, 0.136, 0.153],
+		"start": 68.1444,
+		"loudness_max_time": 0.15096,
+		"loudness_start": -40.022,
+		"duration": 0.2102,
+		"loudness_max": -36.411
+	}, {
+		"confidence": 0.59,
+		"timbre": [25.292, -234.93, -58.995, -60.997, 62.066, -28.364, 3.017, 9.601, -32.549, -1.428, -6.816, -2.711],
+		"pitches": [0.015, 0.052, 0.018, 0.024, 0.982, 0.143, 1.0, 0.1, 0.019, 0.023, 0.25, 0.043],
+		"start": 68.3546,
+		"loudness_max_time": 0.07698,
+		"loudness_start": -38.06,
+		"duration": 0.38222,
+		"loudness_max": -31.735
+	}, {
+		"confidence": 0.26,
+		"timbre": [26.293, -212.104, -52.54, -68.678, 38.007, -34.21, -21.07, -19.005, -2.954, -2.761, 3.397, -7.347],
+		"pitches": [0.027, 0.194, 0.019, 0.046, 1.0, 0.163, 0.87, 0.128, 0.017, 0.035, 0.257, 0.042],
+		"start": 68.73683,
+		"loudness_max_time": 0.11701,
+		"loudness_start": -36.076,
+		"duration": 0.23098,
+		"loudness_max": -31.917
+	}, {
+		"confidence": 0.175,
+		"timbre": [27.253, -250.385, -50.438, -29.311, 55.555, -51.658, -12.641, 11.682, -26.616, -14.177, 8.007, -3.213],
+		"pitches": [0.014, 0.1, 0.012, 0.019, 1.0, 0.094, 0.731, 0.047, 0.008, 0.034, 0.295, 0.028],
+		"start": 68.9678,
+		"loudness_max_time": 0.04769,
+		"loudness_start": -33.151,
+		"duration": 0.33719,
+		"loudness_max": -30.942
+	}, {
+		"confidence": 0.034,
+		"timbre": [25.446, -195.841, -47.47, -18.941, 48.068, -48.656, -43.049, 2.69, -3.293, -11.48, -7.963, -5.195],
+		"pitches": [0.07, 0.338, 0.059, 0.039, 1.0, 0.182, 0.462, 0.167, 0.031, 0.065, 0.318, 0.056],
+		"start": 69.30499,
+		"loudness_max_time": 0.01629,
+		"loudness_start": -34.51,
+		"duration": 0.34857,
+		"loudness_max": -32.497
+	}, {
+		"confidence": 0.068,
+		"timbre": [22.446, -189.144, -52.836, -39.892, 58.651, -56.555, 2.503, 20.039, -9.589, -10.362, 4.32, -21.654],
+		"pitches": [0.04, 0.267, 0.049, 0.099, 0.433, 0.346, 1.0, 0.154, 0.038, 0.055, 0.188, 0.067],
+		"start": 69.65356,
+		"loudness_max_time": 0.02855,
+		"loudness_start": -38.591,
+		"duration": 0.19034,
+		"loudness_max": -36.308
+	}, {
+		"confidence": 0.6,
+		"timbre": [25.668, -232.274, -50.813, -49.191, 57.752, -34.105, -1.253, 11.423, -32.28, -6.346, -2.684, -0.971],
+		"pitches": [0.015, 0.069, 0.012, 0.019, 1.0, 0.116, 0.864, 0.071, 0.018, 0.033, 0.326, 0.04],
+		"start": 69.8439,
+		"loudness_max_time": 0.10715,
+		"loudness_start": -37.954,
+		"duration": 0.41351,
+		"loudness_max": -32.157
+	}, {
+		"confidence": 0.246,
+		"timbre": [26.96, -207.008, -50.397, -51.919, 32.233, -36.472, -34.39, -15.133, 2.013, -1.238, -6.129, -6.121],
+		"pitches": [0.033, 0.212, 0.037, 0.145, 1.0, 0.189, 0.441, 0.063, 0.016, 0.05, 0.314, 0.029],
+		"start": 70.25741,
+		"loudness_max_time": 0.05977,
+		"loudness_start": -34.503,
+		"duration": 0.13914,
+		"loudness_max": -31.888
+	}, {
+		"confidence": 0.12,
+		"timbre": [27.125, -250.737, -48.089, -37.716, 60.469, -51.206, -16.366, 13.925, -26.992, -11.482, -2.367, -1.669],
+		"pitches": [0.016, 0.097, 0.012, 0.014, 1.0, 0.104, 0.643, 0.058, 0.011, 0.021, 0.179, 0.033],
+		"start": 70.39655,
+		"loudness_max_time": 0.10967,
+		"loudness_start": -34.012,
+		"duration": 0.41946,
+		"loudness_max": -31.258
+	}, {
+		"confidence": 0.2,
+		"timbre": [25.179, -194.506, -48.736, -4.391, 58.49, -40.425, -44.671, 4.859, -6.218, -14.028, -3.039, -0.861],
+		"pitches": [0.072, 0.362, 0.074, 0.046, 1.0, 0.274, 0.781, 0.233, 0.056, 0.101, 0.531, 0.076],
+		"start": 70.81601,
+		"loudness_max_time": 0.04671,
+		"loudness_start": -34.611,
+		"duration": 0.26689,
+		"loudness_max": -32.046
+	}, {
+		"confidence": 0.281,
+		"timbre": [23.393, -213.878, -51.376, -76.187, 67.613, -45.99, -1.706, -4.727, -27.052, -3.257, 2.681, -1.247],
+		"pitches": [0.029, 0.146, 0.176, 1.0, 0.399, 0.272, 0.821, 0.134, 0.021, 0.029, 0.116, 0.017],
+		"start": 71.0829,
+		"loudness_max_time": 0.15289,
+		"loudness_start": -38.77,
+		"duration": 0.20939,
+		"loudness_max": -34.516
+	}, {
+		"confidence": 0.462,
+		"timbre": [25.465, -226.786, -43.729, -53.386, 56.734, -32.743, -5.241, 10.572, -32.164, -2.692, -1.112, 1.622],
+		"pitches": [0.033, 0.061, 0.042, 0.64, 0.118, 0.093, 1.0, 0.055, 0.013, 0.017, 0.109, 0.145],
+		"start": 71.29229,
+		"loudness_max_time": 0.0938,
+		"loudness_start": -37.002,
+		"duration": 0.36512,
+		"loudness_max": -31.813
+	}, {
+		"confidence": 0.425,
+		"timbre": [27.53, -230.674, -11.979, -38.614, 55.206, -54.175, -1.422, -2.512, -9.839, -10.732, 3.387, -13.823],
+		"pitches": [0.025, 0.036, 0.08, 1.0, 0.077, 0.092, 0.807, 0.069, 0.009, 0.008, 0.037, 0.095],
+		"start": 71.65741,
+		"loudness_max_time": 0.14738,
+		"loudness_start": -35.959,
+		"duration": 0.27438,
+		"loudness_max": -31.578
+	}, {
+		"confidence": 0.004,
+		"timbre": [26.996, -230.974, -38.915, -16.268, 55.013, -49.544, -2.164, 18.378, -12.597, -12.72, -3.071, -5.432],
+		"pitches": [0.031, 0.032, 0.083, 0.978, 0.031, 0.117, 1.0, 0.08, 0.007, 0.012, 0.074, 0.238],
+		"start": 71.93179,
+		"loudness_max_time": 0.05618,
+		"loudness_start": -32.684,
+		"duration": 0.28091,
+		"loudness_max": -30.913
+	}, {
+		"confidence": 0.018,
+		"timbre": [25.369, -221.216, -8.947, -26.596, 84.072, -63.409, 7.159, 9.136, -10.516, -14.434, -2.42, -14.848],
+		"pitches": [0.086, 0.129, 0.273, 1.0, 0.109, 0.157, 0.374, 0.116, 0.047, 0.05, 0.062, 0.204],
+		"start": 72.2127,
+		"loudness_max_time": 0.00951,
+		"loudness_start": -35.757,
+		"duration": 0.13565,
+		"loudness_max": -33.249
+	}, {
+		"confidence": 0.239,
+		"timbre": [25.701, -222.829, 5.339, -24.209, 90.181, -48.349, 7.639, 15.873, -14.785, -6.945, -10.262, -16.323],
+		"pitches": [0.052, 0.089, 0.136, 1.0, 0.078, 0.244, 0.692, 0.167, 0.019, 0.011, 0.05, 0.211],
+		"start": 72.34834,
+		"loudness_max_time": 0.0826,
+		"loudness_start": -36.334,
+		"duration": 0.29002,
+		"loudness_max": -32.202
+	}, {
+		"confidence": 0.315,
+		"timbre": [24.532, -227.414, -42.843, -36.083, 72.769, -50.061, 16.707, 20.037, -23.013, -6.431, 2.633, -11.922],
+		"pitches": [0.024, 0.063, 0.181, 1.0, 0.122, 0.112, 0.467, 0.099, 0.03, 0.032, 0.06, 0.09],
+		"start": 72.63837,
+		"loudness_max_time": 0.03185,
+		"loudness_start": -37.686,
+		"duration": 0.13238,
+		"loudness_max": -34.22
+	}, {
+		"confidence": 0.377,
+		"timbre": [25.12, -225.532, -41.688, -44.422, 61.225, -39.678, -2.308, 11.684, -32.085, -14.504, -5.277, 1.517],
+		"pitches": [0.036, 0.054, 0.052, 0.767, 0.03, 0.123, 1.0, 0.053, 0.009, 0.01, 0.053, 0.152],
+		"start": 72.77075,
+		"loudness_max_time": 0.08451,
+		"loudness_start": -36.789,
+		"duration": 0.30159,
+		"loudness_max": -32.789
+	}, {
+		"confidence": 0.345,
+		"timbre": [25.856, -223.589, -21.028, -44.891, 74.903, -34.497, -4.757, 1.242, -18.039, 2.174, -5.45, 0.4],
+		"pitches": [0.027, 0.038, 0.051, 0.987, 0.028, 0.061, 1.0, 0.078, 0.021, 0.011, 0.05, 0.145],
+		"start": 73.07234,
+		"loudness_max_time": 0.3646,
+		"loudness_start": -36.237,
+		"duration": 0.70345,
+		"loudness_max": -31.458
+	}, {
+		"confidence": 0.41,
+		"timbre": [24.716, -217.375, -16.988, -16.98, 88.104, -56.653, 2.452, 21.339, -14.399, -7.441, 7.231, -13.986],
+		"pitches": [0.052, 0.097, 0.192, 1.0, 0.129, 0.112, 0.46, 0.11, 0.034, 0.036, 0.05, 0.224],
+		"start": 73.77578,
+		"loudness_max_time": 0.0196,
+		"loudness_start": -37.591,
+		"duration": 0.13324,
+		"loudness_max": -33.447
+	}, {
+		"confidence": 0.383,
+		"timbre": [23.933, -205.388, -25.049, -25.489, 82.645, -38.748, 16.355, 17.826, -9.202, 1.19, -25.601, -16.963],
+		"pitches": [0.1, 0.639, 0.107, 0.522, 0.026, 0.2, 1.0, 0.137, 0.033, 0.01, 0.036, 0.101],
+		"start": 73.90902,
+		"loudness_max_time": 0.09272,
+		"loudness_start": -37.599,
+		"duration": 0.2859,
+		"loudness_max": -33.731
+	}, {
+		"confidence": 0.633,
+		"timbre": [23.25, -200.66, -47.188, -61.652, 57.185, -22.46, 27.829, 12.546, -27.915, 6.043, -11.124, -6.702],
+		"pitches": [0.062, 0.663, 0.07, 0.146, 0.021, 0.14, 1.0, 0.077, 0.034, 0.015, 0.042, 0.143],
+		"start": 74.19492,
+		"loudness_max_time": 0.14168,
+		"loudness_start": -40.454,
+		"duration": 0.39293,
+		"loudness_max": -33.62
+	}, {
+		"confidence": 0.661,
+		"timbre": [27.94, -211.799, -8.016, -48.56, 62.992, -23.505, 39.663, -4.282, 2.302, 20.633, 0.134, -21.178],
+		"pitches": [0.057, 1.0, 0.033, 0.039, 0.371, 0.092, 0.907, 0.036, 0.035, 0.011, 0.021, 0.116],
+		"start": 74.58785,
+		"loudness_max_time": 0.21035,
+		"loudness_start": -36.896,
+		"duration": 0.36073,
+		"loudness_max": -30.059
+	}, {
+		"confidence": 0.048,
+		"timbre": [28.667, -238.631, 1.97, -25.018, 60.514, -49.262, 31.756, 16.587, -1.306, 1.667, -8.529, -23.301],
+		"pitches": [0.15, 1.0, 0.073, 0.036, 0.366, 0.174, 0.831, 0.116, 0.037, 0.015, 0.069, 0.248],
+		"start": 74.94857,
+		"loudness_max_time": 0.05565,
+		"loudness_start": -32.756,
+		"duration": 0.22168,
+		"loudness_max": -30.619
+	}, {
+		"confidence": 0.207,
+		"timbre": [27.333, -207.515, -8.704, -16.21, 57.889, -41.649, 15.622, 27.74, 7.665, 4.028, -22.871, -12.139],
+		"pitches": [0.093, 1.0, 0.055, 0.036, 0.306, 0.097, 0.309, 0.05, 0.035, 0.007, 0.026, 0.152],
+		"start": 75.17025,
+		"loudness_max_time": 0.08697,
+		"loudness_start": -33.842,
+		"duration": 0.27125,
+		"loudness_max": -30.261
+	}, {
+		"confidence": 0.532,
+		"timbre": [25.04, -216.935, -11.988, -33.895, 78.508, -34.83, 31.658, 18.909, -12.022, 4.611, -13.949, -20.34],
+		"pitches": [0.122, 0.705, 0.109, 0.022, 0.395, 0.208, 1.0, 0.092, 0.056, 0.03, 0.046, 0.115],
+		"start": 75.4415,
+		"loudness_max_time": 0.08944,
+		"loudness_start": -38.244,
+		"duration": 0.27887,
+		"loudness_max": -32.661
+	}, {
+		"confidence": 0.371,
+		"timbre": [23.67, -202.781, -56.941, -40.169, 45.143, -43.935, 15.765, 18.305, -27.038, -8.602, -0.791, -4.02],
+		"pitches": [0.084, 0.993, 0.062, 0.013, 0.07, 0.153, 1.0, 0.048, 0.041, 0.015, 0.043, 0.182],
+		"start": 75.72036,
+		"loudness_max_time": 0.07638,
+		"loudness_start": -38.422,
+		"duration": 0.33937,
+		"loudness_max": -33.941
+	}, {
+		"confidence": 0.667,
+		"timbre": [27.366, -205.967, -23.826, -50.089, 60.863, -24.129, 36.802, -4.938, -3.586, 20.405, -3.043, -21.279],
+		"pitches": [0.062, 1.0, 0.026, 0.018, 0.303, 0.091, 0.877, 0.039, 0.028, 0.011, 0.032, 0.101],
+		"start": 76.05973,
+		"loudness_max_time": 0.12086,
+		"loudness_start": -37.371,
+		"duration": 0.34549,
+		"loudness_max": -30.831
+	}, {
+		"confidence": 0.111,
+		"timbre": [28.019, -238.346, 0.386, -32.447, 62.932, -49.448, 34.072, 14.179, -3.523, -2.686, -4.027, -24.39],
+		"pitches": [0.201, 1.0, 0.117, 0.017, 0.348, 0.224, 0.833, 0.162, 0.041, 0.018, 0.076, 0.168],
+		"start": 76.40522,
+		"loudness_max_time": 0.05959,
+		"loudness_start": -33.113,
+		"duration": 0.20943,
+		"loudness_max": -31.159
+	}, {
+		"confidence": 0.17,
+		"timbre": [27.941, -211.931, -7.809, -5.342, 66.522, -40.436, 4.907, 28.248, 6.901, -0.967, -15.929, -8.349],
+		"pitches": [0.176, 1.0, 0.076, 0.032, 0.508, 0.15, 0.826, 0.1, 0.057, 0.014, 0.045, 0.244],
+		"start": 76.61465,
+		"loudness_max_time": 0.10142,
+		"loudness_start": -33.27,
+		"duration": 0.24948,
+		"loudness_max": -30.018
+	}, {
+		"confidence": 0.552,
+		"timbre": [25.712, -219.823, -4.652, -48.271, 79.961, -31.629, 23.313, 7.526, -13.452, 9.069, -14.708, -12.581],
+		"pitches": [0.125, 1.0, 0.115, 0.026, 0.451, 0.201, 0.978, 0.183, 0.065, 0.029, 0.044, 0.106],
+		"start": 76.86413,
+		"loudness_max_time": 0.12328,
+		"loudness_start": -38.086,
+		"duration": 0.28961,
+		"loudness_max": -31.721
+	}, {
+		"confidence": 0.307,
+		"timbre": [25.246, -221.079, -43.073, -31.545, 50.386, -46.244, 21.543, 17.955, -22.539, -9.774, -7.42, -11.495],
+		"pitches": [0.041, 0.864, 0.052, 0.014, 0.06, 0.132, 1.0, 0.078, 0.036, 0.034, 0.326, 0.062],
+		"start": 77.15374,
+		"loudness_max_time": 0.05961,
+		"loudness_start": -36.656,
+		"duration": 0.35528,
+		"loudness_max": -33.423
+	}, {
+		"confidence": 0.631,
+		"timbre": [27.832, -226.846, -3.146, -46.048, 59.988, -26.572, 38.427, 11.692, 1.829, 14.222, -7.438, -22.789],
+		"pitches": [0.07, 1.0, 0.038, 0.018, 0.357, 0.113, 0.865, 0.066, 0.04, 0.048, 0.295, 0.031],
+		"start": 77.50902,
+		"loudness_max_time": 0.11362,
+		"loudness_start": -37.03,
+		"duration": 0.27918,
+		"loudness_max": -29.395
+	}, {
+		"confidence": 0.383,
+		"timbre": [27.998, -239.433, -14.029, -41.535, 57.719, -36.285, 23.271, 12.74, -14.588, -1.269, -11.334, -14.421],
+		"pitches": [0.073, 0.917, 0.034, 0.012, 0.298, 0.127, 1.0, 0.083, 0.035, 0.048, 0.381, 0.042],
+		"start": 77.78821,
+		"loudness_max_time": 0.09353,
+		"loudness_start": -33.988,
+		"duration": 0.27079,
+		"loudness_max": -30.087
+	}, {
+		"confidence": 0.313,
+		"timbre": [26.702, -210.278, -21.439, -34.364, 66.307, -34.781, -1.635, 11.092, -2.276, 3.507, -13.121, -8.174],
+		"pitches": [0.12, 1.0, 0.067, 0.023, 0.285, 0.111, 0.571, 0.088, 0.039, 0.058, 0.367, 0.03],
+		"start": 78.059,
+		"loudness_max_time": 0.10259,
+		"loudness_start": -35.259,
+		"duration": 0.239,
+		"loudness_max": -30.887
+	}, {
+		"confidence": 0.562,
+		"timbre": [24.995, -224.447, -21.148, -51.303, 79.755, -26.73, 24.671, 15.839, -18.422, 3.845, -17.337, -12.729],
+		"pitches": [0.087, 1.0, 0.092, 0.022, 0.334, 0.16, 0.981, 0.106, 0.04, 0.048, 0.147, 0.03],
+		"start": 78.298,
+		"loudness_max_time": 0.12286,
+		"loudness_start": -38.319,
+		"duration": 0.31955,
+		"loudness_max": -31.895
+	}, {
+		"confidence": 0.484,
+		"timbre": [24.726, -218.044, -46.7, -48.05, 51.633, -36.494, 12.556, 13.122, -33.244, -8.396, -9.072, -5.151],
+		"pitches": [0.041, 0.723, 0.036, 0.009, 0.037, 0.11, 1.0, 0.054, 0.028, 0.025, 0.193, 0.029],
+		"start": 78.61755,
+		"loudness_max_time": 0.09749,
+		"loudness_start": -38.163,
+		"duration": 0.34122,
+		"loudness_max": -32.379
+	}, {
+		"confidence": 0.58,
+		"timbre": [26.863, -225.855, -16.201, -63.286, 57.248, -23.819, 32.815, -0.918, -7.109, 8.394, -4.698, -20.973],
+		"pitches": [0.063, 1.0, 0.033, 0.02, 0.272, 0.098, 0.725, 0.048, 0.04, 0.043, 0.206, 0.022],
+		"start": 78.95878,
+		"loudness_max_time": 0.13037,
+		"loudness_start": -36.861,
+		"duration": 0.53333,
+		"loudness_max": -29.782
+	}, {
+		"confidence": 0.419,
+		"timbre": [27.438, -215.717, -5.216, -1.863, 77.511, -29.275, 14.688, 23.503, -3.55, 5.861, -22.235, -14.226],
+		"pitches": [0.057, 1.0, 0.057, 0.03, 0.584, 0.115, 0.953, 0.084, 0.033, 0.074, 0.386, 0.056],
+		"start": 79.49211,
+		"loudness_max_time": 0.12236,
+		"loudness_start": -34.132,
+		"duration": 0.31433,
+		"loudness_max": -29.982
+	}, {
+		"confidence": 0.437,
+		"timbre": [24.544, -207.895, -17.32, -29.612, 76.662, -43.337, 22.905, 20.589, -10.854, 6.433, -6.866, -15.397],
+		"pitches": [0.032, 0.244, 0.295, 0.068, 0.201, 0.177, 1.0, 0.103, 0.023, 0.045, 0.118, 0.028],
+		"start": 79.80644,
+		"loudness_max_time": 0.06277,
+		"loudness_start": -37.839,
+		"duration": 0.26122,
+		"loudness_max": -34.08
+	}, {
+		"confidence": 0.492,
+		"timbre": [24.839, -212.554, -30.591, -57.724, 54.763, -36.667, 25.824, 9.437, -26.033, -0.003, -7.482, -4.176],
+		"pitches": [0.037, 0.114, 0.365, 0.04, 0.071, 0.097, 1.0, 0.11, 0.41, 0.073, 0.089, 0.139],
+		"start": 80.06766,
+		"loudness_max_time": 0.11057,
+		"loudness_start": -37.247,
+		"duration": 0.41129,
+		"loudness_max": -32.631
+	}, {
+		"confidence": 0.603,
+		"timbre": [28.374, -194.409, -19.838, -29.875, 56.921, -27.527, 24.203, -3.027, 6.497, -1.953, -11.294, -8.39],
+		"pitches": [0.033, 0.092, 0.757, 0.043, 0.055, 0.293, 1.0, 0.085, 0.664, 0.064, 0.044, 0.169],
+		"start": 80.47896,
+		"loudness_max_time": 0.05667,
+		"loudness_start": -34.736,
+		"duration": 0.53574,
+		"loudness_max": -29.247
+	}, {
+		"confidence": 0.434,
+		"timbre": [27.792, -176.544, -4.637, 14.526, 66.47, -39.342, 16.672, 30.84, 20.089, -5.665, -19.837, -14.057],
+		"pitches": [0.145, 0.202, 1.0, 0.071, 0.12, 0.785, 0.662, 0.256, 0.369, 0.091, 0.075, 0.456],
+		"start": 81.01469,
+		"loudness_max_time": 0.05261,
+		"loudness_start": -34.538,
+		"duration": 0.35297,
+		"loudness_max": -29.581
+	}, {
+		"confidence": 0.277,
+		"timbre": [25.051, -199.474, -18.866, -30.971, 60.548, -50.194, 19.872, 9.637, -10.483, 5.271, 3.797, -6.869],
+		"pitches": [0.038, 0.272, 1.0, 0.1, 0.047, 0.565, 0.942, 0.223, 0.21, 0.067, 0.049, 0.101],
+		"start": 81.36766,
+		"loudness_max_time": 0.03474,
+		"loudness_start": -37.209,
+		"duration": 0.19279,
+		"loudness_max": -33.941
+	}, {
+		"confidence": 0.325,
+		"timbre": [25.594, -203.637, -18.028, -29.516, 52.382, -42.852, 18.241, 11.106, -20.15, -3.954, -6.306, 2.005],
+		"pitches": [0.046, 0.1, 0.781, 0.056, 0.026, 0.164, 1.0, 0.119, 0.59, 0.068, 0.049, 0.217],
+		"start": 81.56045,
+		"loudness_max_time": 0.06639,
+		"loudness_start": -35.835,
+		"duration": 0.35243,
+		"loudness_max": -32.654
+	}, {
+		"confidence": 0.593,
+		"timbre": [26.935, -195.728, -19.387, -61.795, 52.26, -25.401, 24.605, 0.905, 1.341, -8.363, -13.171, -2.98],
+		"pitches": [0.042, 0.107, 0.867, 0.051, 0.045, 0.379, 1.0, 0.116, 0.563, 0.074, 0.043, 0.19],
+		"start": 81.91288,
+		"loudness_max_time": 0.09468,
+		"loudness_start": -35.924,
+		"duration": 0.43642,
+		"loudness_max": -29.583
+	}, {
+		"confidence": 0.193,
+		"timbre": [26.445, -221.32, -17.876, -16.768, 63.915, -51.947, 16.633, 16.365, -5.889, -0.889, -7.529, -14.382],
+		"pitches": [0.105, 0.478, 1.0, 0.299, 0.108, 0.759, 0.623, 0.243, 0.455, 0.148, 0.16, 0.445],
+		"start": 82.3493,
+		"loudness_max_time": 0.04094,
+		"loudness_start": -34.412,
+		"duration": 0.11859,
+		"loudness_max": -32.364
+	}, {
+		"confidence": 0.589,
+		"timbre": [26.107, -190.629, -12.162, -8.819, 66.624, -26.175, 17.853, 17.923, 9.209, -9.499, -10.715, -11.934],
+		"pitches": [0.069, 0.234, 0.827, 0.462, 0.12, 0.584, 1.0, 0.219, 0.343, 0.053, 0.074, 0.292],
+		"start": 82.46789,
+		"loudness_max_time": 0.08561,
+		"loudness_start": -35.64,
+		"duration": 0.62458,
+		"loudness_max": -29.929
+	}, {
+		"confidence": 0.305,
+		"timbre": [25.627, -218.599, -40.028, -37.109, 45.878, -44.653, -3.98, 13.209, -33.859, -11.834, 1.713, 3.708],
+		"pitches": [0.032, 0.054, 0.122, 0.742, 0.021, 0.195, 1.0, 0.068, 0.041, 0.011, 0.048, 0.162],
+		"start": 83.09247,
+		"loudness_max_time": 0.08302,
+		"loudness_start": -35.697,
+		"duration": 0.31787,
+		"loudness_max": -32.593
+	}, {
+		"confidence": 0.286,
+		"timbre": [26.465, -191.843, -28.019, -46.145, 51.461, -34.901, -19.143, 7.669, 6.114, -9.217, 7.87, 12.301],
+		"pitches": [0.046, 0.037, 0.182, 1.0, 0.065, 0.252, 0.889, 0.168, 0.025, 0.011, 0.048, 0.137],
+		"start": 83.41034,
+		"loudness_max_time": 0.10689,
+		"loudness_start": -35.412,
+		"duration": 0.18771,
+		"loudness_max": -32.618
+	}, {
+		"confidence": 0.313,
+		"timbre": [27.586, -197.97, -16.724, -53.679, 43.197, -39.276, 0.399, -12.708, -1.659, 8.852, 7.058, 9.471],
+		"pitches": [0.038, 0.072, 0.363, 1.0, 0.155, 0.24, 0.709, 0.144, 0.029, 0.022, 0.03, 0.093],
+		"start": 83.59805,
+		"loudness_max_time": 0.05069,
+		"loudness_start": -35.125,
+		"duration": 0.10984,
+		"loudness_max": -31.99
+	}, {
+		"confidence": 0.185,
+		"timbre": [29.155, -207.113, 5.262, -26.164, 45.114, -38.844, 4.766, 10.952, 4.054, -0.706, -4.0, 1.109],
+		"pitches": [0.024, 0.047, 0.073, 0.807, 0.028, 0.099, 1.0, 0.077, 0.018, 0.017, 0.062, 0.259],
+		"start": 83.70789,
+		"loudness_max_time": 0.17731,
+		"loudness_start": -31.514,
+		"duration": 0.44766,
+		"loudness_max": -28.981
+	}, {
+		"confidence": 0.077,
+		"timbre": [26.687, -197.395, 33.189, -9.657, 79.799, -39.22, 20.886, 7.925, -5.912, 6.098, -10.309, -7.976],
+		"pitches": [0.077, 0.187, 0.083, 0.566, 0.074, 0.114, 1.0, 0.137, 0.047, 0.037, 0.052, 0.213],
+		"start": 84.15556,
+		"loudness_max_time": 0.10595,
+		"loudness_start": -35.219,
+		"duration": 0.17814,
+		"loudness_max": -32.443
+	}, {
+		"confidence": 0.43,
+		"timbre": [26.204, -222.932, -15.017, -30.671, 63.868, -37.911, 30.306, 14.123, -15.192, 3.792, -9.14, -7.41],
+		"pitches": [0.017, 0.065, 0.181, 1.0, 0.113, 0.195, 0.754, 0.104, 0.007, 0.004, 0.033, 0.082],
+		"start": 84.3337,
+		"loudness_max_time": 0.07105,
+		"loudness_start": -36.288,
+		"duration": 0.19692,
+		"loudness_max": -31.802
+	}, {
+		"confidence": 0.295,
+		"timbre": [25.628, -221.501, -38.953, -39.309, 47.099, -42.603, 7.086, 11.391, -30.107, -11.775, -5.846, 0.763],
+		"pitches": [0.03, 0.036, 0.041, 0.799, 0.026, 0.106, 1.0, 0.039, 0.01, 0.008, 0.05, 0.159],
+		"start": 84.53061,
+		"loudness_max_time": 0.07926,
+		"loudness_start": -35.221,
+		"duration": 0.33673,
+		"loudness_max": -31.885
+	}, {
+		"confidence": 0.563,
+		"timbre": [27.129, -185.141, -31.421, -40.468, 51.874, -31.811, -18.058, 6.295, 16.286, -3.835, 12.226, 14.841],
+		"pitches": [0.057, 0.033, 0.081, 1.0, 0.074, 0.069, 0.685, 0.052, 0.017, 0.02, 0.039, 0.14],
+		"start": 84.86735,
+		"loudness_max_time": 0.02748,
+		"loudness_start": -36.813,
+		"duration": 0.1819,
+		"loudness_max": -31.519
+	}, {
+		"confidence": 0.281,
+		"timbre": [28.067, -197.394, -10.714, -60.528, 37.783, -38.822, -1.354, -17.796, 2.564, 5.936, 6.455, 7.738],
+		"pitches": [0.025, 0.042, 0.107, 0.901, 0.093, 0.178, 1.0, 0.074, 0.012, 0.016, 0.033, 0.107],
+		"start": 85.04925,
+		"loudness_max_time": 0.12735,
+		"loudness_start": -34.507,
+		"duration": 0.15596,
+		"loudness_max": -30.329
+	}, {
+		"confidence": 0.03,
+		"timbre": [29.18, -218.686, 5.396, -7.428, 55.757, -47.468, 0.04, 35.77, 1.047, -3.482, -5.351, 0.305],
+		"pitches": [0.039, 0.065, 0.091, 0.561, 0.045, 0.158, 1.0, 0.096, 0.018, 0.018, 0.064, 0.291],
+		"start": 85.20522,
+		"loudness_max_time": 0.07652,
+		"loudness_start": -30.519,
+		"duration": 0.39447,
+		"loudness_max": -28.607
+	}, {
+		"confidence": 0.318,
+		"timbre": [26.899, -193.044, 35.85, -9.848, 71.715, -36.024, 23.399, 14.847, -0.339, 6.743, -10.712, -11.88],
+		"pitches": [0.062, 0.165, 0.067, 0.605, 0.127, 0.141, 1.0, 0.195, 0.05, 0.046, 0.046, 0.27],
+		"start": 85.59968,
+		"loudness_max_time": 0.06442,
+		"loudness_start": -35.222,
+		"duration": 0.18032,
+		"loudness_max": -31.912
+	}, {
+		"confidence": 0.065,
+		"timbre": [25.361, -209.792, -12.131, -27.91, 61.325, -54.679, 38.618, 14.04, -11.394, 1.048, -14.004, -10.337],
+		"pitches": [0.108, 0.897, 0.09, 0.344, 0.091, 0.146, 1.0, 0.115, 0.061, 0.027, 0.032, 0.11],
+		"start": 85.78,
+		"loudness_max_time": 0.07181,
+		"loudness_start": -35.77,
+		"duration": 0.18009,
+		"loudness_max": -33.049
+	}, {
+		"confidence": 0.2,
+		"timbre": [24.833, -206.227, -35.015, -39.305, 44.991, -39.177, 23.732, 15.743, -24.107, -6.452, -11.957, -4.461],
+		"pitches": [0.057, 0.587, 0.05, 0.052, 0.008, 0.113, 1.0, 0.072, 0.026, 0.006, 0.03, 0.163],
+		"start": 85.96009,
+		"loudness_max_time": 0.12646,
+		"loudness_start": -36.478,
+		"duration": 0.34,
+		"loudness_max": -33.144
+	}, {
+		"confidence": 0.662,
+		"timbre": [25.666, -209.163, -10.335, -96.487, 58.463, -38.912, 44.977, -13.729, 0.444, 13.149, 0.28, -20.139],
+		"pitches": [0.124, 1.0, 0.073, 0.035, 0.327, 0.137, 0.909, 0.113, 0.034, 0.007, 0.028, 0.139],
+		"start": 86.30009,
+		"loudness_max_time": 0.21211,
+		"loudness_start": -38.229,
+		"duration": 0.24707,
+		"loudness_max": -30.545
+	}, {
+		"confidence": 0.209,
+		"timbre": [29.767, -231.005, 8.447, -14.494, 60.582, -35.788, 30.347, 18.975, 7.293, 0.818, -23.699, -16.602],
+		"pitches": [0.086, 1.0, 0.032, 0.034, 0.496, 0.096, 0.721, 0.064, 0.038, 0.013, 0.038, 0.222],
+		"start": 86.54717,
+		"loudness_max_time": 0.1842,
+		"loudness_start": -31.204,
+		"duration": 0.62109,
+		"loudness_max": -26.701
+	}, {
+		"confidence": 0.48,
+		"timbre": [25.959, -213.928, -0.832, -43.531, 71.954, -36.858, 25.578, -1.068, -5.783, 8.095, -13.628, -14.65],
+		"pitches": [0.131, 1.0, 0.086, 0.021, 0.457, 0.183, 0.979, 0.144, 0.046, 0.011, 0.028, 0.149],
+		"start": 87.16825,
+		"loudness_max_time": 0.10038,
+		"loudness_start": -36.394,
+		"duration": 0.28118,
+		"loudness_max": -31.344
+	}, {
+		"confidence": 0.201,
+		"timbre": [26.326, -215.576, -36.04, -16.01, 39.247, -44.815, 10.972, 20.931, -21.385, -11.992, -10.983, 1.68],
+		"pitches": [0.051, 0.68, 0.042, 0.01, 0.044, 0.084, 1.0, 0.063, 0.027, 0.009, 0.031, 0.128],
+		"start": 87.44943,
+		"loudness_max_time": 0.09762,
+		"loudness_start": -34.254,
+		"duration": 0.33347,
+		"loudness_max": -31.997
+	}, {
+		"confidence": 0.567,
+		"timbre": [27.69, -197.586, -15.016, -70.621, 67.003, -36.137, 45.8, -20.363, -2.791, 21.26, -0.138, -23.982],
+		"pitches": [0.182, 1.0, 0.102, 0.015, 0.354, 0.191, 0.874, 0.159, 0.037, 0.01, 0.038, 0.145],
+		"start": 87.7829,
+		"loudness_max_time": 0.1672,
+		"loudness_start": -37.063,
+		"duration": 0.20395,
+		"loudness_max": -29.971
+	}, {
+		"confidence": 0.081,
+		"timbre": [30.538, -244.738, 13.419, -27.48, 55.459, -44.845, 28.643, 3.273, 4.161, -0.108, -8.126, -16.832],
+		"pitches": [0.079, 0.751, 0.041, 0.016, 0.513, 0.112, 1.0, 0.072, 0.029, 0.003, 0.014, 0.085],
+		"start": 87.98685,
+		"loudness_max_time": 0.10878,
+		"loudness_start": -30.559,
+		"duration": 0.24893,
+		"loudness_max": -28.248
+	}, {
+		"confidence": 0.0,
+		"timbre": [28.513, -229.467, -2.071, 5.236, 66.893, -39.723, 11.587, 35.52, 3.979, -4.955, -29.07, -14.379],
+		"pitches": [0.082, 1.0, 0.037, 0.026, 0.365, 0.086, 0.372, 0.067, 0.036, 0.008, 0.026, 0.157],
+		"start": 88.23578,
+		"loudness_max_time": 0.06825,
+		"loudness_start": -30.966,
+		"duration": 0.36626,
+		"loudness_max": -29.313
+	}, {
+		"confidence": 0.417,
+		"timbre": [25.894, -223.924, -10.847, -41.168, 73.355, -42.249, 25.812, 6.365, -11.311, 3.439, -8.632, -15.434],
+		"pitches": [0.065, 1.0, 0.064, 0.023, 0.341, 0.099, 0.849, 0.04, 0.033, 0.011, 0.026, 0.088],
+		"start": 88.60204,
+		"loudness_max_time": 0.08377,
+		"loudness_start": -37.32,
+		"duration": 0.33546,
+		"loudness_max": -31.933
+	}, {
+		"confidence": 0.036,
+		"timbre": [25.443, -225.747, -48.902, -31.351, 51.889, -47.885, 2.155, 15.536, -28.35, -12.106, -4.338, -4.87],
+		"pitches": [0.063, 0.746, 0.056, 0.009, 0.054, 0.122, 1.0, 0.074, 0.032, 0.026, 0.305, 0.067],
+		"start": 88.93751,
+		"loudness_max_time": 0.04863,
+		"loudness_start": -35.252,
+		"duration": 0.26762,
+		"loudness_max": -33.042
+	}, {
+		"confidence": 0.686,
+		"timbre": [26.841, -221.475, -3.203, -90.457, 62.365, -26.556, 41.976, -4.374, -0.754, 10.827, -1.466, -24.522],
+		"pitches": [0.114, 1.0, 0.069, 0.013, 0.39, 0.157, 0.838, 0.113, 0.044, 0.048, 0.243, 0.04],
+		"start": 89.20512,
+		"loudness_max_time": 0.14774,
+		"loudness_start": -37.351,
+		"duration": 0.23261,
+		"loudness_max": -29.816
+	}, {
+		"confidence": 0.048,
+		"timbre": [30.775, -223.083, 21.755, -27.152, 50.781, -48.999, 32.666, -3.721, 14.92, 9.975, -5.676, -16.365],
+		"pitches": [0.471, 0.988, 0.561, 0.096, 1.0, 0.43, 0.947, 0.211, 0.089, 0.086, 0.216, 0.142],
+		"start": 89.43773,
+		"loudness_max_time": 0.05334,
+		"loudness_start": -30.73,
+		"duration": 0.09846,
+		"loudness_max": -28.885
+	}, {
+		"confidence": 0.194,
+		"timbre": [31.55, -242.131, 21.415, -0.831, 61.605, -48.019, 20.818, 6.823, 5.676, -1.872, -0.513, -17.347],
+		"pitches": [0.106, 0.968, 0.062, 0.02, 0.559, 0.131, 1.0, 0.107, 0.04, 0.053, 0.45, 0.041],
+		"start": 89.53619,
+		"loudness_max_time": 0.04734,
+		"loudness_start": -29.193,
+		"duration": 0.25664,
+		"loudness_max": -27.076
+	}, {
+		"confidence": 0.185,
+		"timbre": [29.833, -223.979, 8.612, 36.093, 74.598, -38.186, 9.662, 26.096, 3.456, -0.677, -26.943, -14.309],
+		"pitches": [0.081, 1.0, 0.054, 0.027, 0.627, 0.142, 0.678, 0.064, 0.033, 0.058, 0.471, 0.029],
+		"start": 89.79283,
+		"loudness_max_time": 0.0258,
+		"loudness_start": -29.851,
+		"duration": 0.29469,
+		"loudness_max": -27.182
+	}, {
+		"confidence": 0.453,
+		"timbre": [26.539, -228.24, -6.293, -14.968, 75.067, -34.393, 25.942, 23.575, -9.367, -1.317, -13.474, -18.585],
+		"pitches": [0.111, 0.936, 0.068, 0.025, 0.302, 0.175, 1.0, 0.115, 0.034, 0.038, 0.13, 0.02],
+		"start": 90.08753,
+		"loudness_max_time": 0.08804,
+		"loudness_start": -35.906,
+		"duration": 0.2732,
+		"loudness_max": -31.807
+	}, {
+		"confidence": 0.288,
+		"timbre": [24.514, -216.763, -55.804, -46.832, 52.09, -44.092, 16.796, 9.285, -19.418, -7.966, -15.068, -7.421],
+		"pitches": [0.05, 0.626, 0.055, 0.012, 0.079, 0.126, 1.0, 0.095, 0.035, 0.028, 0.354, 0.04],
+		"start": 90.36073,
+		"loudness_max_time": 0.09202,
+		"loudness_start": -36.955,
+		"duration": 0.3844,
+		"loudness_max": -33.479
+	}, {
+		"confidence": 0.689,
+		"timbre": [27.491, -217.734, -1.95, -64.316, 61.808, -21.23, 42.576, 4.403, 1.932, 19.922, 7.819, -24.609],
+		"pitches": [0.128, 1.0, 0.091, 0.011, 0.298, 0.15, 0.776, 0.115, 0.034, 0.039, 0.295, 0.033],
+		"start": 90.74512,
+		"loudness_max_time": 0.17185,
+		"loudness_start": -37.704,
+		"duration": 0.21288,
+		"loudness_max": -30.4
+	}, {
+		"confidence": 0.163,
+		"timbre": [30.712, -228.969, 22.651, -28.935, 51.594, -46.652, 42.486, -0.492, 13.072, 6.714, -4.355, -21.573],
+		"pitches": [0.467, 0.992, 0.57, 0.098, 1.0, 0.4, 0.785, 0.226, 0.054, 0.074, 0.192, 0.145],
+		"start": 90.958,
+		"loudness_max_time": 0.05054,
+		"loudness_start": -30.896,
+		"duration": 0.09438,
+		"loudness_max": -28.973
+	}, {
+		"confidence": 0.191,
+		"timbre": [30.746, -236.656, 16.768, 10.186, 64.805, -41.687, 15.643, 27.178, 6.422, -3.32, -14.96, -16.671],
+		"pitches": [0.067, 1.0, 0.04, 0.029, 0.568, 0.128, 0.79, 0.087, 0.052, 0.057, 0.365, 0.038],
+		"start": 91.05238,
+		"loudness_max_time": 0.05966,
+		"loudness_start": -28.94,
+		"duration": 0.64308,
+		"loudness_max": -26.84
+	}, {
+		"confidence": 0.292,
+		"timbre": [22.937, -195.125, -22.504, -12.601, 84.887, -46.663, 27.056, 22.284, -9.676, 3.243, -18.811, -21.448],
+		"pitches": [0.139, 0.089, 0.009, 0.012, 0.094, 0.024, 0.213, 0.02, 0.01, 0.011, 0.105, 1.0],
+		"start": 91.69546,
+		"loudness_max_time": 0.11833,
+		"loudness_start": -38.711,
+		"duration": 0.48014,
+		"loudness_max": -35.431
+	}, {
+		"confidence": 0.492,
+		"timbre": [23.561, -221.952, -71.027, -98.375, 49.722, -41.051, 38.391, -3.302, -27.474, -0.583, -9.233, -4.478],
+		"pitches": [0.102, 0.017, 0.003, 0.004, 0.014, 0.015, 0.146, 0.009, 0.015, 0.063, 0.038, 1.0],
+		"start": 92.1756,
+		"loudness_max_time": 0.22286,
+		"loudness_start": -41.486,
+		"duration": 0.42122,
+		"loudness_max": -32.529
+	}, {
+		"confidence": 0.427,
+		"timbre": [26.207, -242.602, -64.503, -33.142, 46.247, -59.673, 23.926, 27.105, -7.37, -5.201, -4.258, -19.299],
+		"pitches": [0.44, 0.026, 0.007, 0.092, 0.01, 0.024, 0.135, 0.015, 0.011, 0.102, 0.078, 1.0],
+		"start": 92.59683,
+		"loudness_max_time": 0.01604,
+		"loudness_start": -36.248,
+		"duration": 0.17483,
+		"loudness_max": -32.217
+	}, {
+		"confidence": 0.455,
+		"timbre": [27.202, -249.211, -48.589, -61.716, 52.905, -35.141, 28.625, 11.863, -11.106, 6.7, -19.031, -11.993],
+		"pitches": [0.051, 0.009, 0.013, 0.106, 0.008, 0.017, 0.36, 0.021, 0.024, 0.067, 0.028, 1.0],
+		"start": 92.77166,
+		"loudness_max_time": 0.16159,
+		"loudness_start": -36.273,
+		"duration": 0.47066,
+		"loudness_max": -28.818
+	}, {
+		"confidence": 0.229,
+		"timbre": [25.997, -231.371, -41.102, -40.697, 56.974, -57.741, 31.499, 22.776, -2.14, -2.055, 1.27, -23.737],
+		"pitches": [0.397, 0.014, 0.03, 0.175, 0.022, 0.055, 0.232, 0.016, 0.011, 0.059, 0.045, 1.0],
+		"start": 93.24231,
+		"loudness_max_time": 0.02574,
+		"loudness_start": -35.666,
+		"duration": 0.23578,
+		"loudness_max": -33.028
+	}, {
+		"confidence": 0.279,
+		"timbre": [25.601, -224.899, -51.411, -3.817, 53.216, -67.385, 35.042, 30.99, 1.084, -2.457, -22.788, -26.405],
+		"pitches": [0.26, 0.013, 0.01, 0.07, 0.01, 0.009, 0.095, 0.011, 0.005, 0.022, 0.061, 1.0],
+		"start": 93.4781,
+		"loudness_max_time": 0.01711,
+		"loudness_start": -34.495,
+		"duration": 0.23732,
+		"loudness_max": -32.252
+	}, {
+		"confidence": 0.419,
+		"timbre": [24.19, -219.274, -84.322, -56.588, 29.719, -35.444, 36.681, 13.381, -26.824, -7.316, -19.984, -2.311],
+		"pitches": [0.105, 0.005, 0.005, 0.019, 0.005, 0.017, 0.151, 0.014, 0.015, 0.045, 0.046, 1.0],
+		"start": 93.71542,
+		"loudness_max_time": 0.1042,
+		"loudness_start": -37.514,
+		"duration": 0.38794,
+		"loudness_max": -33.1
+	}, {
+		"confidence": 0.727,
+		"timbre": [26.978, -238.71, -68.571, -30.219, 35.443, -66.404, 27.317, 30.242, 5.591, -3.304, 0.713, -18.752],
+		"pitches": [0.467, 0.019, 0.01, 0.071, 0.006, 0.023, 0.151, 0.017, 0.014, 0.057, 0.041, 1.0],
+		"start": 94.10336,
+		"loudness_max_time": 0.01887,
+		"loudness_start": -38.272,
+		"duration": 0.16172,
+		"loudness_max": -30.978
+	}, {
+		"confidence": 0.35,
+		"timbre": [27.558, -254.52, -52.681, -59.126, 41.546, -47.179, 38.228, 6.861, -10.56, 8.09, -2.022, -20.61],
+		"pitches": [1.0, 0.134, 0.018, 0.128, 0.015, 0.014, 0.077, 0.019, 0.141, 0.144, 0.922, 0.219],
+		"start": 94.26508,
+		"loudness_max_time": 0.04453,
+		"loudness_start": -35.136,
+		"duration": 0.08975,
+		"loudness_max": -31.856
+	}, {
+		"confidence": 0.246,
+		"timbre": [28.47, -260.292, -58.636, -22.441, 42.819, -44.47, 23.514, 29.05, -4.272, -1.863, -25.003, -14.271],
+		"pitches": [0.133, 0.004, 0.006, 0.062, 0.004, 0.016, 0.18, 0.014, 0.013, 0.056, 0.04, 1.0],
+		"start": 94.35483,
+		"loudness_max_time": 0.08857,
+		"loudness_start": -32.129,
+		"duration": 0.28227,
+		"loudness_max": -28.875
+	}, {
+		"confidence": 0.248,
+		"timbre": [26.113, -240.791, -53.717, -53.046, 52.935, -57.16, 36.256, 14.058, -6.129, -1.259, -1.399, -21.692],
+		"pitches": [0.263, 0.011, 0.019, 0.119, 0.007, 0.021, 0.117, 0.009, 0.011, 0.123, 0.14, 1.0],
+		"start": 94.6371,
+		"loudness_max_time": 0.13103,
+		"loudness_start": -36.57,
+		"duration": 0.19805,
+		"loudness_max": -32.619
+	}, {
+		"confidence": 0.039,
+		"timbre": [26.052, -223.302, -41.232, -21.912, 55.758, -57.205, 33.659, 17.897, 2.623, 3.291, -11.232, -23.182],
+		"pitches": [0.347, 0.013, 0.017, 0.098, 0.012, 0.018, 0.149, 0.017, 0.008, 0.028, 0.053, 1.0],
+		"start": 94.83515,
+		"loudness_max_time": 0.02878,
+		"loudness_start": -35.685,
+		"duration": 0.22762,
+		"loudness_max": -32.476
+	}, {
+		"confidence": 0.433,
+		"timbre": [24.855, -232.156, -77.21, -33.266, 49.148, -42.327, 41.209, 32.225, -8.915, 9.704, -14.04, -23.916],
+		"pitches": [0.796, 0.072, 0.015, 0.097, 0.008, 0.024, 0.106, 0.02, 0.044, 0.06, 0.132, 1.0],
+		"start": 95.06277,
+		"loudness_max_time": 0.02751,
+		"loudness_start": -38.373,
+		"duration": 0.12957,
+		"loudness_max": -33.456
+	}, {
+		"confidence": 0.263,
+		"timbre": [24.003, -236.137, -94.177, -65.441, 50.083, -50.059, 39.378, 17.317, -15.32, 5.226, -14.33, -16.351],
+		"pitches": [0.682, 0.072, 0.01, 0.058, 0.136, 0.028, 0.08, 0.015, 0.025, 0.034, 0.129, 1.0],
+		"start": 95.19234,
+		"loudness_max_time": 0.07588,
+		"loudness_start": -38.636,
+		"duration": 0.14517,
+		"loudness_max": -34.68
+	}, {
+		"confidence": 0.607,
+		"timbre": [24.482, -229.572, -96.756, -86.223, 30.049, -41.229, 24.752, 9.755, -20.22, -0.682, -13.29, -7.089],
+		"pitches": [0.092, 0.003, 0.004, 0.017, 0.077, 0.009, 0.059, 0.012, 0.073, 0.007, 0.039, 1.0],
+		"start": 95.33751,
+		"loudness_max_time": 0.10878,
+		"loudness_start": -37.908,
+		"duration": 0.38821,
+		"loudness_max": -31.989
+	}, {
+		"confidence": 0.6,
+		"timbre": [28.366, -232.336, -54.543, -53.18, 30.37, -20.12, 35.481, 12.297, 11.235, 19.224, -17.324, -12.209],
+		"pitches": [0.121, 0.003, 0.002, 0.007, 0.076, 0.007, 0.074, 0.004, 0.014, 0.003, 0.027, 1.0],
+		"start": 95.72571,
+		"loudness_max_time": 0.15878,
+		"loudness_start": -35.284,
+		"duration": 0.29873,
+		"loudness_max": -29.073
+	}, {
+		"confidence": 0.505,
+		"timbre": [27.139, -253.158, -73.371, -49.431, 39.174, -35.491, 31.95, 27.698, -8.657, 6.857, -16.748, -14.155],
+		"pitches": [0.052, 0.002, 0.002, 0.006, 0.037, 0.006, 0.087, 0.013, 0.064, 0.005, 0.023, 1.0],
+		"start": 96.02444,
+		"loudness_max_time": 0.07943,
+		"loudness_start": -35.181,
+		"duration": 0.46417,
+		"loudness_max": -30.246
+	}, {
+		"confidence": 0.525,
+		"timbre": [26.488, -234.687, -89.01, -35.835, 13.072, -39.819, 13.284, 22.607, -27.507, -7.764, -9.404, -5.873],
+		"pitches": [0.091, 0.003, 0.001, 0.006, 0.043, 0.007, 0.093, 0.012, 0.064, 0.004, 0.012, 1.0],
+		"start": 96.48862,
+		"loudness_max_time": 0.07239,
+		"loudness_start": -36.097,
+		"duration": 0.33683,
+		"loudness_max": -31.503
+	}, {
+		"confidence": 0.368,
+		"timbre": [25.189, -241.087, -106.451, -38.263, 28.923, -50.89, 9.091, 26.126, -26.455, -8.833, -7.275, -9.008],
+		"pitches": [0.04, 0.078, 0.012, 0.014, 0.159, 0.014, 0.111, 0.012, 0.058, 0.006, 0.017, 1.0],
+		"start": 96.82544,
+		"loudness_max_time": 0.07904,
+		"loudness_start": -35.883,
+		"duration": 0.74608,
+		"loudness_max": -32.799
+	}, {
+		"confidence": 0.058,
+		"timbre": [21.461, -198.586, -108.162, -70.73, 53.621, -62.741, -6.506, 22.201, -8.948, -5.526, -1.482, -3.497],
+		"pitches": [0.23, 0.602, 0.071, 0.032, 0.276, 0.033, 0.087, 0.025, 0.056, 0.016, 0.06, 1.0],
+		"start": 97.57152,
+		"loudness_max_time": 0.07059,
+		"loudness_start": -39.495,
+		"duration": 0.39347,
+		"loudness_max": -37.465
+	}, {
+		"confidence": 0.036,
+		"timbre": [19.819, -196.437, -141.533, -94.603, 47.663, -61.385, 13.737, -3.097, -10.23, 3.208, -3.053, -5.098],
+		"pitches": [0.601, 0.322, 0.054, 0.024, 0.087, 0.022, 0.05, 0.018, 0.042, 0.055, 0.405, 1.0],
+		"start": 97.96499,
+		"loudness_max_time": 0.09966,
+		"loudness_start": -42.199,
+		"duration": 0.17669,
+		"loudness_max": -39.406
+	}, {
+		"confidence": 0.697,
+		"timbre": [25.765, -186.075, -68.714, -61.222, 18.334, -33.376, 22.697, 3.038, 21.765, 12.237, 7.461, 3.632],
+		"pitches": [0.37, 0.086, 0.015, 0.008, 0.039, 0.022, 0.131, 0.017, 0.008, 0.063, 0.467, 1.0],
+		"start": 98.14168,
+		"loudness_max_time": 0.1137,
+		"loudness_start": -39.479,
+		"duration": 0.18676,
+		"loudness_max": -33.105
+	}, {
+		"confidence": 0.636,
+		"timbre": [29.989, -199.88, -29.038, -16.122, 16.003, -44.756, 51.226, 32.241, 9.867, 11.026, -3.009, 6.536],
+		"pitches": [0.562, 0.055, 0.007, 0.004, 0.02, 0.022, 0.161, 0.007, 0.01, 0.036, 0.386, 1.0],
+		"start": 98.32844,
+		"loudness_max_time": 0.02734,
+		"loudness_start": -34.938,
+		"duration": 0.17891,
+		"loudness_max": -28.284
+	}, {
+		"confidence": 0.751,
+		"timbre": [33.558, -158.937, 30.033, -31.069, -21.806, -12.903, 79.19, 23.227, -19.741, -8.272, 9.057, 31.329],
+		"pitches": [0.276, 0.071, 0.004, 0.004, 0.013, 0.023, 0.109, 0.008, 0.002, 0.074, 0.495, 1.0],
+		"start": 98.50735,
+		"loudness_max_time": 0.08232,
+		"loudness_start": -32.984,
+		"duration": 0.20531,
+		"loudness_max": -23.658
+	}, {
+		"confidence": 0.393,
+		"timbre": [36.169, -150.134, 38.034, -14.048, -18.333, -44.273, 63.225, 6.025, -18.427, -3.76, 0.929, 5.791],
+		"pitches": [0.717, 0.103, 0.011, 0.013, 0.152, 0.046, 0.208, 0.022, 0.008, 0.053, 0.344, 1.0],
+		"start": 98.71265,
+		"loudness_max_time": 0.02367,
+		"loudness_start": -28.727,
+		"duration": 0.14585,
+		"loudness_max": -23.326
+	}, {
+		"confidence": 0.166,
+		"timbre": [36.991, -148.018, 39.198, 5.533, -15.599, -29.787, 71.274, 16.234, -19.869, -14.676, -20.503, 28.745],
+		"pitches": [0.459, 0.165, 0.004, 0.005, 0.042, 0.023, 0.161, 0.007, 0.004, 0.027, 0.29, 1.0],
+		"start": 98.8585,
+		"loudness_max_time": 0.07723,
+		"loudness_start": -23.781,
+		"duration": 0.181,
+		"loudness_max": -20.964
+	}, {
+		"confidence": 0.227,
+		"timbre": [35.086, -150.231, 24.989, 10.014, -28.354, -38.024, 69.513, 15.72, -23.298, -14.088, 1.376, 31.681],
+		"pitches": [0.536, 0.066, 0.006, 0.005, 0.034, 0.029, 0.155, 0.016, 0.012, 0.048, 0.309, 1.0],
+		"start": 99.0395,
+		"loudness_max_time": 0.02574,
+		"loudness_start": -28.316,
+		"duration": 0.15156,
+		"loudness_max": -23.294
+	}, {
+		"confidence": 0.285,
+		"timbre": [34.481, -153.401, 26.51, -12.38, -35.08, -36.275, 73.455, 19.348, -28.763, -12.273, -8.461, 43.554],
+		"pitches": [0.574, 0.096, 0.008, 0.008, 0.026, 0.029, 0.155, 0.011, 0.003, 0.038, 0.349, 1.0],
+		"start": 99.19107,
+		"loudness_max_time": 0.06937,
+		"loudness_start": -26.966,
+		"duration": 0.16367,
+		"loudness_max": -23.212
+	}, {
+		"confidence": 0.239,
+		"timbre": [33.868, -166.47, 13.527, -2.459, -26.259, -23.451, 72.669, 5.697, -22.369, -17.056, -3.11, 36.537],
+		"pitches": [0.545, 0.087, 0.006, 0.006, 0.017, 0.028, 0.157, 0.01, 0.004, 0.041, 0.371, 1.0],
+		"start": 99.35474,
+		"loudness_max_time": 0.04573,
+		"loudness_start": -27.868,
+		"duration": 0.17138,
+		"loudness_max": -24.314
+	}, {
+		"confidence": 0.365,
+		"timbre": [33.339, -177.064, 14.049, -0.772, -11.897, -24.221, 59.689, 18.442, -13.454, -11.924, -13.683, 25.258],
+		"pitches": [0.25, 0.068, 0.003, 0.003, 0.006, 0.026, 0.135, 0.013, 0.003, 0.095, 0.563, 1.0],
+		"start": 99.52612,
+		"loudness_max_time": 0.0656,
+		"loudness_start": -28.98,
+		"duration": 0.20939,
+		"loudness_max": -24.684
+	}, {
+		"confidence": 0.08,
+		"timbre": [30.188, -197.907, -17.972, -30.776, -8.848, -48.824, 50.223, 22.568, -10.042, -6.27, -9.937, 17.194],
+		"pitches": [0.076, 0.016, 0.003, 0.004, 0.006, 0.016, 0.173, 0.009, 0.004, 0.06, 0.482, 1.0],
+		"start": 99.73551,
+		"loudness_max_time": 0.20473,
+		"loudness_start": -31.084,
+		"duration": 0.39619,
+		"loudness_max": -28.039
+	}, {
+		"confidence": 0.361,
+		"timbre": [29.779, -206.422, -21.171, -43.097, 2.076, -33.699, 51.496, -1.74, 0.399, -0.671, -11.552, 6.363],
+		"pitches": [0.509, 0.118, 0.009, 0.005, 0.021, 0.039, 0.184, 0.016, 0.011, 0.034, 0.301, 1.0],
+		"start": 100.1317,
+		"loudness_max_time": 0.06218,
+		"loudness_start": -32.524,
+		"duration": 0.17025,
+		"loudness_max": -28.93
+	}, {
+		"confidence": 0.159,
+		"timbre": [30.338, -234.054, -17.278, -33.243, 36.462, -42.897, 48.899, 5.068, 17.675, 1.215, -13.492, -19.588],
+		"pitches": [0.489, 0.069, 0.016, 0.038, 0.132, 0.04, 0.16, 0.018, 0.003, 0.026, 0.237, 1.0],
+		"start": 100.30195,
+		"loudness_max_time": 0.0588,
+		"loudness_start": -30.91,
+		"duration": 0.16104,
+		"loudness_max": -28.163
+	}, {
+		"confidence": 0.073,
+		"timbre": [30.211, -247.633, -28.188, -21.257, 34.024, -56.094, 44.184, 17.217, 11.298, 2.57, -9.853, -22.986],
+		"pitches": [0.322, 0.03, 0.014, 0.071, 0.131, 0.048, 0.17, 0.015, 0.002, 0.125, 0.355, 1.0],
+		"start": 100.46299,
+		"loudness_max_time": 0.02353,
+		"loudness_start": -31.82,
+		"duration": 0.19528,
+		"loudness_max": -28.491
+	}, {
+		"confidence": 0.332,
+		"timbre": [28.877, -231.924, -30.592, 18.915, 44.055, -56.541, 25.996, 45.982, 16.342, -7.18, -25.26, -24.951],
+		"pitches": [0.094, 0.131, 0.026, 0.085, 0.064, 0.025, 0.109, 0.011, 0.01, 0.064, 0.435, 1.0],
+		"start": 100.65828,
+		"loudness_max_time": 0.0813,
+		"loudness_start": -31.684,
+		"duration": 0.67451,
+		"loudness_max": -27.707
+	}, {
+		"confidence": 0.877,
+		"timbre": [31.349, -162.266, 60.244, -25.692, 51.309, -22.205, 39.305, 1.072, 8.151, 2.357, 17.383, -0.692],
+		"pitches": [0.391, 0.052, 0.034, 0.281, 0.027, 0.025, 0.107, 0.022, 0.003, 0.025, 0.155, 1.0],
+		"start": 101.33279,
+		"loudness_max_time": 0.09624,
+		"loudness_start": -37.892,
+		"duration": 0.13887,
+		"loudness_max": -27.017
+	}, {
+		"confidence": 0.306,
+		"timbre": [34.186, -165.416, 76.806, 11.347, 32.286, -36.491, 43.89, 5.609, -12.969, -10.631, 3.807, 20.88],
+		"pitches": [0.317, 0.083, 0.059, 0.259, 0.058, 0.043, 0.143, 0.022, 0.009, 0.023, 0.083, 1.0],
+		"start": 101.47166,
+		"loudness_max_time": 0.03435,
+		"loudness_start": -28.099,
+		"duration": 0.11011,
+		"loudness_max": -24.809
+	}, {
+		"confidence": 0.405,
+		"timbre": [35.366, -181.337, 55.642, -12.957, 19.775, -32.259, 60.231, 9.609, -2.007, -1.19, -2.112, 10.444],
+		"pitches": [0.031, 0.005, 0.005, 0.064, 0.004, 0.003, 0.144, 0.005, 0.003, 0.002, 0.012, 1.0],
+		"start": 101.58177,
+		"loudness_max_time": 0.11074,
+		"loudness_start": -26.93,
+		"duration": 1.09728,
+		"loudness_max": -22.343
+	}, {
+		"confidence": 0.081,
+		"timbre": [35.347, -203.051, 38.661, -30.314, 11.872, -44.807, 62.385, 14.95, 7.614, -4.785, 2.94, -1.863],
+		"pitches": [0.047, 0.003, 0.005, 0.07, 0.002, 0.004, 0.126, 0.005, 0.002, 0.002, 0.018, 1.0],
+		"start": 102.67905,
+		"loudness_max_time": 0.40539,
+		"loudness_start": -25.986,
+		"duration": 0.47007,
+		"loudness_max": -23.483
+	}, {
+		"confidence": 0.012,
+		"timbre": [37.557, -180.279, 53.332, -18.078, 6.563, -45.412, 75.105, 12.593, 1.526, -1.529, -0.009, 3.509],
+		"pitches": [0.008, 0.003, 0.004, 0.058, 0.003, 0.003, 0.162, 0.006, 0.002, 0.002, 0.003, 1.0],
+		"start": 103.14912,
+		"loudness_max_time": 2.02673,
+		"loudness_start": -23.539,
+		"duration": 2.26304,
+		"loudness_max": -20.805
+	}, {
+		"confidence": 0.271,
+		"timbre": [26.33, -156.274, -5.854, 104.2, 37.435, -36.917, 42.748, 84.583, 5.046, -17.676, -43.295, -5.849],
+		"pitches": [0.067, 0.036, 0.035, 0.175, 0.029, 0.023, 0.156, 0.089, 0.014, 0.01, 0.042, 1.0],
+		"start": 105.41215,
+		"loudness_max_time": 0.05147,
+		"loudness_start": -30.878,
+		"duration": 1.56839,
+		"loudness_max": -27.651
+	}, {
+		"confidence": 0.0,
+		"timbre": [7.721, 27.791, -35.741, -7.849, 77.214, -63.906, 42.197, 43.704, -0.66, 5.932, -19.277, -3.85],
+		"pitches": [0.284, 0.272, 0.294, 0.479, 0.385, 0.19, 0.724, 1.0, 0.232, 0.076, 0.068, 0.677],
+		"start": 106.98054,
+		"loudness_max_time": 0.03626,
+		"loudness_start": -52.403,
+		"duration": 0.43515,
+		"loudness_max": -50.716
+	}, {
+		"confidence": 0.032,
+		"timbre": [4.865, 75.027, -35.751, -42.318, 63.767, -55.132, 41.197, 12.738, 1.147, 13.921, -14.813, -8.385],
+		"pitches": [1.0, 0.943, 0.076, 0.088, 0.062, 0.037, 0.124, 0.15, 0.144, 0.056, 0.126, 0.552],
+		"loudness_end": -56.791,
+		"start": 107.41569,
+		"loudness_max_time": 0.13885,
+		"loudness_start": -56.367,
+		"duration": 0.3249,
+		"loudness_max": -54.302
+	}],
+	"beats": [{
+		"duration": 1.0089,
+		"start": 0.7531,
+		"confidence": 0.799
+	}, {
+		"duration": 0.94894,
+		"start": 1.76201,
+		"confidence": 0.151
+	}, {
+		"duration": 0.92769,
+		"start": 2.71094,
+		"confidence": 0.213
+	}, {
+		"duration": 0.9214,
+		"start": 3.63863,
+		"confidence": 0.302
+	}, {
+		"duration": 0.92297,
+		"start": 4.56003,
+		"confidence": 0.315
+	}, {
+		"duration": 0.90208,
+		"start": 5.483,
+		"confidence": 0.186
+	}, {
+		"duration": 0.90484,
+		"start": 6.38508,
+		"confidence": 0.245
+	}, {
+		"duration": 0.87851,
+		"start": 7.28992,
+		"confidence": 0.297
+	}, {
+		"duration": 0.87692,
+		"start": 8.16843,
+		"confidence": 0.333
+	}, {
+		"duration": 0.88371,
+		"start": 9.04535,
+		"confidence": 0.34
+	}, {
+		"duration": 0.8859,
+		"start": 9.92906,
+		"confidence": 0.158
+	}, {
+		"duration": 0.86547,
+		"start": 10.81496,
+		"confidence": 0.387
+	}, {
+		"duration": 0.86415,
+		"start": 11.68043,
+		"confidence": 0.391
+	}, {
+		"duration": 0.86821,
+		"start": 12.54459,
+		"confidence": 0.538
+	}, {
+		"duration": 0.87593,
+		"start": 13.41279,
+		"confidence": 0.299
+	}, {
+		"duration": 0.86989,
+		"start": 14.28872,
+		"confidence": 0.275
+	}, {
+		"duration": 0.89146,
+		"start": 15.15861,
+		"confidence": 0.423
+	}, {
+		"duration": 0.89616,
+		"start": 16.05007,
+		"confidence": 0.506
+	}, {
+		"duration": 0.90254,
+		"start": 16.94622,
+		"confidence": 0.334
+	}, {
+		"duration": 0.92465,
+		"start": 17.84877,
+		"confidence": 0.166
+	}, {
+		"duration": 0.93634,
+		"start": 18.77342,
+		"confidence": 0.343
+	}, {
+		"duration": 0.95639,
+		"start": 19.70975,
+		"confidence": 0.433
+	}, {
+		"duration": 0.97367,
+		"start": 20.66614,
+		"confidence": 0.07
+	}, {
+		"duration": 0.95384,
+		"start": 21.63981,
+		"confidence": 0.051
+	}, {
+		"duration": 0.96603,
+		"start": 22.59366,
+		"confidence": 0.24
+	}, {
+		"duration": 0.98237,
+		"start": 23.55968,
+		"confidence": 0.122
+	}, {
+		"duration": 0.98384,
+		"start": 24.54205,
+		"confidence": 0.139
+	}, {
+		"duration": 0.98278,
+		"start": 25.52589,
+		"confidence": 0.243
+	}, {
+		"duration": 0.9824,
+		"start": 26.50867,
+		"confidence": 0.126
+	}, {
+		"duration": 0.9811,
+		"start": 27.49108,
+		"confidence": 0.147
+	}, {
+		"duration": 0.97382,
+		"start": 28.47217,
+		"confidence": 0.238
+	}, {
+		"duration": 0.9684,
+		"start": 29.44599,
+		"confidence": 0.258
+	}, {
+		"duration": 0.94043,
+		"start": 30.4144,
+		"confidence": 0.109
+	}, {
+		"duration": 0.92518,
+		"start": 31.35483,
+		"confidence": 0.155
+	}, {
+		"duration": 0.90988,
+		"start": 32.28001,
+		"confidence": 0.225
+	}, {
+		"duration": 0.89872,
+		"start": 33.18989,
+		"confidence": 0.195
+	}, {
+		"duration": 0.89135,
+		"start": 34.08861,
+		"confidence": 0.36
+	}, {
+		"duration": 0.91125,
+		"start": 34.97996,
+		"confidence": 0.28
+	}, {
+		"duration": 0.90109,
+		"start": 35.89122,
+		"confidence": 0.175
+	}, {
+		"duration": 0.89593,
+		"start": 36.7923,
+		"confidence": 0.478
+	}, {
+		"duration": 0.89994,
+		"start": 37.68823,
+		"confidence": 0.354
+	}, {
+		"duration": 0.90646,
+		"start": 38.58817,
+		"confidence": 0.28
+	}, {
+		"duration": 0.89934,
+		"start": 39.49462,
+		"confidence": 0.074
+	}, {
+		"duration": 0.89576,
+		"start": 40.39396,
+		"confidence": 0.21
+	}, {
+		"duration": 0.88495,
+		"start": 41.28972,
+		"confidence": 0.281
+	}, {
+		"duration": 0.88932,
+		"start": 42.17467,
+		"confidence": 0.346
+	}, {
+		"duration": 0.90498,
+		"start": 43.06399,
+		"confidence": 0.1
+	}, {
+		"duration": 0.88903,
+		"start": 43.96897,
+		"confidence": 0.076
+	}, {
+		"duration": 0.88098,
+		"start": 44.858,
+		"confidence": 0.098
+	}, {
+		"duration": 0.87527,
+		"start": 45.73898,
+		"confidence": 0.204
+	}, {
+		"duration": 0.87998,
+		"start": 46.61425,
+		"confidence": 0.354
+	}, {
+		"duration": 0.88314,
+		"start": 47.49422,
+		"confidence": 0.372
+	}, {
+		"duration": 0.87871,
+		"start": 48.37736,
+		"confidence": 0.157
+	}, {
+		"duration": 0.88443,
+		"start": 49.25607,
+		"confidence": 0.26
+	}, {
+		"duration": 0.88661,
+		"start": 50.1405,
+		"confidence": 0.413
+	}, {
+		"duration": 0.88796,
+		"start": 51.02711,
+		"confidence": 0.492
+	}, {
+		"duration": 0.89761,
+		"start": 51.91508,
+		"confidence": 0.494
+	}, {
+		"duration": 0.90554,
+		"start": 52.81269,
+		"confidence": 0.206
+	}, {
+		"duration": 0.9054,
+		"start": 53.71823,
+		"confidence": 0.165
+	}, {
+		"duration": 0.91789,
+		"start": 54.62363,
+		"confidence": 0.232
+	}, {
+		"duration": 0.90563,
+		"start": 55.54152,
+		"confidence": 0.202
+	}, {
+		"duration": 0.90842,
+		"start": 56.44715,
+		"confidence": 0.226
+	}, {
+		"duration": 0.92597,
+		"start": 57.35557,
+		"confidence": 0.126
+	}, {
+		"duration": 0.92454,
+		"start": 58.28154,
+		"confidence": 0.119
+	}, {
+		"duration": 0.92043,
+		"start": 59.20609,
+		"confidence": 0.19
+	}, {
+		"duration": 0.91473,
+		"start": 60.12652,
+		"confidence": 0.203
+	}, {
+		"duration": 0.89538,
+		"start": 61.04124,
+		"confidence": 0.292
+	}, {
+		"duration": 0.89684,
+		"start": 61.93663,
+		"confidence": 0.31
+	}, {
+		"duration": 0.896,
+		"start": 62.83347,
+		"confidence": 0.495
+	}, {
+		"duration": 0.88329,
+		"start": 63.72947,
+		"confidence": 0.265
+	}, {
+		"duration": 0.89296,
+		"start": 64.61276,
+		"confidence": 0.125
+	}, {
+		"duration": 0.87395,
+		"start": 65.50572,
+		"confidence": 0.191
+	}, {
+		"duration": 0.87247,
+		"start": 66.37966,
+		"confidence": 0.239
+	}, {
+		"duration": 0.88693,
+		"start": 67.25213,
+		"confidence": 0.137
+	}, {
+		"duration": 0.88783,
+		"start": 68.13906,
+		"confidence": 0.147
+	}, {
+		"duration": 0.88869,
+		"start": 69.02689,
+		"confidence": 0.24
+	}, {
+		"duration": 0.87996,
+		"start": 69.91558,
+		"confidence": 0.354
+	}, {
+		"duration": 0.8656,
+		"start": 70.79554,
+		"confidence": 0.241
+	}, {
+		"duration": 0.88626,
+		"start": 71.66114,
+		"confidence": 0.222
+	}, {
+		"duration": 0.88695,
+		"start": 72.54739,
+		"confidence": 0.184
+	}, {
+		"duration": 0.87881,
+		"start": 73.43434,
+		"confidence": 0.309
+	}, {
+		"duration": 0.87935,
+		"start": 74.31316,
+		"confidence": 0.321
+	}, {
+		"duration": 0.87749,
+		"start": 75.1925,
+		"confidence": 0.354
+	}, {
+		"duration": 0.88202,
+		"start": 76.06999,
+		"confidence": 0.449
+	}, {
+		"duration": 0.89284,
+		"start": 76.95201,
+		"confidence": 0.47
+	}, {
+		"duration": 0.88448,
+		"start": 77.84485,
+		"confidence": 0.313
+	}, {
+		"duration": 0.88083,
+		"start": 78.72934,
+		"confidence": 0.328
+	}, {
+		"duration": 0.88509,
+		"start": 79.61017,
+		"confidence": 0.359
+	}, {
+		"duration": 0.88377,
+		"start": 80.49526,
+		"confidence": 0.381
+	}, {
+		"duration": 0.88872,
+		"start": 81.37903,
+		"confidence": 0.339
+	}, {
+		"duration": 0.89598,
+		"start": 82.26775,
+		"confidence": 0.122
+	}, {
+		"duration": 0.87557,
+		"start": 83.16373,
+		"confidence": 0.229
+	}, {
+		"duration": 0.86796,
+		"start": 84.0393,
+		"confidence": 0.22
+	}, {
+		"duration": 0.87631,
+		"start": 84.90726,
+		"confidence": 0.312
+	}, {
+		"duration": 0.87607,
+		"start": 85.78357,
+		"confidence": 0.307
+	}, {
+		"duration": 0.87988,
+		"start": 86.65964,
+		"confidence": 0.233
+	}, {
+		"duration": 0.88775,
+		"start": 87.53952,
+		"confidence": 0.192
+	}, {
+		"duration": 0.88698,
+		"start": 88.42727,
+		"confidence": 0.246
+	}, {
+		"duration": 0.89335,
+		"start": 89.31425,
+		"confidence": 0.427
+	}, {
+		"duration": 0.90132,
+		"start": 90.20759,
+		"confidence": 0.29
+	}, {
+		"duration": 0.89743,
+		"start": 91.10892,
+		"confidence": 0.214
+	}, {
+		"duration": 0.88644,
+		"start": 92.00635,
+		"confidence": 0.275
+	}, {
+		"duration": 0.87313,
+		"start": 92.89278,
+		"confidence": 0.36
+	}, {
+		"duration": 0.87732,
+		"start": 93.76591,
+		"confidence": 0.328
+	}, {
+		"duration": 0.87761,
+		"start": 94.64323,
+		"confidence": 0.22
+	}, {
+		"duration": 0.8851,
+		"start": 95.52084,
+		"confidence": 0.171
+	}, {
+		"duration": 0.87433,
+		"start": 96.40595,
+		"confidence": 0.115
+	}, {
+		"duration": 0.87232,
+		"start": 97.28028,
+		"confidence": 0.201
+	}, {
+		"duration": 0.88294,
+		"start": 98.15259,
+		"confidence": 0.429
+	}, {
+		"duration": 0.90543,
+		"start": 99.03553,
+		"confidence": 0.126
+	}, {
+		"duration": 0.89375,
+		"start": 99.94097,
+		"confidence": 0.193
+	}, {
+		"duration": 0.88752,
+		"start": 100.83471,
+		"confidence": 0.405
+	}, {
+		"duration": 0.89075,
+		"start": 101.72223,
+		"confidence": 0.169
+	}, {
+		"duration": 0.88833,
+		"start": 102.61298,
+		"confidence": 0.05
+	}, {
+		"duration": 0.89003,
+		"start": 103.50131,
+		"confidence": 0.035
+	}, {
+		"duration": 0.89601,
+		"start": 104.39134,
+		"confidence": 0.045
+	}, {
+		"duration": 0.88054,
+		"start": 105.28735,
+		"confidence": 0.027
+	}, {
+		"duration": 0.85565,
+		"start": 106.16789,
+		"confidence": 0.011
+	}, {
+		"duration": 0.71705,
+		"start": 107.02354,
+		"confidence": 0.113
+	}],
+	"meta": {
+		"album": "",
+		"artist": "",
+		"seconds": 107,
+		"status_code": 0,
+		"detailed_status": "OK",
+		"title": "",
+		"filename": "filename.mp3",
+		"platform": "Linux",
+		"analyzer_version": "3.2.2",
+		"sample_rate": 22050,
+		"timestamp": 1411553327,
+		"genre": "",
+		"bitrate": 63,
+		"analysis_time": 1.84
+	},
+	"sections": [{
+		"confidence": 1.0,
+		"mode_confidence": 0.696,
+		"time_signature": 4,
+		"key_confidence": 0.538,
+		"tempo": 67.928,
+		"time_signature_confidence": 0.947,
+		"start": 0.0,
+		"tempo_confidence": 0.333,
+		"mode": 1,
+		"key": 11,
+		"duration": 18.77342,
+		"loudness": -27.559
+	}, {
+		"confidence": 0.267,
+		"mode_confidence": 0.638,
+		"time_signature": 4,
+		"key_confidence": 0.635,
+		"tempo": 64.104,
+		"time_signature_confidence": 0.643,
+		"start": 18.77342,
+		"tempo_confidence": 0.206,
+		"mode": 1,
+		"key": 6,
+		"duration": 18.01889,
+		"loudness": -27.91
+	}, {
+		"confidence": 0.026,
+		"mode_confidence": 0.555,
+		"time_signature": 4,
+		"key_confidence": 0.227,
+		"tempo": 67.495,
+		"time_signature_confidence": 1.0,
+		"start": 36.7923,
+		"tempo_confidence": 0.276,
+		"mode": 1,
+		"key": 11,
+		"duration": 16.92593,
+		"loudness": -30.712
+	}, {
+		"confidence": 0.23,
+		"mode_confidence": 0.382,
+		"time_signature": 4,
+		"key_confidence": 0.065,
+		"tempo": 67.097,
+		"time_signature_confidence": 1.0,
+		"start": 53.71823,
+		"tempo_confidence": 0.217,
+		"mode": 1,
+		"key": 11,
+		"duration": 16.19735,
+		"loudness": -34.405
+	}, {
+		"confidence": 0.086,
+		"mode_confidence": 0.403,
+		"time_signature": 4,
+		"key_confidence": 0.161,
+		"tempo": 68.132,
+		"time_signature_confidence": 1.0,
+		"start": 69.91558,
+		"tempo_confidence": 0.284,
+		"mode": 1,
+		"key": 11,
+		"duration": 30.02538,
+		"loudness": -32.189
+	}, {
+		"confidence": 0.656,
+		"mode_confidence": 0.0,
+		"time_signature": 4,
+		"key_confidence": 0.0,
+		"tempo": 67.573,
+		"time_signature_confidence": 1.0,
+		"start": 99.94097,
+		"tempo_confidence": 0.116,
+		"mode": 1,
+		"key": 4,
+		"duration": 7.79962,
+		"loudness": -27.249
+	}],
+	"tatums": [{
+		"duration": 0.6726,
+		"start": 0.7531,
+		"confidence": 0.799
+	}, {
+		"duration": 0.3363,
+		"start": 1.4257,
+		"confidence": 0.799
+	}, {
+		"duration": 0.63262,
+		"start": 1.76201,
+		"confidence": 0.151
+	}, {
+		"duration": 0.31631,
+		"start": 2.39463,
+		"confidence": 0.151
+	}, {
+		"duration": 0.61846,
+		"start": 2.71094,
+		"confidence": 0.213
+	}, {
+		"duration": 0.30923,
+		"start": 3.3294,
+		"confidence": 0.213
+	}, {
+		"duration": 0.61427,
+		"start": 3.63863,
+		"confidence": 0.302
+	}, {
+		"duration": 0.30713,
+		"start": 4.2529,
+		"confidence": 0.302
+	}, {
+		"duration": 0.61531,
+		"start": 4.56003,
+		"confidence": 0.315
+	}, {
+		"duration": 0.30766,
+		"start": 5.17534,
+		"confidence": 0.315
+	}, {
+		"duration": 0.60138,
+		"start": 5.483,
+		"confidence": 0.186
+	}, {
+		"duration": 0.30069,
+		"start": 6.08438,
+		"confidence": 0.186
+	}, {
+		"duration": 0.60323,
+		"start": 6.38508,
+		"confidence": 0.245
+	}, {
+		"duration": 0.30161,
+		"start": 6.9883,
+		"confidence": 0.245
+	}, {
+		"duration": 0.58567,
+		"start": 7.28992,
+		"confidence": 0.297
+	}, {
+		"duration": 0.29284,
+		"start": 7.87559,
+		"confidence": 0.297
+	}, {
+		"duration": 0.58461,
+		"start": 8.16843,
+		"confidence": 0.333
+	}, {
+		"duration": 0.29231,
+		"start": 8.75304,
+		"confidence": 0.333
+	}, {
+		"duration": 0.58914,
+		"start": 9.04535,
+		"confidence": 0.34
+	}, {
+		"duration": 0.29457,
+		"start": 9.63449,
+		"confidence": 0.34
+	}, {
+		"duration": 0.5906,
+		"start": 9.92906,
+		"confidence": 0.158
+	}, {
+		"duration": 0.2953,
+		"start": 10.51966,
+		"confidence": 0.158
+	}, {
+		"duration": 0.57698,
+		"start": 10.81496,
+		"confidence": 0.387
+	}, {
+		"duration": 0.28849,
+		"start": 11.39194,
+		"confidence": 0.387
+	}, {
+		"duration": 0.5761,
+		"start": 11.68043,
+		"confidence": 0.391
+	}, {
+		"duration": 0.28805,
+		"start": 12.25653,
+		"confidence": 0.391
+	}, {
+		"duration": 0.5788,
+		"start": 12.54459,
+		"confidence": 0.538
+	}, {
+		"duration": 0.2894,
+		"start": 13.12339,
+		"confidence": 0.538
+	}, {
+		"duration": 0.58395,
+		"start": 13.41279,
+		"confidence": 0.299
+	}, {
+		"duration": 0.29198,
+		"start": 13.99674,
+		"confidence": 0.299
+	}, {
+		"duration": 0.57992,
+		"start": 14.28872,
+		"confidence": 0.275
+	}, {
+		"duration": 0.28996,
+		"start": 14.86864,
+		"confidence": 0.275
+	}, {
+		"duration": 0.59431,
+		"start": 15.15861,
+		"confidence": 0.423
+	}, {
+		"duration": 0.29715,
+		"start": 15.75292,
+		"confidence": 0.423
+	}, {
+		"duration": 0.59744,
+		"start": 16.05007,
+		"confidence": 0.506
+	}, {
+		"duration": 0.29872,
+		"start": 16.64751,
+		"confidence": 0.506
+	}, {
+		"duration": 0.6017,
+		"start": 16.94622,
+		"confidence": 0.334
+	}, {
+		"duration": 0.30085,
+		"start": 17.54792,
+		"confidence": 0.334
+	}, {
+		"duration": 0.61643,
+		"start": 17.84877,
+		"confidence": 0.166
+	}, {
+		"duration": 0.30822,
+		"start": 18.4652,
+		"confidence": 0.166
+	}, {
+		"duration": 0.62422,
+		"start": 18.77342,
+		"confidence": 0.343
+	}, {
+		"duration": 0.31211,
+		"start": 19.39764,
+		"confidence": 0.343
+	}, {
+		"duration": 0.63759,
+		"start": 19.70975,
+		"confidence": 0.433
+	}, {
+		"duration": 0.3188,
+		"start": 20.34734,
+		"confidence": 0.433
+	}, {
+		"duration": 0.64912,
+		"start": 20.66614,
+		"confidence": 0.07
+	}, {
+		"duration": 0.32456,
+		"start": 21.31525,
+		"confidence": 0.07
+	}, {
+		"duration": 0.6359,
+		"start": 21.63981,
+		"confidence": 0.051
+	}, {
+		"duration": 0.31795,
+		"start": 22.27571,
+		"confidence": 0.051
+	}, {
+		"duration": 0.64402,
+		"start": 22.59366,
+		"confidence": 0.24
+	}, {
+		"duration": 0.32201,
+		"start": 23.23767,
+		"confidence": 0.24
+	}, {
+		"duration": 0.65491,
+		"start": 23.55968,
+		"confidence": 0.122
+	}, {
+		"duration": 0.32746,
+		"start": 24.21459,
+		"confidence": 0.122
+	}, {
+		"duration": 0.65589,
+		"start": 24.54205,
+		"confidence": 0.139
+	}, {
+		"duration": 0.32795,
+		"start": 25.19794,
+		"confidence": 0.139
+	}, {
+		"duration": 0.65519,
+		"start": 25.52589,
+		"confidence": 0.243
+	}, {
+		"duration": 0.32759,
+		"start": 26.18108,
+		"confidence": 0.243
+	}, {
+		"duration": 0.65494,
+		"start": 26.50867,
+		"confidence": 0.126
+	}, {
+		"duration": 0.32747,
+		"start": 27.16361,
+		"confidence": 0.126
+	}, {
+		"duration": 0.65406,
+		"start": 27.49108,
+		"confidence": 0.147
+	}, {
+		"duration": 0.32703,
+		"start": 28.14514,
+		"confidence": 0.147
+	}, {
+		"duration": 0.64921,
+		"start": 28.47217,
+		"confidence": 0.238
+	}, {
+		"duration": 0.32461,
+		"start": 29.12139,
+		"confidence": 0.238
+	}, {
+		"duration": 0.6456,
+		"start": 29.44599,
+		"confidence": 0.258
+	}, {
+		"duration": 0.3228,
+		"start": 30.0916,
+		"confidence": 0.258
+	}, {
+		"duration": 0.62695,
+		"start": 30.4144,
+		"confidence": 0.109
+	}, {
+		"duration": 0.31348,
+		"start": 31.04135,
+		"confidence": 0.109
+	}, {
+		"duration": 0.61679,
+		"start": 31.35483,
+		"confidence": 0.155
+	}, {
+		"duration": 0.30839,
+		"start": 31.97162,
+		"confidence": 0.155
+	}, {
+		"duration": 0.60659,
+		"start": 32.28001,
+		"confidence": 0.225
+	}, {
+		"duration": 0.30329,
+		"start": 32.8866,
+		"confidence": 0.225
+	}, {
+		"duration": 0.59915,
+		"start": 33.18989,
+		"confidence": 0.195
+	}, {
+		"duration": 0.29957,
+		"start": 33.78904,
+		"confidence": 0.195
+	}, {
+		"duration": 0.59423,
+		"start": 34.08861,
+		"confidence": 0.36
+	}, {
+		"duration": 0.29712,
+		"start": 34.68285,
+		"confidence": 0.36
+	}, {
+		"duration": 0.6075,
+		"start": 34.97996,
+		"confidence": 0.28
+	}, {
+		"duration": 0.30375,
+		"start": 35.58746,
+		"confidence": 0.28
+	}, {
+		"duration": 0.60072,
+		"start": 35.89122,
+		"confidence": 0.175
+	}, {
+		"duration": 0.30036,
+		"start": 36.49194,
+		"confidence": 0.175
+	}, {
+		"duration": 0.59729,
+		"start": 36.7923,
+		"confidence": 0.478
+	}, {
+		"duration": 0.29864,
+		"start": 37.38959,
+		"confidence": 0.478
+	}, {
+		"duration": 0.59996,
+		"start": 37.68823,
+		"confidence": 0.354
+	}, {
+		"duration": 0.29998,
+		"start": 38.28819,
+		"confidence": 0.354
+	}, {
+		"duration": 0.6043,
+		"start": 38.58817,
+		"confidence": 0.28
+	}, {
+		"duration": 0.30215,
+		"start": 39.19247,
+		"confidence": 0.28
+	}, {
+		"duration": 0.59956,
+		"start": 39.49462,
+		"confidence": 0.074
+	}, {
+		"duration": 0.29978,
+		"start": 40.09418,
+		"confidence": 0.074
+	}, {
+		"duration": 0.59717,
+		"start": 40.39396,
+		"confidence": 0.21
+	}, {
+		"duration": 0.29859,
+		"start": 40.99113,
+		"confidence": 0.21
+	}, {
+		"duration": 0.58997,
+		"start": 41.28972,
+		"confidence": 0.281
+	}, {
+		"duration": 0.29498,
+		"start": 41.87969,
+		"confidence": 0.281
+	}, {
+		"duration": 0.59288,
+		"start": 42.17467,
+		"confidence": 0.346
+	}, {
+		"duration": 0.29644,
+		"start": 42.76755,
+		"confidence": 0.346
+	}, {
+		"duration": 0.60332,
+		"start": 43.06399,
+		"confidence": 0.1
+	}, {
+		"duration": 0.30166,
+		"start": 43.66731,
+		"confidence": 0.1
+	}, {
+		"duration": 0.59269,
+		"start": 43.96897,
+		"confidence": 0.076
+	}, {
+		"duration": 0.29634,
+		"start": 44.56166,
+		"confidence": 0.076
+	}, {
+		"duration": 0.58732,
+		"start": 44.858,
+		"confidence": 0.098
+	}, {
+		"duration": 0.29366,
+		"start": 45.44532,
+		"confidence": 0.098
+	}, {
+		"duration": 0.58351,
+		"start": 45.73898,
+		"confidence": 0.204
+	}, {
+		"duration": 0.29176,
+		"start": 46.32249,
+		"confidence": 0.204
+	}, {
+		"duration": 0.58665,
+		"start": 46.61425,
+		"confidence": 0.354
+	}, {
+		"duration": 0.29333,
+		"start": 47.2009,
+		"confidence": 0.354
+	}, {
+		"duration": 0.58876,
+		"start": 47.49422,
+		"confidence": 0.372
+	}, {
+		"duration": 0.29438,
+		"start": 48.08298,
+		"confidence": 0.372
+	}, {
+		"duration": 0.58581,
+		"start": 48.37736,
+		"confidence": 0.157
+	}, {
+		"duration": 0.2929,
+		"start": 48.96317,
+		"confidence": 0.157
+	}, {
+		"duration": 0.58962,
+		"start": 49.25607,
+		"confidence": 0.26
+	}, {
+		"duration": 0.29481,
+		"start": 49.84569,
+		"confidence": 0.26
+	}, {
+		"duration": 0.59107,
+		"start": 50.1405,
+		"confidence": 0.413
+	}, {
+		"duration": 0.29554,
+		"start": 50.73157,
+		"confidence": 0.413
+	}, {
+		"duration": 0.59198,
+		"start": 51.02711,
+		"confidence": 0.492
+	}, {
+		"duration": 0.29599,
+		"start": 51.61909,
+		"confidence": 0.492
+	}, {
+		"duration": 0.59841,
+		"start": 51.91508,
+		"confidence": 0.494
+	}, {
+		"duration": 0.2992,
+		"start": 52.51348,
+		"confidence": 0.494
+	}, {
+		"duration": 0.60369,
+		"start": 52.81269,
+		"confidence": 0.206
+	}, {
+		"duration": 0.30185,
+		"start": 53.41638,
+		"confidence": 0.206
+	}, {
+		"duration": 0.6036,
+		"start": 53.71823,
+		"confidence": 0.165
+	}, {
+		"duration": 0.3018,
+		"start": 54.32183,
+		"confidence": 0.165
+	}, {
+		"duration": 0.61192,
+		"start": 54.62363,
+		"confidence": 0.232
+	}, {
+		"duration": 0.30596,
+		"start": 55.23556,
+		"confidence": 0.232
+	}, {
+		"duration": 0.60375,
+		"start": 55.54152,
+		"confidence": 0.202
+	}, {
+		"duration": 0.30188,
+		"start": 56.14527,
+		"confidence": 0.202
+	}, {
+		"duration": 0.60562,
+		"start": 56.44715,
+		"confidence": 0.226
+	}, {
+		"duration": 0.30281,
+		"start": 57.05277,
+		"confidence": 0.226
+	}, {
+		"duration": 0.61731,
+		"start": 57.35557,
+		"confidence": 0.126
+	}, {
+		"duration": 0.30866,
+		"start": 57.97289,
+		"confidence": 0.126
+	}, {
+		"duration": 0.61636,
+		"start": 58.28154,
+		"confidence": 0.119
+	}, {
+		"duration": 0.30818,
+		"start": 58.89791,
+		"confidence": 0.119
+	}, {
+		"duration": 0.61362,
+		"start": 59.20609,
+		"confidence": 0.19
+	}, {
+		"duration": 0.30681,
+		"start": 59.81971,
+		"confidence": 0.19
+	}, {
+		"duration": 0.60982,
+		"start": 60.12652,
+		"confidence": 0.203
+	}, {
+		"duration": 0.30491,
+		"start": 60.73634,
+		"confidence": 0.203
+	}, {
+		"duration": 0.59692,
+		"start": 61.04124,
+		"confidence": 0.292
+	}, {
+		"duration": 0.29846,
+		"start": 61.63817,
+		"confidence": 0.292
+	}, {
+		"duration": 0.5979,
+		"start": 61.93663,
+		"confidence": 0.31
+	}, {
+		"duration": 0.29895,
+		"start": 62.53452,
+		"confidence": 0.31
+	}, {
+		"duration": 0.59733,
+		"start": 62.83347,
+		"confidence": 0.495
+	}, {
+		"duration": 0.29867,
+		"start": 63.4308,
+		"confidence": 0.495
+	}, {
+		"duration": 0.58886,
+		"start": 63.72947,
+		"confidence": 0.265
+	}, {
+		"duration": 0.29443,
+		"start": 64.31833,
+		"confidence": 0.265
+	}, {
+		"duration": 0.5953,
+		"start": 64.61276,
+		"confidence": 0.125
+	}, {
+		"duration": 0.29765,
+		"start": 65.20807,
+		"confidence": 0.125
+	}, {
+		"duration": 0.58263,
+		"start": 65.50572,
+		"confidence": 0.191
+	}, {
+		"duration": 0.29132,
+		"start": 66.08835,
+		"confidence": 0.191
+	}, {
+		"duration": 0.58165,
+		"start": 66.37966,
+		"confidence": 0.239
+	}, {
+		"duration": 0.29082,
+		"start": 66.96131,
+		"confidence": 0.239
+	}, {
+		"duration": 0.59129,
+		"start": 67.25213,
+		"confidence": 0.137
+	}, {
+		"duration": 0.29564,
+		"start": 67.84342,
+		"confidence": 0.137
+	}, {
+		"duration": 0.59188,
+		"start": 68.13906,
+		"confidence": 0.147
+	}, {
+		"duration": 0.29594,
+		"start": 68.73095,
+		"confidence": 0.147
+	}, {
+		"duration": 0.59246,
+		"start": 69.02689,
+		"confidence": 0.24
+	}, {
+		"duration": 0.29623,
+		"start": 69.61935,
+		"confidence": 0.24
+	}, {
+		"duration": 0.58664,
+		"start": 69.91558,
+		"confidence": 0.354
+	}, {
+		"duration": 0.29332,
+		"start": 70.50222,
+		"confidence": 0.354
+	}, {
+		"duration": 0.57706,
+		"start": 70.79554,
+		"confidence": 0.241
+	}, {
+		"duration": 0.28853,
+		"start": 71.3726,
+		"confidence": 0.241
+	}, {
+		"duration": 0.59084,
+		"start": 71.66114,
+		"confidence": 0.222
+	}, {
+		"duration": 0.29542,
+		"start": 72.25197,
+		"confidence": 0.222
+	}, {
+		"duration": 0.5913,
+		"start": 72.54739,
+		"confidence": 0.184
+	}, {
+		"duration": 0.29565,
+		"start": 73.13869,
+		"confidence": 0.184
+	}, {
+		"duration": 0.58587,
+		"start": 73.43434,
+		"confidence": 0.309
+	}, {
+		"duration": 0.29294,
+		"start": 74.02022,
+		"confidence": 0.309
+	}, {
+		"duration": 0.58623,
+		"start": 74.31316,
+		"confidence": 0.321
+	}, {
+		"duration": 0.29312,
+		"start": 74.89939,
+		"confidence": 0.321
+	}, {
+		"duration": 0.585,
+		"start": 75.1925,
+		"confidence": 0.354
+	}, {
+		"duration": 0.2925,
+		"start": 75.7775,
+		"confidence": 0.354
+	}, {
+		"duration": 0.58801,
+		"start": 76.06999,
+		"confidence": 0.449
+	}, {
+		"duration": 0.29401,
+		"start": 76.65801,
+		"confidence": 0.449
+	}, {
+		"duration": 0.59523,
+		"start": 76.95201,
+		"confidence": 0.47
+	}, {
+		"duration": 0.29761,
+		"start": 77.54724,
+		"confidence": 0.47
+	}, {
+		"duration": 0.58966,
+		"start": 77.84485,
+		"confidence": 0.313
+	}, {
+		"duration": 0.29483,
+		"start": 78.43451,
+		"confidence": 0.313
+	}, {
+		"duration": 0.58722,
+		"start": 78.72934,
+		"confidence": 0.328
+	}, {
+		"duration": 0.29361,
+		"start": 79.31656,
+		"confidence": 0.328
+	}, {
+		"duration": 0.59006,
+		"start": 79.61017,
+		"confidence": 0.359
+	}, {
+		"duration": 0.29503,
+		"start": 80.20023,
+		"confidence": 0.359
+	}, {
+		"duration": 0.58918,
+		"start": 80.49526,
+		"confidence": 0.381
+	}, {
+		"duration": 0.29459,
+		"start": 81.08444,
+		"confidence": 0.381
+	}, {
+		"duration": 0.59248,
+		"start": 81.37903,
+		"confidence": 0.339
+	}, {
+		"duration": 0.29624,
+		"start": 81.97151,
+		"confidence": 0.339
+	}, {
+		"duration": 0.59732,
+		"start": 82.26775,
+		"confidence": 0.122
+	}, {
+		"duration": 0.29866,
+		"start": 82.86507,
+		"confidence": 0.122
+	}, {
+		"duration": 0.58371,
+		"start": 83.16373,
+		"confidence": 0.229
+	}, {
+		"duration": 0.29186,
+		"start": 83.74745,
+		"confidence": 0.229
+	}, {
+		"duration": 0.57864,
+		"start": 84.0393,
+		"confidence": 0.22
+	}, {
+		"duration": 0.28932,
+		"start": 84.61794,
+		"confidence": 0.22
+	}, {
+		"duration": 0.58421,
+		"start": 84.90726,
+		"confidence": 0.312
+	}, {
+		"duration": 0.2921,
+		"start": 85.49147,
+		"confidence": 0.312
+	}, {
+		"duration": 0.58405,
+		"start": 85.78357,
+		"confidence": 0.307
+	}, {
+		"duration": 0.29202,
+		"start": 86.36762,
+		"confidence": 0.307
+	}, {
+		"duration": 0.58659,
+		"start": 86.65964,
+		"confidence": 0.233
+	}, {
+		"duration": 0.29329,
+		"start": 87.24623,
+		"confidence": 0.233
+	}, {
+		"duration": 0.59183,
+		"start": 87.53952,
+		"confidence": 0.192
+	}, {
+		"duration": 0.29592,
+		"start": 88.13136,
+		"confidence": 0.192
+	}, {
+		"duration": 0.59132,
+		"start": 88.42727,
+		"confidence": 0.246
+	}, {
+		"duration": 0.29566,
+		"start": 89.01859,
+		"confidence": 0.246
+	}, {
+		"duration": 0.59556,
+		"start": 89.31425,
+		"confidence": 0.427
+	}, {
+		"duration": 0.29778,
+		"start": 89.90981,
+		"confidence": 0.427
+	}, {
+		"duration": 0.60088,
+		"start": 90.20759,
+		"confidence": 0.29
+	}, {
+		"duration": 0.30044,
+		"start": 90.80848,
+		"confidence": 0.29
+	}, {
+		"duration": 0.59829,
+		"start": 91.10892,
+		"confidence": 0.214
+	}, {
+		"duration": 0.29914,
+		"start": 91.7072,
+		"confidence": 0.214
+	}, {
+		"duration": 0.59096,
+		"start": 92.00635,
+		"confidence": 0.275
+	}, {
+		"duration": 0.29548,
+		"start": 92.5973,
+		"confidence": 0.275
+	}, {
+		"duration": 0.58209,
+		"start": 92.89278,
+		"confidence": 0.36
+	}, {
+		"duration": 0.29104,
+		"start": 93.47487,
+		"confidence": 0.36
+	}, {
+		"duration": 0.58488,
+		"start": 93.76591,
+		"confidence": 0.328
+	}, {
+		"duration": 0.29244,
+		"start": 94.35079,
+		"confidence": 0.328
+	}, {
+		"duration": 0.58507,
+		"start": 94.64323,
+		"confidence": 0.22
+	}, {
+		"duration": 0.29254,
+		"start": 95.22831,
+		"confidence": 0.22
+	}, {
+		"duration": 0.59007,
+		"start": 95.52084,
+		"confidence": 0.171
+	}, {
+		"duration": 0.29503,
+		"start": 96.11091,
+		"confidence": 0.171
+	}, {
+		"duration": 0.58289,
+		"start": 96.40595,
+		"confidence": 0.115
+	}, {
+		"duration": 0.29144,
+		"start": 96.98883,
+		"confidence": 0.115
+	}, {
+		"duration": 0.58154,
+		"start": 97.28028,
+		"confidence": 0.201
+	}, {
+		"duration": 0.29077,
+		"start": 97.86182,
+		"confidence": 0.201
+	}, {
+		"duration": 0.58863,
+		"start": 98.15259,
+		"confidence": 0.429
+	}, {
+		"duration": 0.29431,
+		"start": 98.74122,
+		"confidence": 0.429
+	}, {
+		"duration": 0.60362,
+		"start": 99.03553,
+		"confidence": 0.126
+	}, {
+		"duration": 0.30181,
+		"start": 99.63916,
+		"confidence": 0.126
+	}, {
+		"duration": 0.59583,
+		"start": 99.94097,
+		"confidence": 0.193
+	}, {
+		"duration": 0.29792,
+		"start": 100.5368,
+		"confidence": 0.193
+	}, {
+		"duration": 0.59168,
+		"start": 100.83471,
+		"confidence": 0.405
+	}, {
+		"duration": 0.29584,
+		"start": 101.42639,
+		"confidence": 0.405
+	}, {
+		"duration": 0.59383,
+		"start": 101.72223,
+		"confidence": 0.169
+	}, {
+		"duration": 0.29692,
+		"start": 102.31607,
+		"confidence": 0.169
+	}, {
+		"duration": 0.59222,
+		"start": 102.61298,
+		"confidence": 0.05
+	}, {
+		"duration": 0.29611,
+		"start": 103.2052,
+		"confidence": 0.05
+	}, {
+		"duration": 0.59335,
+		"start": 103.50131,
+		"confidence": 0.035
+	}, {
+		"duration": 0.29668,
+		"start": 104.09466,
+		"confidence": 0.035
+	}, {
+		"duration": 0.59734,
+		"start": 104.39134,
+		"confidence": 0.045
+	}, {
+		"duration": 0.29867,
+		"start": 104.98868,
+		"confidence": 0.045
+	}, {
+		"duration": 0.58702,
+		"start": 105.28735,
+		"confidence": 0.027
+	}, {
+		"duration": 0.29351,
+		"start": 105.87438,
+		"confidence": 0.027
+	}, {
+		"duration": 0.57043,
+		"start": 106.16789,
+		"confidence": 0.011
+	}, {
+		"duration": 0.28522,
+		"start": 106.73832,
+		"confidence": 0.011
+	}, {
+		"duration": 0.47804,
+		"start": 107.02354,
+		"confidence": 0.113
+	}, {
+		"duration": 0.23902,
+		"start": 107.50157,
+		"confidence": 0.113
+	}]
+}

@@ -1,0 +1,162 @@
+<h1 id="visualisation-et-transformation-de-données-audionumériques-dans-le-navigateur-web">Visualisation et transformation de données audionumériques dans le navigateur web</h1>
+<p>Samuel Goldszmidt - Victor Saiz (Ircam)<br />2e rencontres sur les bases de données et les ressources numériques<br />26 septembre 2014, Ircam</p>
+<h2 id="introduction">Introduction</h2>
+<p>Retour sur la présentation de 2013 &quot;Brahms, Sidney et Archiprod : des données communes et des bases différentes&quot;</p>
+<ul>
+<li>Des bases de données
+<ul>
+<li><a href="http://brahms.ircam.fr">Brahms</a> - Compositeurs / Œuvres</li>
+<li><a href="http://brahms.ircam.fr/sidney/">Sidney</a> - Documentation dispositif électronique des œuvres</li>
+<li><a href="http://medias.ircam.fr">Medias</a> - Archives audiovisuelles de l'Ircam</li>
+</ul></li>
+<li>Adaptées aux usages et contenus
+<ul>
+<li>ex. 1 Thésaurus pour les dispositifs électroniques</li>
+<li>ex. 2 Effectif détaillé adapté aux musiques contemporaines</li>
+<li>...</li>
+</ul></li>
+<li>Interopérabilités
+<ul>
+<li>entre machines API RESTful, OAI</li>
+<li>ou manuellement (intégration de contenu dans des systèmes tiers, ex. exports vidéos de <a href="http://medias.ircam.fr">Medias</a>)</li>
+</ul></li>
+<li>&quot;Expose&quot; des données numériques dans leur intégralité :
+<ul>
+<li>une biographie de compositeur</li>
+<li>un parcours de l'œuvre</li>
+<li>un enregistrement sonore</li>
+<li>une vidéo</li>
+<li>...</li>
+</ul></li>
+</ul>
+<h2 id="des-bases-de-données-numériques-à-la-manipulation-de-ces-données">Des bases de données numériques à la manipulation de ces données</h2>
+<p>Les possibles :</p>
+<ul>
+<li>&quot;Mashup&quot; (Applications composites) - Aggrégation de contenus intégraux</li>
+<li>et/ou Extraction de sous-ensemble, de parties de ces contenus<br /><!-- ex d'un texte que dont on va extraire un paragraphe, et ces manipulations on n'a pas d'outils en lignes pour les faires, --> ... mais des opérations souvent destructives. <!-- il s'agit d'outils destructifs, et dont on perd alors le lien avec le contenu original --></li>
+</ul>
+<h3 id="le-sous-ensemble-des-données-audionumériques-temporelles">Le sous-ensemble des données audionumériques temporelles</h3>
+<p>Comment appréhender un sous-ensemble de ces données numériques, celles temporelles, principalement audionumériques, et aller plus en avant dans leur représentation ?</p>
+<ul>
+<li>Visualiser un flux <!-- par rapport à l'entendre, lorsque la machine le décode sur la carte son --></li>
+<li>Visualiser des métadonnées <!-- pistes d'un cd, index, segment ...--></li>
+<li>Manipuler les métadonnées <!-- et l'adresser par des sous-ensemble --></li>
+<li>Manipuler un flux <!-- comme on pourrait manipuler un texte par exemple, de façon sonore ou par manipulation graphique qui ont des conséquences sur le rendu audio --></li>
+</ul>
+<p>On s'interesse à des flux audio / vidéo que l'on va manipuler côté client, ie. dans la navigateur web.</p>
+<h2 id="pourquoi-le-navigateur-web">Pourquoi le navigateur web ?</h2>
+<ul>
+<li>Le plus petit commun dénominateur de nos échanges sur Internet <!-- depuis nos appareils connectés, smartphone, tablet etc. --></li>
+<li>Outil de consultation, de partage de connaissance (depuis HTML5, support de l'audio et de la vidéo en natif <!-- même si problème de format -->)</li>
+<li>Outil d'édition, de travail sur les données et métadonnées, y compris d'expérimentation <!-- depuis GoogleDocs à ... --></li>
+<li>Les données sont disponibles a minima côté client <!-- lorsque l'on n'a pas accès à un serveur --></li>
+</ul>
+<h3 id="quelles-données-audionumériques-accessibles-pour-manipulation">Quelles données (audio)numériques accessibles pour manipulation ?</h3>
+<ul>
+<li>Des services <em>distants</em> : service web, API RESTful et autres (<a href="http://the.echonest.com/">The Echo Nest</a>, metadonnées sur la musique ...)</li>
+<li>Des calculs <em>en local</em> côté client <!-- ce qui ne signifie pas en mode déconnecté --> (<a href="http://webaudio.github.io/web-audio-api/">Web Audio API</a>, suite logique à HTML5) <!-- Ce que cela fournit : un accès au détail du contenu numérique (détail des échantillons), et donc toute la connaissance en traitement du signal disponible dans un navigateur respectueux des standards --></li>
+</ul>
+<p>Coexistence des deux fournisseurs de contenu :</p>
+<ul>
+<li>le serveur</li>
+<li>et/ou le client</li>
+</ul>
+<p>Donc les outils de visualisations doivent être adaptés à ces multiples usages combinés (notamment le cas de mashup) <!-- ex. de récupération de BPM depuis echo nest et d'affichage de ces données sur le fichier audio disponible côté client --></p>
+<h3 id="le-projet-de-recherche-technologique-wave-anr-contint-2012-2015">Le projet de recherche technologique <a href="http://wave.ircam.fr">WAVE</a> (ANR ContInt 2012-2015)</h3>
+<p>Des opérations d'annotation, de visualisation et de manipulation :</p>
+<ul>
+<li>explorées initialement dans le cadre du projet <a href="http://apm.ircam.fr/ecoutes_signees/">Ecoute Signées</a></li>
+<li>ont donné lieu à des prototypes et publications interactives</li>
+</ul>
+et aujourd'hui le développement d'une librairie d'outils et des transferts de technologies audionumériques vers le navigateur web dans le cadre de ce projet.
+<script type="text/javascript" src="./libs/d3.js"></script>
+<script type="text/javascript" src="./libs/timeline.js"></script>
+<link rel="stylesheet" type="text/css" href="./css/style.css">
+<script src="./libs/settings.js"></script>
+
+<script src="./libs/d3.js"></script>
+<script src="./libs/d3.chart.min.js"></script>
+<script src="./libs/lodash.underscore.js"></script>
+<script src="./libs/underscore.string.js"></script>
+<script src="./libs/rAF.js"></script>
+<script src="./libs/get-set.js"></script>
+<script src="./libs/backbone-c.rig.js"></script>
+<script src="./libs/bindings.js"></script>
+
+
+<script src="./libs/wave.utils.js"></script>
+<script src="./libs/areavis.js"></script>
+<script src="./libs/timeLine.js"></script>
+<script src="./libs/segment-vis.js"></script>
+<script src="./libs/segment-edit.js"></script>
+<script src="./libs/brush-vis.js"></script>
+<script src="./libs/breakpoint-edit.js"></script>
+<script src="./libs/zoomer.js"></script>
+<script src="./libs/waveform-vis.js"></script>
+
+
+<h2 id="exemple-de-visualisation-et-dédition-dans-différents-contextes">Exemple de visualisation et d'édition dans différents contextes</h2>
+<!-- Et pour la mise à disposition des résultats de recherche (directement accessible, standard, un navigateur suffit)
+Pas de changement d'outil entre ces deux mondes. -->
+
+<h3 id="telemeta-open-web-audio-platform">Telemeta, open web audio platform</h3>
+<p>Visualsation de données issues d'une analyse <code>aubio onset</code> (détection d'attaques avec les algorithmes <code>aubio</code>) depuis le framework <code>TimeSide</code>.</p>
+<p>Les donnés sont analysées en python et importées dans le navigateur pour être représentées par les outils de visualisation de WAVE.</p>
+<div class="demo">
+  <div class="paris-son"></div>
+</div>
+
+<script type="text/javascript" src="./parisson/data.js"></script>
+<script type="text/javascript" src="./parisson/app.js"></script>
+<h3 id="mubu-conteneur-de-données-sonores-et-mouvement">Mubu, conteneur de données sonores et mouvement</h3>
+<p>Visualisation de données de segmentation issues des analyses des objets <code>PIPO</code> en <code>Max/MSP</code> (Environnement visuel de dévelopement audionumérique sur <em>desktop</em>).</p>
+<p>Les donnés sont analysées en <code>Max/MSP</code> et importées dans le navigateur pour être représentées par les outils de visualisation de WAVE.</p>
+<div class="demo">
+  <div class="soom-mubu"></div>
+  <div class="timeline-mubu"></div>
+</div>
+
+<script src="./mubu/model.js"></script>
+<script src="./mubu/app.js"></script><style type="text/css">
+#bachoteque-vis{
+  margin-bottom:2em;
+}
+</style>
+
+
+<h3 id="bachothèque-prototype-de-comparaison-dinterprétation">Bachothèque, prototype de comparaison d'interprétation</h3>
+<p>Différentes visualisation d'enregistrements sonores du premier prélude du <em>Clavier bien tempéré</em> de J-S. Bach.</p>
+<p>Différentes visualisations de données d'analyse d'intensité et durée de chacune des notes de l'interprétation de l'œuvre par Frédéric Desenclos.</p>
+<p>Les donnés sont extraites d'un algorithme d'alignement entre fichier MIDI et fichier audio et importées dans le navigateur par les outils de visualisation de WAVE.</p>
+<div class="demo">
+  <div id="bachoteque-vis"></div>
+</div>
+
+<audio class="audio" id="bachoteque-player" src="./snd/desenclos.wav" controls> <track kind="metadata" name="segments" src="./bachoteque/desenclos.vtt" default></track> </audio>
+<script src="./bachoteque/desenclos.js"></script>
+<script src="./bachoteque/model.js"></script>
+<script src="./bachoteque/timeChart.js"></script>
+<script src="./bachoteque/segmentv.js"></script>
+<script src="./bachoteque/cursor.js"></script>
+<script src="./bachoteque/dots.js"></script>
+<script src="./bachoteque/app.js"></script>
+<h3 id="exemple-dédition-de-données">Exemple d'édition de données</h3>
+<link rel="stylesheet" type="text/css" href="./editing/style.css">
+<p>Démonstrateur d'opérations primitives des outils de la librairie WAVE.</p>
+<!-- ajouter un deuxième exemple -->
+
+<div class="demo">
+  <div class="soom-editing"></div>
+  <div class="timeline-editing"></div>
+</div>
+
+<p>Des points peuvent <a class="keep-selection delete" name="delete">être éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une <code>API</code> javascript.</p>
+<script src="./editing/app.js"></script>
+<h2 id="conclusion">Conclusion</h2>
+<ul>
+<li>Librairie WAVE sur GitHub <a href="https://github.com/Ircam-RnD">Ircam-RnD</a></li>
+<li>Performance du navigateur qui rendent possible ces manipulations</li>
+<li><p>Des cas d'usages nouveaux ?</p></li>
+<li><p>Plus généralement, comment on organiser la sauvegarde des &quot;Mashup&quot; ?</p></li>
+<li><p>Pour en savoir plus sur l'aspect technique, Web Audio Conference - http://wac.ircam.fr, 26/27 Janvier 2015 à l'Ircam.</p></li>
+</ul>

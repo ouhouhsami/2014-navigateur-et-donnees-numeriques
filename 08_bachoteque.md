@@ -5,7 +5,7 @@
 </style>
 
 
-### Bachothèque, prototype de comparaison d'interprétation
+#### Bachothèque, prototype de comparaison d'interprétation
 
 Différentes visualisation d'enregistrements sonores du premier prélude du _Clavier bien tempéré_ de J-S. Bach.
 

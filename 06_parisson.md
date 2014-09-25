@@ -1,4 +1,4 @@
-### Telemeta, open web audio platform
+#### Telemeta, open web audio platform
 
 Visualsation de données issues d'une analyse `aubio onset` (détection d'attaques avec les algorithmes `aubio`) depuis le framework `TimeSide`.
 

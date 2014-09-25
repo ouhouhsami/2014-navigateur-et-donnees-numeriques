@@ -1,4 +1,4 @@
-### Mubu, conteneur de données sonores et mouvement
+#### Mubu, conteneur de données sonores et mouvement
 
 Visualisation de données de segmentation issues des analyses des objets `PIPO` en `Max/MSP` (Environnement visuel de dévelopement audionumérique sur _desktop_).
 

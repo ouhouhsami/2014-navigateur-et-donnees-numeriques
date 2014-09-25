@@ -99,7 +99,8 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 <!-- Et pour la mise à disposition des résultats de recherche (directement accessible, standard, un navigateur suffit)
 Pas de changement d'outil entre ces deux mondes. -->
 
-<h3 id="telemeta-open-web-audio-platform">Telemeta, open web audio platform</h3>
+<h3 id="itégration">Itégration</h3>
+<h4 id="telemeta-open-web-audio-platform">Telemeta, open web audio platform</h4>
 <p>Visualsation de données issues d'une analyse <code>aubio onset</code> (détection d'attaques avec les algorithmes <code>aubio</code>) depuis le framework <code>TimeSide</code>.</p>
 <p>Les donnés sont analysées en python et importées dans le navigateur pour être représentées par les outils de visualisation de WAVE.</p>
 <div class="demo">
@@ -108,7 +109,7 @@ Pas de changement d'outil entre ces deux mondes. -->
 
 <script type="text/javascript" src="./parisson/data.js"></script>
 <script type="text/javascript" src="./parisson/app.js"></script>
-<h3 id="mubu-conteneur-de-données-sonores-et-mouvement">Mubu, conteneur de données sonores et mouvement</h3>
+<h4 id="mubu-conteneur-de-données-sonores-et-mouvement">Mubu, conteneur de données sonores et mouvement</h4>
 <p>Visualisation de données de segmentation issues des analyses des objets <code>PIPO</code> en <code>Max/MSP</code> (Environnement visuel de dévelopement audionumérique sur <em>desktop</em>).</p>
 <p>Les donnés sont analysées en <code>Max/MSP</code> et importées dans le navigateur pour être représentées par les outils de visualisation de WAVE.</p>
 <div class="demo">
@@ -124,7 +125,7 @@ Pas de changement d'outil entre ces deux mondes. -->
 </style>
 
 
-<h3 id="bachothèque-prototype-de-comparaison-dinterprétation">Bachothèque, prototype de comparaison d'interprétation</h3>
+<h4 id="bachothèque-prototype-de-comparaison-dinterprétation">Bachothèque, prototype de comparaison d'interprétation</h4>
 <p>Différentes visualisation d'enregistrements sonores du premier prélude du <em>Clavier bien tempéré</em> de J-S. Bach.</p>
 <p>Différentes visualisations de données d'analyse d'intensité et durée de chacune des notes de l'interprétation de l'œuvre par Frédéric Desenclos.</p>
 <p>Les donnés sont extraites d'un algorithme d'alignement entre fichier MIDI et fichier audio et importées dans le navigateur par les outils de visualisation de WAVE.</p>
@@ -140,18 +141,22 @@ Pas de changement d'outil entre ces deux mondes. -->
 <script src="./bachoteque/cursor.js"></script>
 <script src="./bachoteque/dots.js"></script>
 <script src="./bachoteque/app.js"></script>
-<h3 id="exemple-dédition-de-données">Exemple d'édition de données</h3>
+<h3 id="la-wave-lib">La WAVE lib</h3>
+<h4 id="exemple-dédition-de-données">Exemple d'édition de données</h4>
 <link rel="stylesheet" type="text/css" href="./editing/style.css">
 <p>Démonstrateur d'opérations primitives des outils de la librairie WAVE.</p>
 <!-- ajouter un deuxième exemple -->
 
 <div class="demo">
-  <div class="soom-editing"></div>
   <div class="timeline-editing"></div>
+  
+<br>
+<div class="timeline-editing-sg"></div>
 </div>
 
 <p>Des points peuvent <a class="keep-selection delete" name="delete">être éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une <code>API</code> javascript.</p>
 <script src="./editing/app.js"></script>
+<script src="./editing/segsapp.js"></script>
 <h2 id="conclusion">Conclusion</h2>
 <ul>
 <li>Librairie WAVE sur GitHub <a href="https://github.com/Ircam-RnD">Ircam-RnD</a></li>

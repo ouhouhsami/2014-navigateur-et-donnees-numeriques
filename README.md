@@ -110,7 +110,9 @@ et aujourd'hui le développement d'une librairie d'outils et des transferts de t
 <!-- Et pour la mise à disposition des résultats de recherche (directement accessible, standard, un navigateur suffit)
 Pas de changement d'outil entre ces deux mondes. -->
 
-### Telemeta, open web audio platform
+### Itégration
+
+#### Telemeta, open web audio platform
 
 Visualsation de données issues d'une analyse `aubio onset` (détection d'attaques avec les algorithmes `aubio`) depuis le framework `TimeSide`.
 
@@ -121,7 +123,7 @@ Les donnés sont analysées en python et importées dans le navigateur pour êtr
 </div>
 
 <script type="text/javascript" src="./parisson/data.js"></script>
-<script type="text/javascript" src="./parisson/app.js"></script>### Mubu, conteneur de données sonores et mouvement
+<script type="text/javascript" src="./parisson/app.js"></script>#### Mubu, conteneur de données sonores et mouvement
 
 Visualisation de données de segmentation issues des analyses des objets `PIPO` en `Max/MSP` (Environnement visuel de dévelopement audionumérique sur _desktop_).
 
@@ -140,7 +142,7 @@ Les donnés sont analysées en `Max/MSP` et importées dans le navigateur pour �
 </style>
 
 
-### Bachothèque, prototype de comparaison d'interprétation
+#### Bachothèque, prototype de comparaison d'interprétation
 
 Différentes visualisation d'enregistrements sonores du premier prélude du _Clavier bien tempéré_ de J-S. Bach.
 
@@ -162,7 +164,9 @@ Les donnés sont extraites d'un algorithme d'alignement entre fichier MIDI et fi
 <script src="./bachoteque/segmentv.js"></script>
 <script src="./bachoteque/cursor.js"></script>
 <script src="./bachoteque/dots.js"></script>
-<script src="./bachoteque/app.js"></script>### Exemple d'édition de données
+<script src="./bachoteque/app.js"></script>### La WAVE lib
+
+#### Exemple d'édition de données
 
 <link rel="stylesheet" type="text/css" href="./editing/style.css">
 
@@ -171,13 +175,15 @@ Démonstrateur d'opérations primitives des outils de la librairie WAVE.
 <!-- ajouter un deuxième exemple -->
 
 <div class="demo">
-  <div class="soom-editing"></div>
   <div class="timeline-editing"></div>
+  <br>
+  <div class="timeline-editing-sg"></div>
 </div>
 
 Des points peuvent <a class="keep-selection delete" name="delete">être éliminés</a>.<br> et/ou <a class="keep-selection add" name="add">ajoutés</a> facilement à travers une `API` javascript.
 
 <script src="./editing/app.js"></script>
+<script src="./editing/segsapp.js"></script>
 ## Conclusion
 
 * Librairie WAVE sur GitHub [Ircam-RnD](https://github.com/Ircam-RnD)

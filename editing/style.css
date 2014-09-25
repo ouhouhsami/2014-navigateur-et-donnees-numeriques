@@ -70,3 +70,12 @@ a{
 a:hover {
   cursor:pointer; 
 }
+
+.selected rect{
+  fill-opacity: 1;
+}
+
+.timeline-editing-sg, .timeline-editing{
+  background-color: #eee;
+  border: 1px solid #999;
+}
